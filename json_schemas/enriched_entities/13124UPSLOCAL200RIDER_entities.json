@@ -1,0 +1,311 @@
+{
+  "document_id": "0c52a6af5d7ad010",
+  "source_file": "13124UPSLOCAL200RIDER.pdf",
+  "document_type": "Rider",
+  "title": "General Teamsters",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": null,
+    "geographic_region": "Central Region"
+  },
+  "effective_date": "August 1, 2018",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 3652,
+  "page_count": 6,
+  "word_count": 757,
+  "headers": [
+    {
+      "text": "General Teamsters",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Article 3: Article 3",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Seniority is the right of preference with reference to",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 8: In addition to Article 3, Section 8, of the Central Region",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 12: Article 3, Section 12, paragraph 2, shall apply on a",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 17: On January 5 of each year all full-time jobs will be",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 14: Article 14",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 16: Article 16",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 41: Article 41",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 42: Article 42",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Section 1: This Agreement shall be in full force and effect from",
+      "page": 6,
+      "level": 3
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "3.1",
+      "parent_article": "3",
+      "title": "Seniority is the right of preference with reference to",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 63
+    },
+    {
+      "section_id": "3.8",
+      "parent_article": "3",
+      "title": "In addition to Article 3, Section 8, of the Central Region",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 96
+    },
+    {
+      "section_id": "3.12",
+      "parent_article": "3",
+      "title": "Article 3, Section 12, paragraph 2, shall apply on a",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 3
+    },
+    {
+      "section_id": "3.17",
+      "parent_article": "3",
+      "title": "On January 5 of each year all full-time jobs will be",
+      "page_start": 4,
+      "page_end": 6,
+      "word_count": 380
+    },
+    {
+      "section_id": "42.1",
+      "parent_article": "42",
+      "title": "This Agreement shall be in full force and effect from",
+      "page_start": 6,
+      "page_end": null,
+      "word_count": 48
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "3",
+      "title": "Article 3",
+      "page_start": 4,
+      "page_end": 5,
+      "section_count": 4,
+      "word_count": 212
+    },
+    {
+      "article_number": "14",
+      "title": "Article 14",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 122
+    },
+    {
+      "article_number": "16",
+      "title": "Article 16",
+      "page_start": 5,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 62
+    },
+    {
+      "article_number": "41",
+      "title": "Article 41",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 146
+    },
+    {
+      "article_number": "42",
+      "title": "Article 42",
+      "page_start": 6,
+      "page_end": null,
+      "section_count": 1,
+      "word_count": 50
+    }
+  ],
+  "key_topics": [
+    "wages",
+    "health_and_welfare",
+    "pension",
+    "seniority",
+    "vacations",
+    "job_classifications",
+    "supplemental_work",
+    "full_time_employees"
+  ],
+  "wage_parameters": [
+    {
+      "type": "hourly",
+      "value": 42.72,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 43.47,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.22,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.22,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 47.47,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 41.38,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 42.13,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 42.88,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 43.88,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.13,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "time_parameters": [],
+  "benefit_parameters": [],
+  "cross_references": [],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:20.157380+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  },
+  "enrichment_metadata": {
+    "enriched_at": "2026-04-08T23:31:24Z",
+    "enricher": "enrich_entities.py",
+    "sigma_used": 3,
+    "quality_filter": {
+      "extraction_method": "pypdf-tier0",
+      "min_words_per_page": 30,
+      "min_articles_plus_sections": 1
+    }
+  },
+  "wage_value_stats": {
+    "n": 10,
+    "mean": 43.95,
+    "stdev": 1.875,
+    "variance": 3.5154,
+    "range_low": 38.3251,
+    "range_high": 49.5749,
+    "sigma_used": 3,
+    "currency": "USD",
+    "unit": "hour"
+  }
+}

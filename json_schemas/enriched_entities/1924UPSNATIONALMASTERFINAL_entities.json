@@ -1,0 +1,2902 @@
+{
+  "document_id": "24a9c4769c413e8e",
+  "source_file": "1924UPSNATIONALMASTERFINAL.pdf",
+  "document_type": "National Master Agreement",
+  "title": "NATIONAL MASTER",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": null,
+    "geographic_region": null
+  },
+  "effective_date": "August 1, 2023",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 1826,
+  "page_count": 217,
+  "word_count": 65335,
+  "headers": [
+    {
+      "text": "NATIONAL MASTER",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Article 1: PARTIES TO THE AGREEMENT",
+      "page": 11,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Operations Covered",
+      "page": 11,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Employees Covered",
+      "page": 12,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Transfer of Company Title or Interest",
+      "page": 12,
+      "level": 3
+    },
+    {
+      "text": "Section 4: The Employer agrees that it will be a violation of this Section if it,",
+      "page": 13,
+      "level": 3
+    },
+    {
+      "text": "Article 2: SCOPE OF THE AGREEMENT",
+      "page": 14,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Single Bargaining Unit",
+      "page": 14,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Riders",
+      "page": 14,
+      "level": 3
+    },
+    {
+      "text": "Article 3: RECOGNITION, UNION SHOP",
+      "page": 15,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Recognition",
+      "page": 15,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Union Shop and Dues",
+      "page": 16,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Dues Checkoff and Joint Dues Committee",
+      "page": 17,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Work Assignments",
+      "page": 20,
+      "level": 3
+    },
+    {
+      "text": "Section 5: The term “Local Union” as used herein refers to the IBT Local",
+      "page": 20,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Employees shall have the option of participating in the Employer’s",
+      "page": 20,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Supervisors Working",
+      "page": 20,
+      "level": 3
+    },
+    {
+      "text": "Article 4: STEWARDS",
+      "page": 22,
+      "level": 2
+    },
+    {
+      "text": "Article 5: SANITARY CONDITIONS",
+      "page": 25,
+      "level": 2
+    },
+    {
+      "text": "Article 6: Article 6",
+      "page": 26,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Extra Contract Agreements",
+      "page": 26,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Workweek Reduction",
+      "page": 26,
+      "level": 3
+    },
+    {
+      "text": "Section 3: New Equipment",
+      "page": 27,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Technological Change",
+      "page": 27,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Hourly Training",
+      "page": 29,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Technology and Discipline",
+      "page": 30,
+      "level": 3
+    },
+    {
+      "text": "Article 7: LOCAL AND AREA",
+      "page": 32,
+      "level": 2
+    },
+    {
+      "text": "Article 8: NATIONAL",
+      "page": 33,
+      "level": 2
+    },
+    {
+      "text": "Section 1: All grievances and/or questions of interpretation arising under the",
+      "page": 33,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Work Stoppages",
+      "page": 34,
+      "level": 3
+    },
+    {
+      "text": "Section 3: The Union and Employer may under this section review and re-",
+      "page": 34,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Where the National Grievance Committee fails to reach a majority",
+      "page": 36,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Any grievance that does not raise an issue of interpretation of a",
+      "page": 37,
+      "level": 3
+    },
+    {
+      "text": "Section 6: The arbitrator shall have the authority to apply the provisions of",
+      "page": 37,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Deadlocked cases referred from the National Grievance Committee",
+      "page": 38,
+      "level": 3
+    },
+    {
+      "text": "Article 9: PROTECTION OF RIGHTS",
+      "page": 40,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Picket Line",
+      "page": 40,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Struck Goods",
+      "page": 40,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Subject to the appropriate subcontracting provisions of this Agree-",
+      "page": 40,
+      "level": 3
+    },
+    {
+      "text": "Section 4: The layover provisions of the applicable Supplemental Agreement,",
+      "page": 41,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Grievances",
+      "page": 41,
+      "level": 3
+    },
+    {
+      "text": "Article 10: LOSS AND DAMAGE",
+      "page": 41,
+      "level": 2
+    },
+    {
+      "text": "Section 1: No employee shall make any reimbursement or have monies de-",
+      "page": 41,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Employees handling money shall account for and remit the same to",
+      "page": 42,
+      "level": 3
+    },
+    {
+      "text": "Section 3: The Employer shall reimburse employees for loss of personal mon-",
+      "page": 44,
+      "level": 3
+    },
+    {
+      "text": "Article 11: WEEKEND WORK SCHEDULES",
+      "page": 45,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Process of Reclassifying",
+      "page": 45,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Recognizing that the Employer currently only utilizes",
+      "page": 46,
+      "level": 3
+    },
+    {
+      "text": "Article 12: POLYGRAPH/TIMECLOCKS",
+      "page": 46,
+      "level": 2
+    },
+    {
+      "text": "Article 13: PASSENGERS",
+      "page": 47,
+      "level": 2
+    },
+    {
+      "text": "Article 14: COMPENSATION CLAIMS",
+      "page": 48,
+      "level": 2
+    },
+    {
+      "text": "Section 1: When an injury is reported the reference number will be given to",
+      "page": 48,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Temporary Alternate Work",
+      "page": 49,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Permanently Disabled Employees",
+      "page": 51,
+      "level": 3
+    },
+    {
+      "text": "Article 15: MILITARY CLAUSE",
+      "page": 52,
+      "level": 2
+    },
+    {
+      "text": "Section 1: USERRA Rights",
+      "page": 52,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Vacation Restoration",
+      "page": 53,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Notification of Leave",
+      "page": 54,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Spousal Transfer Rights",
+      "page": 54,
+      "level": 3
+    },
+    {
+      "text": "Article 16: LEAVE OF ABSENCE",
+      "page": 55,
+      "level": 2
+    },
+    {
+      "text": "Section 1: The Employer agrees to grant the necessary time off, without dis-",
+      "page": 55,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Any employee desiring leave of absence from employment shall",
+      "page": 55,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Loss of License",
+      "page": 56,
+      "level": 3
+    },
+    {
+      "text": "Section 4: 11 shall not be applicable to a driver who completes a reha-",
+      "page": 58,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Rehabilitation Program—",
+      "page": 59,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Family and Medical Leave Act (FMLA)",
+      "page": 61,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Disability",
+      "page": 62,
+      "level": 3
+    },
+    {
+      "text": "Article 17: PAID FOR TIME",
+      "page": 62,
+      "level": 2
+    },
+    {
+      "text": "Article 18: SAFETY AND HEALTH",
+      "page": 65,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Employees’ Rights—",
+      "page": 66,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Out of Service Equipment and",
+      "page": 67,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Accidents and Reports",
+      "page": 68,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Seats",
+      "page": 70,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Sun Visors",
+      "page": 70,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Building Heat",
+      "page": 70,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Trailer Configuration",
+      "page": 71,
+      "level": 3
+    },
+    {
+      "text": "Section 8: Radios",
+      "page": 71,
+      "level": 3
+    },
+    {
+      "text": "Section 9: Tires",
+      "page": 72,
+      "level": 3
+    },
+    {
+      "text": "Section 10: Shocks",
+      "page": 72,
+      "level": 3
+    },
+    {
+      "text": "Section 11: Mirrors",
+      "page": 73,
+      "level": 3
+    },
+    {
+      "text": "Section 12: Dollies",
+      "page": 73,
+      "level": 3
+    },
+    {
+      "text": "Section 13: Exhaust System",
+      "page": 73,
+      "level": 3
+    },
+    {
+      "text": "Section 14: Package Cars And Other Vehicles",
+      "page": 73,
+      "level": 3
+    },
+    {
+      "text": "Section 15: Heaters and Defrosters",
+      "page": 76,
+      "level": 3
+    },
+    {
+      "text": "Section 16: Noise Abatement",
+      "page": 76,
+      "level": 3
+    },
+    {
+      "text": "Section 17: Vehicle Integrity",
+      "page": 76,
+      "level": 3
+    },
+    {
+      "text": "Section 18: Vehicle and Personal Safety Equipment",
+      "page": 76,
+      "level": 3
+    },
+    {
+      "text": "Section 19: Qualification on Equipment",
+      "page": 77,
+      "level": 3
+    },
+    {
+      "text": "Section 20: National UPS/IBT",
+      "page": 77,
+      "level": 3
+    },
+    {
+      "text": "Section 21: Hazardous Materials Handling Program",
+      "page": 81,
+      "level": 3
+    },
+    {
+      "text": "Section 22: Incompatible Package Handling",
+      "page": 83,
+      "level": 3
+    },
+    {
+      "text": "Section 23: Union Liability",
+      "page": 83,
+      "level": 3
+    },
+    {
+      "text": "Section 24: Egress",
+      "page": 83,
+      "level": 3
+    },
+    {
+      "text": "Section 25: Building Security",
+      "page": 83,
+      "level": 3
+    },
+    {
+      "text": "Section 26: Recording Devices",
+      "page": 84,
+      "level": 3
+    },
+    {
+      "text": "Section 27: Heat-related Injury and Illness Prevention",
+      "page": 84,
+      "level": 3
+    },
+    {
+      "text": "Article 19: POSTING",
+      "page": 85,
+      "level": 2
+    },
+    {
+      "text": "Article 20: EXAMINATION AND",
+      "page": 86,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Required Examination",
+      "page": 86,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Return to Work Examination",
+      "page": 86,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Third Doctor Procedure",
+      "page": 86,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Disqualified Driver—Alternative Work",
+      "page": 87,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Identification",
+      "page": 87,
+      "level": 3
+    },
+    {
+      "text": "Article 21: UNION ACTIVITY",
+      "page": 88,
+      "level": 2
+    },
+    {
+      "text": "Article 22: FULL-TIME COMBINATION AND",
+      "page": 88,
+      "level": 2
+    },
+    {
+      "text": "Section 1: No part-time employee shall drive except:",
+      "page": 88,
+      "level": 3
+    },
+    {
+      "text": "Section 2: The number of permanent full-time inside jobs in each Local Union",
+      "page": 88,
+      "level": 3
+    },
+    {
+      "text": "Section 3: The parties agree that providing part-time employees the opportunity",
+      "page": 89,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Part-time\temployees\tshall\tbe\tgiven\tthe\topportunity\tto\tfill\tfull-time",
+      "page": 89,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Part-Time Employee Transfer",
+      "page": 92,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Benefit Entitlements",
+      "page": 93,
+      "level": 3
+    },
+    {
+      "text": "Section 8: Part-Time UPS Cartage Services, Inc. (CSI)",
+      "page": 93,
+      "level": 3
+    },
+    {
+      "text": "Article 23: SEPARATION OF EMPLOYMENT",
+      "page": 93,
+      "level": 2
+    },
+    {
+      "text": "Article 24: INSPECTION PRIVILEGES",
+      "page": 93,
+      "level": 2
+    },
+    {
+      "text": "Article 25: SEPARABILITY AND SAVINGS",
+      "page": 94,
+      "level": 2
+    },
+    {
+      "text": "Article 26: COMPETITION",
+      "page": 94,
+      "level": 2
+    },
+    {
+      "text": "Section 1: The Union recognizes that the Employer is in direct competition",
+      "page": 94,
+      "level": 3
+    },
+    {
+      "text": "Section 2: A Joint UPS/IBT Competition Committee shall be created with an",
+      "page": 99,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Notwithstanding any other provision of the Agreement or any Sup-",
+      "page": 99,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Surepost",
+      "page": 100,
+      "level": 3
+    },
+    {
+      "text": "Section 5: DOT Hours of Service",
+      "page": 102,
+      "level": 3
+    },
+    {
+      "text": "Article 27: EMERGENCY REOPENING",
+      "page": 102,
+      "level": 2
+    },
+    {
+      "text": "Article 28: SYMPATHETIC ACTION",
+      "page": 103,
+      "level": 2
+    },
+    {
+      "text": "Article 29: Article 29",
+      "page": 103,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Jury Duty",
+      "page": 103,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Funeral Leave",
+      "page": 105,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Tax Deferred Savings Plan 401(k)",
+      "page": 106,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Martin Luther King Jr. Holiday",
+      "page": 106,
+      "level": 3
+    },
+    {
+      "text": "Article 30: JURISDICTIONAL DISPUTES",
+      "page": 106,
+      "level": 2
+    },
+    {
+      "text": "Article 31: GARNISHMENTS",
+      "page": 107,
+      "level": 2
+    },
+    {
+      "text": "Article 32: SUBCONTRACTING",
+      "page": 108,
+      "level": 2
+    },
+    {
+      "text": "Article 33: COST-OF-LIVING (COLA)",
+      "page": 108,
+      "level": 2
+    },
+    {
+      "text": "Article 34: HEALTH & WELFARE",
+      "page": 110,
+      "level": 2
+    },
+    {
+      "text": "Section 1: (a)(i) Except as set forth in this Section 1(a), Health & Welfare and/",
+      "page": 110,
+      "level": 3
+    },
+    {
+      "text": "Section 2: TeamCare",
+      "page": 122,
+      "level": 3
+    },
+    {
+      "text": "Section 3: CSI Health and Pension Coverage",
+      "page": 123,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Re-allocations of Contributions/Wages",
+      "page": 123,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Substitute Health Plan",
+      "page": 124,
+      "level": 3
+    },
+    {
+      "text": "Article 35: EMPLOYEE’S BAIL, LICENSE,",
+      "page": 124,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Employee’s Bail And/Or Court Appearance",
+      "page": 124,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Suspension or Revocation of License",
+      "page": 125,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Controlled Substances Testing",
+      "page": 125,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Alcohol Testing",
+      "page": 145,
+      "level": 3
+    },
+    {
+      "text": "Section 5: of the National Master UPS Agreement. UPS will follow",
+      "page": 150,
+      "level": 3
+    },
+    {
+      "text": "Article 36: NONDISCRIMINATION",
+      "page": 158,
+      "level": 2
+    },
+    {
+      "text": "Article 37: MANAGEMENT EMPLOYEE",
+      "page": 158,
+      "level": 2
+    },
+    {
+      "text": "Section 1: (a) The parties agree that the principle of a fair day’s work for a",
+      "page": 158,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Not more than one (1) member of management will ride with a",
+      "page": 163,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Any alleged violation of this Article shall be subject to the applica-",
+      "page": 163,
+      "level": 3
+    },
+    {
+      "text": "Article 38: CHANGE OF OPERATIONS",
+      "page": 164,
+      "level": 2
+    },
+    {
+      "text": "Section 1: (a) The Employer agrees that prior to any change in its operation that",
+      "page": 164,
+      "level": 3
+    },
+    {
+      "text": "Section 2: As\ta\tresult\tof\tthe\tEmployer\tmoving\tan\toperation\tmore\tthan\tfifty\t(50)",
+      "page": 167,
+      "level": 3
+    },
+    {
+      "text": "Article 39: TRAILER REPAIR SHOP",
+      "page": 167,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Recognition",
+      "page": 167,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Employee Classifications",
+      "page": 168,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Wage Rates By Classification",
+      "page": 168,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Health and Welfare",
+      "page": 169,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Pension",
+      "page": 169,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Seniority",
+      "page": 169,
+      "level": 3
+    },
+    {
+      "text": "Section 7: General",
+      "page": 170,
+      "level": 3
+    },
+    {
+      "text": "Section 8: Movement of Equipment",
+      "page": 170,
+      "level": 3
+    },
+    {
+      "text": "Section 9: Amendments",
+      "page": 170,
+      "level": 3
+    },
+    {
+      "text": "Section 10: Paint and Body Facilities",
+      "page": 171,
+      "level": 3
+    },
+    {
+      "text": "Section 11: Training Program",
+      "page": 171,
+      "level": 3
+    },
+    {
+      "text": "Section 12: All\tlanguage\tin\tArticle\t39\tis\tbased\ton\tan\temployee\tbeing\tqualified",
+      "page": 171,
+      "level": 3
+    },
+    {
+      "text": "Section 13: Trailer Conditioners, Inc.",
+      "page": 171,
+      "level": 3
+    },
+    {
+      "text": "Article 40: AIR OPERATION",
+      "page": 172,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Air Drivers",
+      "page": 172,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Air Walkers",
+      "page": 179,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Air Hub and Gateway Operations",
+      "page": 180,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Start Times for Air Shuttle",
+      "page": 184,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Grievance Procedure",
+      "page": 184,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Wages",
+      "page": 184,
+      "level": 3
+    },
+    {
+      "text": "Article 41: FULL-TIME EMPLOYEES",
+      "page": 187,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Full-time Wage Increases",
+      "page": 187,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Full-time Wage Progression",
+      "page": 188,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Full-time Inside Wages",
+      "page": 189,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Full-time UPS CSI TCI and",
+      "page": 190,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Mechanic Progression",
+      "page": 190,
+      "level": 3
+    },
+    {
+      "text": "Article 42: UNIFORMS",
+      "page": 191,
+      "level": 2
+    },
+    {
+      "text": "Article 43: PREMIUM SERVICES",
+      "page": 191,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Job Protection",
+      "page": 191,
+      "level": 3
+    },
+    {
+      "text": "Section 4: below. The wages and other economic terms of employ-",
+      "page": 192,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Sleeper Team Operations",
+      "page": 192,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Mileage Rates",
+      "page": 197,
+      "level": 3
+    },
+    {
+      "text": "Article 44: OVER 70 POUND SERVICE",
+      "page": 205,
+      "level": 2
+    },
+    {
+      "text": "Section 1: On Area Package Handling",
+      "page": 206,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Package Identification",
+      "page": 207,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Inside Package Handling Procedures",
+      "page": 207,
+      "level": 3
+    },
+    {
+      "text": "Article 45: DURATION",
+      "page": 208,
+      "level": 2
+    },
+    {
+      "text": "Section 1: This Agreement shall be in full force and effect from August 1,",
+      "page": 208,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Where no such cancellation or termination notice is served and the",
+      "page": 209,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Revisions agreed upon or ordered shall be effective as of August 1,",
+      "page": 209,
+      "level": 3
+    },
+    {
+      "text": "Section 4: In the event of an inadvertent failure by either party to give notice",
+      "page": 209,
+      "level": 3
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1.1",
+      "parent_article": "1",
+      "title": "Operations Covered",
+      "page_start": 11,
+      "page_end": 12,
+      "word_count": 88
+    },
+    {
+      "section_id": "1.2",
+      "parent_article": "1",
+      "title": "Employees Covered",
+      "page_start": 12,
+      "page_end": 12,
+      "word_count": 228
+    },
+    {
+      "section_id": "1.3",
+      "parent_article": "1",
+      "title": "Transfer of Company Title or Interest",
+      "page_start": 12,
+      "page_end": 13,
+      "word_count": 308
+    },
+    {
+      "section_id": "1.4",
+      "parent_article": "1",
+      "title": "The Employer agrees that it will be a violation of this Section if it,",
+      "page_start": 13,
+      "page_end": 14,
+      "word_count": 111
+    },
+    {
+      "section_id": "2.1",
+      "parent_article": "2",
+      "title": "Single Bargaining Unit",
+      "page_start": 14,
+      "page_end": 14,
+      "word_count": 232
+    },
+    {
+      "section_id": "2.2",
+      "parent_article": "2",
+      "title": "Riders",
+      "page_start": 14,
+      "page_end": 15,
+      "word_count": 124
+    },
+    {
+      "section_id": "3.1",
+      "parent_article": "3",
+      "title": "Recognition",
+      "page_start": 15,
+      "page_end": 16,
+      "word_count": 296
+    },
+    {
+      "section_id": "3.2",
+      "parent_article": "3",
+      "title": "Union Shop and Dues",
+      "page_start": 16,
+      "page_end": 17,
+      "word_count": 408
+    },
+    {
+      "section_id": "3.3",
+      "parent_article": "3",
+      "title": "Dues Checkoff and Joint Dues Committee",
+      "page_start": 17,
+      "page_end": 20,
+      "word_count": 1014
+    },
+    {
+      "section_id": "3.4",
+      "parent_article": "3",
+      "title": "Work Assignments",
+      "page_start": 20,
+      "page_end": 20,
+      "word_count": 105
+    },
+    {
+      "section_id": "3.5",
+      "parent_article": "3",
+      "title": "The term “Local Union” as used herein refers to the IBT Local",
+      "page_start": 20,
+      "page_end": 20,
+      "word_count": 63
+    },
+    {
+      "section_id": "3.6",
+      "parent_article": "3",
+      "title": "Employees shall have the option of participating in the Employer’s",
+      "page_start": 20,
+      "page_end": 20,
+      "word_count": 133
+    },
+    {
+      "section_id": "3.7",
+      "parent_article": "3",
+      "title": "Supervisors Working",
+      "page_start": 20,
+      "page_end": 26,
+      "word_count": 1806
+    },
+    {
+      "section_id": "6.1",
+      "parent_article": "6",
+      "title": "Extra Contract Agreements",
+      "page_start": 26,
+      "page_end": 26,
+      "word_count": 159
+    },
+    {
+      "section_id": "6.2",
+      "parent_article": "6",
+      "title": "Workweek Reduction",
+      "page_start": 26,
+      "page_end": 27,
+      "word_count": 105
+    },
+    {
+      "section_id": "6.3",
+      "parent_article": "6",
+      "title": "New Equipment",
+      "page_start": 27,
+      "page_end": 27,
+      "word_count": 114
+    },
+    {
+      "section_id": "6.4",
+      "parent_article": "6",
+      "title": "Technological Change",
+      "page_start": 27,
+      "page_end": 29,
+      "word_count": 617
+    },
+    {
+      "section_id": "6.5",
+      "parent_article": "6",
+      "title": "Hourly Training",
+      "page_start": 29,
+      "page_end": 30,
+      "word_count": 498
+    },
+    {
+      "section_id": "6.6",
+      "parent_article": "6",
+      "title": "Technology and Discipline",
+      "page_start": 30,
+      "page_end": 33,
+      "word_count": 726
+    },
+    {
+      "section_id": "8.1",
+      "parent_article": "8",
+      "title": "All grievances and/or questions of interpretation arising under the",
+      "page_start": 33,
+      "page_end": 34,
+      "word_count": 273
+    },
+    {
+      "section_id": "8.2",
+      "parent_article": "8",
+      "title": "Work Stoppages",
+      "page_start": 34,
+      "page_end": 34,
+      "word_count": 231
+    },
+    {
+      "section_id": "8.3",
+      "parent_article": "8",
+      "title": "The Union and Employer may under this section review and re-",
+      "page_start": 34,
+      "page_end": 36,
+      "word_count": 542
+    },
+    {
+      "section_id": "8.4",
+      "parent_article": "8",
+      "title": "Where the National Grievance Committee fails to reach a majority",
+      "page_start": 36,
+      "page_end": 37,
+      "word_count": 167
+    },
+    {
+      "section_id": "8.5",
+      "parent_article": "8",
+      "title": "Any grievance that does not raise an issue of interpretation of a",
+      "page_start": 37,
+      "page_end": 37,
+      "word_count": 185
+    },
+    {
+      "section_id": "8.6",
+      "parent_article": "8",
+      "title": "The arbitrator shall have the authority to apply the provisions of",
+      "page_start": 37,
+      "page_end": 38,
+      "word_count": 136
+    },
+    {
+      "section_id": "8.7",
+      "parent_article": "8",
+      "title": "Deadlocked cases referred from the National Grievance Committee",
+      "page_start": 38,
+      "page_end": 40,
+      "word_count": 695
+    },
+    {
+      "section_id": "9.1",
+      "parent_article": "9",
+      "title": "Picket Line",
+      "page_start": 40,
+      "page_end": 40,
+      "word_count": 99
+    },
+    {
+      "section_id": "9.2",
+      "parent_article": "9",
+      "title": "Struck Goods",
+      "page_start": 40,
+      "page_end": 40,
+      "word_count": 68
+    },
+    {
+      "section_id": "9.3",
+      "parent_article": "9",
+      "title": "Subject to the appropriate subcontracting provisions of this Agree-",
+      "page_start": 40,
+      "page_end": 41,
+      "word_count": 100
+    },
+    {
+      "section_id": "9.4",
+      "parent_article": "9",
+      "title": "The layover provisions of the applicable Supplemental Agreement,",
+      "page_start": 41,
+      "page_end": 41,
+      "word_count": 79
+    },
+    {
+      "section_id": "9.5",
+      "parent_article": "9",
+      "title": "Grievances",
+      "page_start": 41,
+      "page_end": 41,
+      "word_count": 42
+    },
+    {
+      "section_id": "10.1",
+      "parent_article": "10",
+      "title": "No employee shall make any reimbursement or have monies de-",
+      "page_start": 41,
+      "page_end": 42,
+      "word_count": 430
+    },
+    {
+      "section_id": "10.2",
+      "parent_article": "10",
+      "title": "Employees handling money shall account for and remit the same to",
+      "page_start": 42,
+      "page_end": 44,
+      "word_count": 575
+    },
+    {
+      "section_id": "10.3",
+      "parent_article": "10",
+      "title": "The Employer shall reimburse employees for loss of personal mon-",
+      "page_start": 44,
+      "page_end": 45,
+      "word_count": 317
+    },
+    {
+      "section_id": "11.1",
+      "parent_article": "11",
+      "title": "Process of Reclassifying",
+      "page_start": 45,
+      "page_end": 46,
+      "word_count": 277
+    },
+    {
+      "section_id": "11.2",
+      "parent_article": "11",
+      "title": "Recognizing that the Employer currently only utilizes",
+      "page_start": 46,
+      "page_end": 48,
+      "word_count": 508
+    },
+    {
+      "section_id": "14.1",
+      "parent_article": "14",
+      "title": "When an injury is reported the reference number will be given to",
+      "page_start": 48,
+      "page_end": 49,
+      "word_count": 611
+    },
+    {
+      "section_id": "14.2",
+      "parent_article": "14",
+      "title": "Temporary Alternate Work",
+      "page_start": 49,
+      "page_end": 51,
+      "word_count": 389
+    },
+    {
+      "section_id": "14.3",
+      "parent_article": "14",
+      "title": "Permanently Disabled Employees",
+      "page_start": 51,
+      "page_end": 52,
+      "word_count": 622
+    },
+    {
+      "section_id": "15.1",
+      "parent_article": "15",
+      "title": "USERRA Rights",
+      "page_start": 52,
+      "page_end": 53,
+      "word_count": 134
+    },
+    {
+      "section_id": "15.2",
+      "parent_article": "15",
+      "title": "Vacation Restoration",
+      "page_start": 53,
+      "page_end": 54,
+      "word_count": 359
+    },
+    {
+      "section_id": "15.3",
+      "parent_article": "15",
+      "title": "Notification of Leave",
+      "page_start": 54,
+      "page_end": 54,
+      "word_count": 25
+    },
+    {
+      "section_id": "15.4",
+      "parent_article": "15",
+      "title": "Spousal Transfer Rights",
+      "page_start": 54,
+      "page_end": 55,
+      "word_count": 262
+    },
+    {
+      "section_id": "16.1",
+      "parent_article": "16",
+      "title": "The Employer agrees to grant the necessary time off, without dis-",
+      "page_start": 55,
+      "page_end": 55,
+      "word_count": 142
+    },
+    {
+      "section_id": "16.2",
+      "parent_article": "16",
+      "title": "Any employee desiring leave of absence from employment shall",
+      "page_start": 55,
+      "page_end": 56,
+      "word_count": 218
+    },
+    {
+      "section_id": "16.3",
+      "parent_article": "16",
+      "title": "Loss of License",
+      "page_start": 56,
+      "page_end": 58,
+      "word_count": 540
+    },
+    {
+      "section_id": "16.4",
+      "parent_article": "16",
+      "title": "11 shall not be applicable to a driver who completes a reha-",
+      "page_start": 58,
+      "page_end": 59,
+      "word_count": 512
+    },
+    {
+      "section_id": "16.5",
+      "parent_article": "16",
+      "title": "Rehabilitation Program—",
+      "page_start": 59,
+      "page_end": 61,
+      "word_count": 531
+    },
+    {
+      "section_id": "16.6",
+      "parent_article": "16",
+      "title": "Family and Medical Leave Act (FMLA)",
+      "page_start": 61,
+      "page_end": 62,
+      "word_count": 366
+    },
+    {
+      "section_id": "16.7",
+      "parent_article": "16",
+      "title": "Disability",
+      "page_start": 62,
+      "page_end": 66,
+      "word_count": 1320
+    },
+    {
+      "section_id": "18.1",
+      "parent_article": "18",
+      "title": "Employees’ Rights—",
+      "page_start": 66,
+      "page_end": 67,
+      "word_count": 264
+    },
+    {
+      "section_id": "18.2",
+      "parent_article": "18",
+      "title": "Out of Service Equipment and",
+      "page_start": 67,
+      "page_end": 68,
+      "word_count": 451
+    },
+    {
+      "section_id": "18.3",
+      "parent_article": "18",
+      "title": "Accidents and Reports",
+      "page_start": 68,
+      "page_end": 70,
+      "word_count": 452
+    },
+    {
+      "section_id": "18.4",
+      "parent_article": "18",
+      "title": "Seats",
+      "page_start": 70,
+      "page_end": 70,
+      "word_count": 109
+    },
+    {
+      "section_id": "18.5",
+      "parent_article": "18",
+      "title": "Sun Visors",
+      "page_start": 70,
+      "page_end": 70,
+      "word_count": 13
+    },
+    {
+      "section_id": "18.6",
+      "parent_article": "18",
+      "title": "Building Heat",
+      "page_start": 70,
+      "page_end": 71,
+      "word_count": 156
+    },
+    {
+      "section_id": "18.7",
+      "parent_article": "18",
+      "title": "Trailer Configuration",
+      "page_start": 71,
+      "page_end": 71,
+      "word_count": 119
+    },
+    {
+      "section_id": "18.8",
+      "parent_article": "18",
+      "title": "Radios",
+      "page_start": 71,
+      "page_end": 72,
+      "word_count": 254
+    },
+    {
+      "section_id": "18.9",
+      "parent_article": "18",
+      "title": "Tires",
+      "page_start": 72,
+      "page_end": 72,
+      "word_count": 72
+    },
+    {
+      "section_id": "18.10",
+      "parent_article": "18",
+      "title": "Shocks",
+      "page_start": 72,
+      "page_end": 73,
+      "word_count": 33
+    },
+    {
+      "section_id": "18.11",
+      "parent_article": "18",
+      "title": "Mirrors",
+      "page_start": 73,
+      "page_end": 73,
+      "word_count": 143
+    },
+    {
+      "section_id": "18.12",
+      "parent_article": "18",
+      "title": "Dollies",
+      "page_start": 73,
+      "page_end": 73,
+      "word_count": 41
+    },
+    {
+      "section_id": "18.13",
+      "parent_article": "18",
+      "title": "Exhaust System",
+      "page_start": 73,
+      "page_end": 73,
+      "word_count": 62
+    },
+    {
+      "section_id": "18.14",
+      "parent_article": "18",
+      "title": "Package Cars And Other Vehicles",
+      "page_start": 73,
+      "page_end": 76,
+      "word_count": 736
+    },
+    {
+      "section_id": "18.15",
+      "parent_article": "18",
+      "title": "Heaters and Defrosters",
+      "page_start": 76,
+      "page_end": 76,
+      "word_count": 84
+    },
+    {
+      "section_id": "18.16",
+      "parent_article": "18",
+      "title": "Noise Abatement",
+      "page_start": 76,
+      "page_end": 76,
+      "word_count": 42
+    },
+    {
+      "section_id": "18.17",
+      "parent_article": "18",
+      "title": "Vehicle Integrity",
+      "page_start": 76,
+      "page_end": 76,
+      "word_count": 27
+    },
+    {
+      "section_id": "18.18",
+      "parent_article": "18",
+      "title": "Vehicle and Personal Safety Equipment",
+      "page_start": 76,
+      "page_end": 77,
+      "word_count": 146
+    },
+    {
+      "section_id": "18.19",
+      "parent_article": "18",
+      "title": "Qualification on Equipment",
+      "page_start": 77,
+      "page_end": 77,
+      "word_count": 125
+    },
+    {
+      "section_id": "18.20",
+      "parent_article": "18",
+      "title": "National UPS/IBT",
+      "page_start": 77,
+      "page_end": 81,
+      "word_count": 953
+    },
+    {
+      "section_id": "18.21",
+      "parent_article": "18",
+      "title": "Hazardous Materials Handling Program",
+      "page_start": 81,
+      "page_end": 83,
+      "word_count": 509
+    },
+    {
+      "section_id": "18.22",
+      "parent_article": "18",
+      "title": "Incompatible Package Handling",
+      "page_start": 83,
+      "page_end": 83,
+      "word_count": 56
+    },
+    {
+      "section_id": "18.23",
+      "parent_article": "18",
+      "title": "Union Liability",
+      "page_start": 83,
+      "page_end": 83,
+      "word_count": 100
+    },
+    {
+      "section_id": "18.24",
+      "parent_article": "18",
+      "title": "Egress",
+      "page_start": 83,
+      "page_end": 83,
+      "word_count": 87
+    },
+    {
+      "section_id": "18.25",
+      "parent_article": "18",
+      "title": "Building Security",
+      "page_start": 83,
+      "page_end": 84,
+      "word_count": 45
+    },
+    {
+      "section_id": "18.26",
+      "parent_article": "18",
+      "title": "Recording Devices",
+      "page_start": 84,
+      "page_end": 84,
+      "word_count": 27
+    },
+    {
+      "section_id": "18.27",
+      "parent_article": "18",
+      "title": "Heat-related Injury and Illness Prevention",
+      "page_start": 84,
+      "page_end": 86,
+      "word_count": 487
+    },
+    {
+      "section_id": "20.1",
+      "parent_article": "20",
+      "title": "Required Examination",
+      "page_start": 86,
+      "page_end": 86,
+      "word_count": 190
+    },
+    {
+      "section_id": "20.2",
+      "parent_article": "20",
+      "title": "Return to Work Examination",
+      "page_start": 86,
+      "page_end": 86,
+      "word_count": 55
+    },
+    {
+      "section_id": "20.3",
+      "parent_article": "20",
+      "title": "Third Doctor Procedure",
+      "page_start": 86,
+      "page_end": 87,
+      "word_count": 166
+    },
+    {
+      "section_id": "20.4",
+      "parent_article": "20",
+      "title": "Disqualified Driver—Alternative Work",
+      "page_start": 87,
+      "page_end": 87,
+      "word_count": 156
+    },
+    {
+      "section_id": "20.5",
+      "parent_article": "20",
+      "title": "Identification",
+      "page_start": 87,
+      "page_end": 88,
+      "word_count": 201
+    },
+    {
+      "section_id": "22.1",
+      "parent_article": "22",
+      "title": "No part-time employee shall drive except:",
+      "page_start": 88,
+      "page_end": 88,
+      "word_count": 36
+    },
+    {
+      "section_id": "22.2",
+      "parent_article": "22",
+      "title": "The number of permanent full-time inside jobs in each Local Union",
+      "page_start": 88,
+      "page_end": 89,
+      "word_count": 78
+    },
+    {
+      "section_id": "22.3",
+      "parent_article": "22",
+      "title": "The parties agree that providing part-time employees the opportunity",
+      "page_start": 89,
+      "page_end": 89,
+      "word_count": 241
+    },
+    {
+      "section_id": "22.4",
+      "parent_article": "22",
+      "title": "Part-time\temployees\tshall\tbe\tgiven\tthe\topportunity\tto\tfill\tfull-time",
+      "page_start": 89,
+      "page_end": 92,
+      "word_count": 636
+    },
+    {
+      "section_id": "22.6",
+      "parent_article": "22",
+      "title": "Part-Time Employee Transfer",
+      "page_start": 92,
+      "page_end": 93,
+      "word_count": 207
+    },
+    {
+      "section_id": "22.7",
+      "parent_article": "22",
+      "title": "Benefit Entitlements",
+      "page_start": 93,
+      "page_end": 93,
+      "word_count": 70
+    },
+    {
+      "section_id": "22.8",
+      "parent_article": "22",
+      "title": "Part-Time UPS Cartage Services, Inc. (CSI)",
+      "page_start": 93,
+      "page_end": 94,
+      "word_count": 450
+    },
+    {
+      "section_id": "26.1",
+      "parent_article": "26",
+      "title": "The Union recognizes that the Employer is in direct competition",
+      "page_start": 94,
+      "page_end": 99,
+      "word_count": 1662
+    },
+    {
+      "section_id": "26.2",
+      "parent_article": "26",
+      "title": "A Joint UPS/IBT Competition Committee shall be created with an",
+      "page_start": 99,
+      "page_end": 99,
+      "word_count": 89
+    },
+    {
+      "section_id": "26.3",
+      "parent_article": "26",
+      "title": "Notwithstanding any other provision of the Agreement or any Sup-",
+      "page_start": 99,
+      "page_end": 100,
+      "word_count": 106
+    },
+    {
+      "section_id": "26.4",
+      "parent_article": "26",
+      "title": "Surepost",
+      "page_start": 100,
+      "page_end": 102,
+      "word_count": 760
+    },
+    {
+      "section_id": "26.5",
+      "parent_article": "26",
+      "title": "DOT Hours of Service",
+      "page_start": 102,
+      "page_end": 103,
+      "word_count": 601
+    },
+    {
+      "section_id": "29.1",
+      "parent_article": "29",
+      "title": "Jury Duty",
+      "page_start": 103,
+      "page_end": 105,
+      "word_count": 489
+    },
+    {
+      "section_id": "29.2",
+      "parent_article": "29",
+      "title": "Funeral Leave",
+      "page_start": 105,
+      "page_end": 106,
+      "word_count": 297
+    },
+    {
+      "section_id": "29.3",
+      "parent_article": "29",
+      "title": "Tax Deferred Savings Plan 401(k)",
+      "page_start": 106,
+      "page_end": 106,
+      "word_count": 92
+    },
+    {
+      "section_id": "29.4",
+      "parent_article": "29",
+      "title": "Martin Luther King Jr. Holiday",
+      "page_start": 106,
+      "page_end": 110,
+      "word_count": 1135
+    },
+    {
+      "section_id": "34.1",
+      "parent_article": "34",
+      "title": "(a)(i) Except as set forth in this Section 1(a), Health & Welfare and/",
+      "page_start": 110,
+      "page_end": 122,
+      "word_count": 3832
+    },
+    {
+      "section_id": "34.2",
+      "parent_article": "34",
+      "title": "TeamCare",
+      "page_start": 122,
+      "page_end": 123,
+      "word_count": 315
+    },
+    {
+      "section_id": "34.3",
+      "parent_article": "34",
+      "title": "CSI Health and Pension Coverage",
+      "page_start": 123,
+      "page_end": 123,
+      "word_count": 66
+    },
+    {
+      "section_id": "34.4",
+      "parent_article": "34",
+      "title": "Re-allocations of Contributions/Wages",
+      "page_start": 123,
+      "page_end": 124,
+      "word_count": 219
+    },
+    {
+      "section_id": "34.5",
+      "parent_article": "34",
+      "title": "Substitute Health Plan",
+      "page_start": 124,
+      "page_end": 124,
+      "word_count": 109
+    },
+    {
+      "section_id": "35.1",
+      "parent_article": "35",
+      "title": "Employee’s Bail And/Or Court Appearance",
+      "page_start": 124,
+      "page_end": 125,
+      "word_count": 262
+    },
+    {
+      "section_id": "35.2",
+      "parent_article": "35",
+      "title": "Suspension or Revocation of License",
+      "page_start": 125,
+      "page_end": 125,
+      "word_count": 194
+    },
+    {
+      "section_id": "35.3",
+      "parent_article": "35",
+      "title": "Controlled Substances Testing",
+      "page_start": 125,
+      "page_end": 145,
+      "word_count": 5604
+    },
+    {
+      "section_id": "35.4",
+      "parent_article": "35",
+      "title": "Alcohol Testing",
+      "page_start": 145,
+      "page_end": 150,
+      "word_count": 1614
+    },
+    {
+      "section_id": "35.5",
+      "parent_article": "35",
+      "title": "of the National Master UPS Agreement. UPS will follow",
+      "page_start": 150,
+      "page_end": 158,
+      "word_count": 2161
+    },
+    {
+      "section_id": "37.1",
+      "parent_article": "37",
+      "title": "(a) The parties agree that the principle of a fair day’s work for a",
+      "page_start": 158,
+      "page_end": 163,
+      "word_count": 1918
+    },
+    {
+      "section_id": "37.2",
+      "parent_article": "37",
+      "title": "Not more than one (1) member of management will ride with a",
+      "page_start": 163,
+      "page_end": 163,
+      "word_count": 121
+    },
+    {
+      "section_id": "37.3",
+      "parent_article": "37",
+      "title": "Any alleged violation of this Article shall be subject to the applica-",
+      "page_start": 163,
+      "page_end": 164,
+      "word_count": 170
+    },
+    {
+      "section_id": "38.1",
+      "parent_article": "38",
+      "title": "(a) The Employer agrees that prior to any change in its operation that",
+      "page_start": 164,
+      "page_end": 167,
+      "word_count": 1022
+    },
+    {
+      "section_id": "38.2",
+      "parent_article": "38",
+      "title": "As\ta\tresult\tof\tthe\tEmployer\tmoving\tan\toperation\tmore\tthan\tfifty\t(50)",
+      "page_start": 167,
+      "page_end": 167,
+      "word_count": 191
+    },
+    {
+      "section_id": "39.1",
+      "parent_article": "39",
+      "title": "Recognition",
+      "page_start": 167,
+      "page_end": 168,
+      "word_count": 75
+    },
+    {
+      "section_id": "39.2",
+      "parent_article": "39",
+      "title": "Employee Classifications",
+      "page_start": 168,
+      "page_end": 168,
+      "word_count": 26
+    },
+    {
+      "section_id": "39.3",
+      "parent_article": "39",
+      "title": "Wage Rates By Classification",
+      "page_start": 168,
+      "page_end": 169,
+      "word_count": 231
+    },
+    {
+      "section_id": "39.4",
+      "parent_article": "39",
+      "title": "Health and Welfare",
+      "page_start": 169,
+      "page_end": 169,
+      "word_count": 31
+    },
+    {
+      "section_id": "39.5",
+      "parent_article": "39",
+      "title": "Pension",
+      "page_start": 169,
+      "page_end": 169,
+      "word_count": 43
+    },
+    {
+      "section_id": "39.6",
+      "parent_article": "39",
+      "title": "Seniority",
+      "page_start": 169,
+      "page_end": 170,
+      "word_count": 272
+    },
+    {
+      "section_id": "39.7",
+      "parent_article": "39",
+      "title": "General",
+      "page_start": 170,
+      "page_end": 170,
+      "word_count": 96
+    },
+    {
+      "section_id": "39.8",
+      "parent_article": "39",
+      "title": "Movement of Equipment",
+      "page_start": 170,
+      "page_end": 170,
+      "word_count": 34
+    },
+    {
+      "section_id": "39.9",
+      "parent_article": "39",
+      "title": "Amendments",
+      "page_start": 170,
+      "page_end": 171,
+      "word_count": 28
+    },
+    {
+      "section_id": "39.10",
+      "parent_article": "39",
+      "title": "Paint and Body Facilities",
+      "page_start": 171,
+      "page_end": 171,
+      "word_count": 26
+    },
+    {
+      "section_id": "39.11",
+      "parent_article": "39",
+      "title": "Training Program",
+      "page_start": 171,
+      "page_end": 171,
+      "word_count": 119
+    },
+    {
+      "section_id": "39.12",
+      "parent_article": "39",
+      "title": "All\tlanguage\tin\tArticle\t39\tis\tbased\ton\tan\temployee\tbeing\tqualified",
+      "page_start": 171,
+      "page_end": 171,
+      "word_count": 16
+    },
+    {
+      "section_id": "39.13",
+      "parent_article": "39",
+      "title": "Trailer Conditioners, Inc.",
+      "page_start": 171,
+      "page_end": 172,
+      "word_count": 378
+    },
+    {
+      "section_id": "40.1",
+      "parent_article": "40",
+      "title": "Air Drivers",
+      "page_start": 172,
+      "page_end": 179,
+      "word_count": 2207
+    },
+    {
+      "section_id": "40.2",
+      "parent_article": "40",
+      "title": "Air Walkers",
+      "page_start": 179,
+      "page_end": 180,
+      "word_count": 156
+    },
+    {
+      "section_id": "40.3",
+      "parent_article": "40",
+      "title": "Air Hub and Gateway Operations",
+      "page_start": 180,
+      "page_end": 184,
+      "word_count": 1082
+    },
+    {
+      "section_id": "40.4",
+      "parent_article": "40",
+      "title": "Start Times for Air Shuttle",
+      "page_start": 184,
+      "page_end": 184,
+      "word_count": 42
+    },
+    {
+      "section_id": "40.5",
+      "parent_article": "40",
+      "title": "Grievance Procedure",
+      "page_start": 184,
+      "page_end": 184,
+      "word_count": 159
+    },
+    {
+      "section_id": "40.6",
+      "parent_article": "40",
+      "title": "Wages",
+      "page_start": 184,
+      "page_end": 187,
+      "word_count": 873
+    },
+    {
+      "section_id": "41.1",
+      "parent_article": "41",
+      "title": "Full-time Wage Increases",
+      "page_start": 187,
+      "page_end": 188,
+      "word_count": 104
+    },
+    {
+      "section_id": "41.2",
+      "parent_article": "41",
+      "title": "Full-time Wage Progression",
+      "page_start": 188,
+      "page_end": 189,
+      "word_count": 395
+    },
+    {
+      "section_id": "41.3",
+      "parent_article": "41",
+      "title": "Full-time Inside Wages",
+      "page_start": 189,
+      "page_end": 190,
+      "word_count": 326
+    },
+    {
+      "section_id": "41.4",
+      "parent_article": "41",
+      "title": "Full-time UPS CSI TCI and",
+      "page_start": 190,
+      "page_end": 190,
+      "word_count": 29
+    },
+    {
+      "section_id": "41.5",
+      "parent_article": "41",
+      "title": "Mechanic Progression",
+      "page_start": 190,
+      "page_end": 191,
+      "word_count": 86
+    },
+    {
+      "section_id": "43.1",
+      "parent_article": "43",
+      "title": "Job Protection",
+      "page_start": 191,
+      "page_end": 192,
+      "word_count": 440
+    },
+    {
+      "section_id": "43.4",
+      "parent_article": "43",
+      "title": "below. The wages and other economic terms of employ-",
+      "page_start": 192,
+      "page_end": 192,
+      "word_count": 11
+    },
+    {
+      "section_id": "43.2",
+      "parent_article": "43",
+      "title": "Sleeper Team Operations",
+      "page_start": 192,
+      "page_end": 197,
+      "word_count": 1453
+    },
+    {
+      "section_id": "43.3",
+      "parent_article": "43",
+      "title": "Mileage Rates",
+      "page_start": 197,
+      "page_end": 206,
+      "word_count": 2616
+    },
+    {
+      "section_id": "44.1",
+      "parent_article": "44",
+      "title": "On Area Package Handling",
+      "page_start": 206,
+      "page_end": 207,
+      "word_count": 353
+    },
+    {
+      "section_id": "44.2",
+      "parent_article": "44",
+      "title": "Package Identification",
+      "page_start": 207,
+      "page_end": 207,
+      "word_count": 141
+    },
+    {
+      "section_id": "44.3",
+      "parent_article": "44",
+      "title": "Inside Package Handling Procedures",
+      "page_start": 207,
+      "page_end": 208,
+      "word_count": 328
+    },
+    {
+      "section_id": "45.1",
+      "parent_article": "45",
+      "title": "This Agreement shall be in full force and effect from August 1,",
+      "page_start": 208,
+      "page_end": 209,
+      "word_count": 60
+    },
+    {
+      "section_id": "45.2",
+      "parent_article": "45",
+      "title": "Where no such cancellation or termination notice is served and the",
+      "page_start": 209,
+      "page_end": 209,
+      "word_count": 70
+    },
+    {
+      "section_id": "45.3",
+      "parent_article": "45",
+      "title": "Revisions agreed upon or ordered shall be effective as of August 1,",
+      "page_start": 209,
+      "page_end": 209,
+      "word_count": 46
+    },
+    {
+      "section_id": "45.4",
+      "parent_article": "45",
+      "title": "In the event of an inadvertent failure by either party to give notice",
+      "page_start": 209,
+      "page_end": null,
+      "word_count": 1365
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "1",
+      "title": "PARTIES TO THE AGREEMENT",
+      "page_start": 11,
+      "page_end": 14,
+      "section_count": 4,
+      "word_count": 786
+    },
+    {
+      "article_number": "2",
+      "title": "SCOPE OF THE AGREEMENT",
+      "page_start": 14,
+      "page_end": 15,
+      "section_count": 2,
+      "word_count": 354
+    },
+    {
+      "article_number": "3",
+      "title": "RECOGNITION, UNION SHOP",
+      "page_start": 15,
+      "page_end": 22,
+      "section_count": 7,
+      "word_count": 2765
+    },
+    {
+      "article_number": "4",
+      "title": "STEWARDS",
+      "page_start": 22,
+      "page_end": 25,
+      "section_count": 0,
+      "word_count": 877
+    },
+    {
+      "article_number": "5",
+      "title": "SANITARY CONDITIONS",
+      "page_start": 25,
+      "page_end": 26,
+      "section_count": 0,
+      "word_count": 185
+    },
+    {
+      "article_number": "6",
+      "title": "Article 6",
+      "page_start": 26,
+      "page_end": 32,
+      "section_count": 6,
+      "word_count": 1862
+    },
+    {
+      "article_number": "7",
+      "title": "LOCAL AND AREA",
+      "page_start": 32,
+      "page_end": 33,
+      "section_count": 0,
+      "word_count": 355
+    },
+    {
+      "article_number": "8",
+      "title": "NATIONAL",
+      "page_start": 33,
+      "page_end": 40,
+      "section_count": 7,
+      "word_count": 2231
+    },
+    {
+      "article_number": "9",
+      "title": "PROTECTION OF RIGHTS",
+      "page_start": 40,
+      "page_end": 41,
+      "section_count": 5,
+      "word_count": 388
+    },
+    {
+      "article_number": "10",
+      "title": "LOSS AND DAMAGE",
+      "page_start": 41,
+      "page_end": 45,
+      "section_count": 3,
+      "word_count": 1213
+    },
+    {
+      "article_number": "11",
+      "title": "WEEKEND WORK SCHEDULES",
+      "page_start": 45,
+      "page_end": 46,
+      "section_count": 2,
+      "word_count": 424
+    },
+    {
+      "article_number": "12",
+      "title": "POLYGRAPH/TIMECLOCKS",
+      "page_start": 46,
+      "page_end": 47,
+      "section_count": 0,
+      "word_count": 413
+    },
+    {
+      "article_number": "13",
+      "title": "PASSENGERS",
+      "page_start": 47,
+      "page_end": 48,
+      "section_count": 0,
+      "word_count": 57
+    },
+    {
+      "article_number": "14",
+      "title": "COMPENSATION CLAIMS",
+      "page_start": 48,
+      "page_end": 52,
+      "section_count": 3,
+      "word_count": 1622
+    },
+    {
+      "article_number": "15",
+      "title": "MILITARY CLAUSE",
+      "page_start": 52,
+      "page_end": 55,
+      "section_count": 4,
+      "word_count": 780
+    },
+    {
+      "article_number": "16",
+      "title": "LEAVE OF ABSENCE",
+      "page_start": 55,
+      "page_end": 62,
+      "section_count": 7,
+      "word_count": 2347
+    },
+    {
+      "article_number": "17",
+      "title": "PAID FOR TIME",
+      "page_start": 62,
+      "page_end": 65,
+      "section_count": 0,
+      "word_count": 936
+    },
+    {
+      "article_number": "18",
+      "title": "SAFETY AND HEALTH",
+      "page_start": 65,
+      "page_end": 85,
+      "section_count": 27,
+      "word_count": 5821
+    },
+    {
+      "article_number": "19",
+      "title": "POSTING",
+      "page_start": 85,
+      "page_end": 86,
+      "section_count": 0,
+      "word_count": 116
+    },
+    {
+      "article_number": "20",
+      "title": "EXAMINATION AND",
+      "page_start": 86,
+      "page_end": 88,
+      "section_count": 5,
+      "word_count": 690
+    },
+    {
+      "article_number": "21",
+      "title": "UNION ACTIVITY",
+      "page_start": 88,
+      "page_end": 88,
+      "section_count": 0,
+      "word_count": 78
+    },
+    {
+      "article_number": "22",
+      "title": "FULL-TIME COMBINATION AND",
+      "page_start": 88,
+      "page_end": 93,
+      "section_count": 7,
+      "word_count": 1342
+    },
+    {
+      "article_number": "23",
+      "title": "SEPARATION OF EMPLOYMENT",
+      "page_start": 93,
+      "page_end": 93,
+      "section_count": 0,
+      "word_count": 42
+    },
+    {
+      "article_number": "24",
+      "title": "INSPECTION PRIVILEGES",
+      "page_start": 93,
+      "page_end": 94,
+      "section_count": 0,
+      "word_count": 96
+    },
+    {
+      "article_number": "25",
+      "title": "SEPARABILITY AND SAVINGS",
+      "page_start": 94,
+      "page_end": 94,
+      "section_count": 0,
+      "word_count": 240
+    },
+    {
+      "article_number": "26",
+      "title": "COMPETITION",
+      "page_start": 94,
+      "page_end": 102,
+      "section_count": 5,
+      "word_count": 2825
+    },
+    {
+      "article_number": "27",
+      "title": "EMERGENCY REOPENING",
+      "page_start": 102,
+      "page_end": 103,
+      "section_count": 0,
+      "word_count": 259
+    },
+    {
+      "article_number": "28",
+      "title": "SYMPATHETIC ACTION",
+      "page_start": 103,
+      "page_end": 103,
+      "section_count": 0,
+      "word_count": 134
+    },
+    {
+      "article_number": "29",
+      "title": "Article 29",
+      "page_start": 103,
+      "page_end": 106,
+      "section_count": 4,
+      "word_count": 905
+    },
+    {
+      "article_number": "30",
+      "title": "JURISDICTIONAL DISPUTES",
+      "page_start": 106,
+      "page_end": 107,
+      "section_count": 0,
+      "word_count": 136
+    },
+    {
+      "article_number": "31",
+      "title": "GARNISHMENTS",
+      "page_start": 107,
+      "page_end": 108,
+      "section_count": 0,
+      "word_count": 334
+    },
+    {
+      "article_number": "32",
+      "title": "SUBCONTRACTING",
+      "page_start": 108,
+      "page_end": 108,
+      "section_count": 0,
+      "word_count": 174
+    },
+    {
+      "article_number": "33",
+      "title": "COST-OF-LIVING (COLA)",
+      "page_start": 108,
+      "page_end": 110,
+      "section_count": 0,
+      "word_count": 462
+    },
+    {
+      "article_number": "34",
+      "title": "HEALTH & WELFARE",
+      "page_start": 110,
+      "page_end": 124,
+      "section_count": 5,
+      "word_count": 4539
+    },
+    {
+      "article_number": "35",
+      "title": "EMPLOYEE’S BAIL, LICENSE,",
+      "page_start": 124,
+      "page_end": 158,
+      "section_count": 5,
+      "word_count": 9697
+    },
+    {
+      "article_number": "36",
+      "title": "NONDISCRIMINATION",
+      "page_start": 158,
+      "page_end": 158,
+      "section_count": 0,
+      "word_count": 141
+    },
+    {
+      "article_number": "37",
+      "title": "MANAGEMENT EMPLOYEE",
+      "page_start": 158,
+      "page_end": 164,
+      "section_count": 3,
+      "word_count": 2210
+    },
+    {
+      "article_number": "38",
+      "title": "CHANGE OF OPERATIONS",
+      "page_start": 164,
+      "page_end": 167,
+      "section_count": 2,
+      "word_count": 1170
+    },
+    {
+      "article_number": "39",
+      "title": "TRAILER REPAIR SHOP",
+      "page_start": 167,
+      "page_end": 172,
+      "section_count": 13,
+      "word_count": 1376
+    },
+    {
+      "article_number": "40",
+      "title": "AIR OPERATION",
+      "page_start": 172,
+      "page_end": 187,
+      "section_count": 6,
+      "word_count": 4561
+    },
+    {
+      "article_number": "41",
+      "title": "FULL-TIME EMPLOYEES",
+      "page_start": 187,
+      "page_end": 191,
+      "section_count": 5,
+      "word_count": 898
+    },
+    {
+      "article_number": "42",
+      "title": "UNIFORMS",
+      "page_start": 191,
+      "page_end": 191,
+      "section_count": 0,
+      "word_count": 42
+    },
+    {
+      "article_number": "43",
+      "title": "PREMIUM SERVICES",
+      "page_start": 191,
+      "page_end": 205,
+      "section_count": 4,
+      "word_count": 4458
+    },
+    {
+      "article_number": "44",
+      "title": "OVER 70 POUND SERVICE",
+      "page_start": 205,
+      "page_end": 208,
+      "section_count": 3,
+      "word_count": 884
+    },
+    {
+      "article_number": "45",
+      "title": "DURATION",
+      "page_start": 208,
+      "page_end": null,
+      "section_count": 4,
+      "word_count": 1541
+    }
+  ],
+  "key_topics": [
+    "wages",
+    "benefits",
+    "health_and_welfare",
+    "pension",
+    "hours_of_work",
+    "overtime",
+    "seniority",
+    "discipline",
+    "grievance_arbitration",
+    "union_security",
+    "leaves_of_absence",
+    "safety_and_health",
+    "holidays",
+    "vacations",
+    "job_classifications",
+    "supplemental_work",
+    "new_technology",
+    "subcontracting",
+    "part_time_employees",
+    "full_time_employees",
+    "feeders",
+    "package_delivery",
+    "air_operations",
+    "cartage",
+    "mechanics",
+    "combination_employees"
+  ],
+  "wage_parameters": [
+    {
+      "type": "hourly",
+      "value": 50.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 25.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 21.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 21.5,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 22.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 22.5,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 23.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 24.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 29.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 35.94,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 30.75,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 28.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "time_parameters": [
+    {
+      "type": "waiting_period",
+      "value": 78,
+      "unit": "weeks",
+      "description": "..........78\nWeekend Work S",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 11,
+      "unit": "days",
+      "description": "-\nArticle 11\nday-Saturday",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 6,
+      "unit": "weeks",
+      "description": "tal of 12/6 weeks of un-\npa",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 12,
+      "unit": "months",
+      "description": "pleting\na 12 month period of",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 19,
+      "unit": "weeks",
+      "description": "yee has 0-19\nweeks of servic",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 39,
+      "unit": "weeks",
+      "description": "y have 20-39 weeks of servic",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 40,
+      "unit": "weeks",
+      "description": "loyee has 40 weeks of servic",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 24,
+      "unit": "months",
+      "description": "11 0.6747\n24 months 0.6866 0.",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 36,
+      "unit": "months",
+      "description": "12 0.7158\n36 months 0.7465 0.",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 48,
+      "unit": "months",
+      "description": "23 0.7781\n48 months TOP RATE",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 5,
+      "unit": "working_days",
+      "description": "duled for 5 working\ndays as outlin",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "benefit_parameters": [
+    {
+      "type": "health_welfare_contribution",
+      "value": 2000.0,
+      "currency": "USD",
+      "unit": "month",
+      "description": "shall\tbe\t$2,000\tper\tmonth\tif\tless\tt",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 2500.0,
+      "currency": "USD",
+      "unit": "month",
+      "description": "nce\t and\t $2,500\t per\t month\t if\t at",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "pension_contribution",
+      "value": 3400.0,
+      "currency": "USD",
+      "unit": "month",
+      "description": "shall\nbe $3,400 per month regardles",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "pension_contribution",
+      "value": 3900.0,
+      "currency": "USD",
+      "unit": "month",
+      "description": "shall\t be\n$3,900 per month regardles",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "cross_references": [
+    {
+      "from_article": null,
+      "from_section": null,
+      "to_article": "29",
+      "to_section": null
+    }
+  ],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:29.276244+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  },
+  "enrichment_metadata": {
+    "enriched_at": "2026-04-08T23:31:24Z",
+    "enricher": "enrich_entities.py",
+    "sigma_used": 3,
+    "quality_filter": {
+      "extraction_method": "pypdf-tier0",
+      "min_words_per_page": 30,
+      "min_articles_plus_sections": 1
+    }
+  },
+  "wage_value_stats": {
+    "n": 12,
+    "mean": 27.7242,
+    "stdev": 8.3241,
+    "variance": 69.2903,
+    "range_low": 2.7519,
+    "range_high": 52.6964,
+    "sigma_used": 3,
+    "currency": "USD",
+    "unit": "hour"
+  },
+  "benefit_value_stats": {
+    "health_welfare_contribution": {
+      "n": 2,
+      "mean": 2250.0,
+      "stdev": 353.5534,
+      "variance": 125000.0,
+      "range_low": 1189.3398,
+      "range_high": 3310.6602,
+      "sigma_used": 3,
+      "currency": "USD",
+      "unit": "see_type"
+    },
+    "pension_contribution": {
+      "n": 2,
+      "mean": 3650.0,
+      "stdev": 353.5534,
+      "variance": 125000.0,
+      "range_low": 2589.3398,
+      "range_high": 4710.6602,
+      "sigma_used": 3,
+      "currency": "USD",
+      "unit": "see_type"
+    }
+  }
+}

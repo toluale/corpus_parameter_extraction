@@ -1,0 +1,1818 @@
+{
+  "document_id": "3a278f8b03609f5f",
+  "source_file": "83787-UPS-CENTRAL-PA-SUPPLEMENT-BOOK-FOR-WEB.pdf",
+  "document_type": "Supplemental Agreement",
+  "title": "NATIONAL MASTER",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": null,
+    "geographic_region": "Central Pennsylvania"
+  },
+  "effective_date": "July 31, 2028",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 0,
+  "page_count": 65,
+  "word_count": 18151,
+  "headers": [
+    {
+      "text": "NATIONAL MASTER",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Article 46: Work Performed by Supervisors  ................................213",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 47: Leave of Absence  .......................................................214",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 48: Seniority  .....................................................................216",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 49: Uniforms and Personal Appearance  ...........................230",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 50: Part-time Employees ...................................................231",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 51: Grievance Procedure  ..................................................235",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 52: Discharge or Suspension  ............................................239",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 53: Meal Period  ................................................................240",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 54: Paid for Time  .............................................................242",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 55: Wages and Working Conditions  .................................244",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 56: Impassable Highways  ................................................251",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 57: Maintenance of Standards  ..........................................251",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 58: Holidays and Sunday Work ........................................251",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 59: Vacations  ....................................................................255",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 60: Subcontracting  ...........................................................260",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 61: Air Conditioning .........................................................260",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 62: Feeder Drivers  ............................................................260",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 63: Union Cooperation  .....................................................260",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 64: Health & Welfare Fund Full-Time Employees  ..........261",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 65: Pension Fund Full-Time Employees ...........................263",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 66: Part-Time Employees Health & Welfare  ...................266",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 67: Part-Time Employees Pension  ...................................267",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 68: Sick Leave  ..................................................................268",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 69: Temporary Alternative Work ......................................269",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Time Off for Union Activities",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Leave of Absence",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 3: A driver whose driver’s license has been revoked is obligated to",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Acquisition of Seniority Orientation",
+      "page": 9,
+      "level": 3
+    },
+    {
+      "text": "Section 2: of the National Master Agreement. During orientation",
+      "page": 9,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Seniority, on a Center basis, shall prevail at all times. The applica-",
+      "page": 10,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Seniority shall be broken only by the following:",
+      "page": 11,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Reduction of Force",
+      "page": 12,
+      "level": 3
+    },
+    {
+      "text": "Section 6: The Local Union Representative and the Employer shall mutually",
+      "page": 14,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Bidding",
+      "page": 14,
+      "level": 3
+    },
+    {
+      "text": "Section 8: The Employer shall maintain individual seniority lists for auto me-",
+      "page": 21,
+      "level": 3
+    },
+    {
+      "text": "Section 9: Tractor Trailer School",
+      "page": 21,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Part-time employees are defined as employees who when reporting",
+      "page": 24,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Part-time Employees Transferring to",
+      "page": 25,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Part-time employees will work off the Part-time employee seniority",
+      "page": 26,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Part-time employees will not be permitted to do delivery driving,",
+      "page": 27,
+      "level": 3
+    },
+    {
+      "text": "Section 5: When any full-time inside employee is not working due to a long",
+      "page": 27,
+      "level": 3
+    },
+    {
+      "text": "Section 6: After a five (5) day layoff, a Part-time employee may exercise their",
+      "page": 28,
+      "level": 3
+    },
+    {
+      "text": "Section 7: The Company and the Union agree to the concept of creating addi-",
+      "page": 28,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Grievances",
+      "page": 28,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Arbitration",
+      "page": 30,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Approval by Package Division, and then",
+      "page": 31,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Illegal Strikes",
+      "page": 31,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Full-time employees, unless otherwise specified below, shall be en-",
+      "page": 33,
+      "level": 3
+    },
+    {
+      "text": "Section 2: The parties are agreed in principle that where practical the meal",
+      "page": 34,
+      "level": 3
+    },
+    {
+      "text": "Section 3: The Employer may direct any employee to work all or part of their",
+      "page": 34,
+      "level": 3
+    },
+    {
+      "text": "Section 4: At the option of the employee, they may either break this one (1)",
+      "page": 34,
+      "level": 3
+    },
+    {
+      "text": "Section 5: No employee shall use the Employer’s equipment to drive home to",
+      "page": 34,
+      "level": 3
+    },
+    {
+      "text": "Section 6: The meal period for employees assigned to work inside will be",
+      "page": 35,
+      "level": 3
+    },
+    {
+      "text": "Section 7: All full-time employees will be entitled to a paid ten (10) minute",
+      "page": 35,
+      "level": 3
+    },
+    {
+      "text": "Section 1: General",
+      "page": 35,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Employees called to work shall be allowed reasonable time, with-",
+      "page": 36,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Central Pennsylvania Wage Schedule",
+      "page": 37,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Work Day and Work Week",
+      "page": 42,
+      "level": 3
+    },
+    {
+      "text": "Section 3: An employee when requested by an Employer during the regular",
+      "page": 42,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Compensation for Work in Different",
+      "page": 42,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Overtime Application",
+      "page": 43,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Spotting Trailers",
+      "page": 43,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Work Assignment and Pay During",
+      "page": 43,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Holidays under this Agreement shall be New Year’s Day, Martin",
+      "page": 44,
+      "level": 3
+    },
+    {
+      "text": "Section 2: All time worked in job classifications subject to hourly rates and",
+      "page": 46,
+      "level": 3
+    },
+    {
+      "text": "Section 3: When operating schedules require that Part-time employees work",
+      "page": 47,
+      "level": 3
+    },
+    {
+      "text": "Section 4: All employees considered on the seniority list as regular employ-",
+      "page": 47,
+      "level": 3
+    },
+    {
+      "text": "Section 5: An employee shall not be paid for a specified holiday when they",
+      "page": 47,
+      "level": 3
+    },
+    {
+      "text": "Section 6: When any of the above specified holidays occur on a Sunday, the",
+      "page": 47,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Holiday Pay",
+      "page": 47,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Qualifications",
+      "page": 48,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Vacation Periods",
+      "page": 50,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Posting of Vacation Schedules",
+      "page": 51,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Holiday Pay During Vacation",
+      "page": 51,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Return Serviceman",
+      "page": 51,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Vacation Pay",
+      "page": 52,
+      "level": 3
+    },
+    {
+      "text": "Section 1: The Employer may subcontract work when all of their regular em-",
+      "page": 53,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Employer",
+      "page": 54,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Eligibility of Employees",
+      "page": 54,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Audits and Penalties",
+      "page": 55,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Employer Contributions During",
+      "page": 55,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Employer Contributions",
+      "page": 56,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Employee Eligibility",
+      "page": 57,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Audit and Penalties",
+      "page": 58,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Employer Contributions During",
+      "page": 58,
+      "level": 3
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "47.1",
+      "parent_article": "47",
+      "title": "Time Off for Union Activities",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 108
+    },
+    {
+      "section_id": "47.2",
+      "parent_article": "47",
+      "title": "Leave of Absence",
+      "page_start": 7,
+      "page_end": 8,
+      "word_count": 150
+    },
+    {
+      "section_id": "47.3",
+      "parent_article": "47",
+      "title": "A driver whose driver’s license has been revoked is obligated to",
+      "page_start": 8,
+      "page_end": 9,
+      "word_count": 373
+    },
+    {
+      "section_id": "48.1",
+      "parent_article": "48",
+      "title": "Acquisition of Seniority Orientation",
+      "page_start": 9,
+      "page_end": 9,
+      "word_count": 193
+    },
+    {
+      "section_id": "48.2",
+      "parent_article": "48",
+      "title": "of the National Master Agreement. During orientation",
+      "page_start": 9,
+      "page_end": 10,
+      "word_count": 237
+    },
+    {
+      "section_id": "48.3",
+      "parent_article": "48",
+      "title": "Seniority, on a Center basis, shall prevail at all times. The applica-",
+      "page_start": 10,
+      "page_end": 11,
+      "word_count": 374
+    },
+    {
+      "section_id": "48.4",
+      "parent_article": "48",
+      "title": "Seniority shall be broken only by the following:",
+      "page_start": 11,
+      "page_end": 12,
+      "word_count": 169
+    },
+    {
+      "section_id": "48.5",
+      "parent_article": "48",
+      "title": "Reduction of Force",
+      "page_start": 12,
+      "page_end": 14,
+      "word_count": 523
+    },
+    {
+      "section_id": "48.6",
+      "parent_article": "48",
+      "title": "The Local Union Representative and the Employer shall mutually",
+      "page_start": 14,
+      "page_end": 14,
+      "word_count": 67
+    },
+    {
+      "section_id": "48.7",
+      "parent_article": "48",
+      "title": "Bidding",
+      "page_start": 14,
+      "page_end": 21,
+      "word_count": 2683
+    },
+    {
+      "section_id": "48.8",
+      "parent_article": "48",
+      "title": "The Employer shall maintain individual seniority lists for auto me-",
+      "page_start": 21,
+      "page_end": 21,
+      "word_count": 66
+    },
+    {
+      "section_id": "48.9",
+      "parent_article": "48",
+      "title": "Tractor Trailer School",
+      "page_start": 21,
+      "page_end": 24,
+      "word_count": 971
+    },
+    {
+      "section_id": "50.1",
+      "parent_article": "50",
+      "title": "Part-time employees are defined as employees who when reporting",
+      "page_start": 24,
+      "page_end": 25,
+      "word_count": 171
+    },
+    {
+      "section_id": "50.2",
+      "parent_article": "50",
+      "title": "Part-time Employees Transferring to",
+      "page_start": 25,
+      "page_end": 26,
+      "word_count": 452
+    },
+    {
+      "section_id": "50.3",
+      "parent_article": "50",
+      "title": "Part-time employees will work off the Part-time employee seniority",
+      "page_start": 26,
+      "page_end": 27,
+      "word_count": 244
+    },
+    {
+      "section_id": "50.4",
+      "parent_article": "50",
+      "title": "Part-time employees will not be permitted to do delivery driving,",
+      "page_start": 27,
+      "page_end": 27,
+      "word_count": 112
+    },
+    {
+      "section_id": "50.5",
+      "parent_article": "50",
+      "title": "When any full-time inside employee is not working due to a long",
+      "page_start": 27,
+      "page_end": 28,
+      "word_count": 138
+    },
+    {
+      "section_id": "50.6",
+      "parent_article": "50",
+      "title": "After a five (5) day layoff, a Part-time employee may exercise their",
+      "page_start": 28,
+      "page_end": 28,
+      "word_count": 53
+    },
+    {
+      "section_id": "50.7",
+      "parent_article": "50",
+      "title": "The Company and the Union agree to the concept of creating addi-",
+      "page_start": 28,
+      "page_end": 28,
+      "word_count": 43
+    },
+    {
+      "section_id": "51.1",
+      "parent_article": "51",
+      "title": "Grievances",
+      "page_start": 28,
+      "page_end": 30,
+      "word_count": 642
+    },
+    {
+      "section_id": "51.2",
+      "parent_article": "51",
+      "title": "Arbitration",
+      "page_start": 30,
+      "page_end": 31,
+      "word_count": 271
+    },
+    {
+      "section_id": "51.3",
+      "parent_article": "51",
+      "title": "Approval by Package Division, and then",
+      "page_start": 31,
+      "page_end": 31,
+      "word_count": 108
+    },
+    {
+      "section_id": "51.4",
+      "parent_article": "51",
+      "title": "Illegal Strikes",
+      "page_start": 31,
+      "page_end": 33,
+      "word_count": 651
+    },
+    {
+      "section_id": "53.1",
+      "parent_article": "53",
+      "title": "Full-time employees, unless otherwise specified below, shall be en-",
+      "page_start": 33,
+      "page_end": 34,
+      "word_count": 245
+    },
+    {
+      "section_id": "53.2",
+      "parent_article": "53",
+      "title": "The parties are agreed in principle that where practical the meal",
+      "page_start": 34,
+      "page_end": 34,
+      "word_count": 36
+    },
+    {
+      "section_id": "53.3",
+      "parent_article": "53",
+      "title": "The Employer may direct any employee to work all or part of their",
+      "page_start": 34,
+      "page_end": 34,
+      "word_count": 66
+    },
+    {
+      "section_id": "53.4",
+      "parent_article": "53",
+      "title": "At the option of the employee, they may either break this one (1)",
+      "page_start": 34,
+      "page_end": 34,
+      "word_count": 97
+    },
+    {
+      "section_id": "53.5",
+      "parent_article": "53",
+      "title": "No employee shall use the Employer’s equipment to drive home to",
+      "page_start": 34,
+      "page_end": 35,
+      "word_count": 15
+    },
+    {
+      "section_id": "53.6",
+      "parent_article": "53",
+      "title": "The meal period for employees assigned to work inside will be",
+      "page_start": 35,
+      "page_end": 35,
+      "word_count": 48
+    },
+    {
+      "section_id": "53.7",
+      "parent_article": "53",
+      "title": "All full-time employees will be entitled to a paid ten (10) minute",
+      "page_start": 35,
+      "page_end": 35,
+      "word_count": 121
+    },
+    {
+      "section_id": "54.1",
+      "parent_article": "54",
+      "title": "General",
+      "page_start": 35,
+      "page_end": 36,
+      "word_count": 342
+    },
+    {
+      "section_id": "54.2",
+      "parent_article": "54",
+      "title": "Employees called to work shall be allowed reasonable time, with-",
+      "page_start": 36,
+      "page_end": 37,
+      "word_count": 147
+    },
+    {
+      "section_id": "55.1",
+      "parent_article": "55",
+      "title": "Central Pennsylvania Wage Schedule",
+      "page_start": 37,
+      "page_end": 42,
+      "word_count": 1098
+    },
+    {
+      "section_id": "55.2",
+      "parent_article": "55",
+      "title": "Work Day and Work Week",
+      "page_start": 42,
+      "page_end": 42,
+      "word_count": 228
+    },
+    {
+      "section_id": "55.3",
+      "parent_article": "55",
+      "title": "An employee when requested by an Employer during the regular",
+      "page_start": 42,
+      "page_end": 42,
+      "word_count": 29
+    },
+    {
+      "section_id": "55.4",
+      "parent_article": "55",
+      "title": "Compensation for Work in Different",
+      "page_start": 42,
+      "page_end": 43,
+      "word_count": 90
+    },
+    {
+      "section_id": "55.5",
+      "parent_article": "55",
+      "title": "Overtime Application",
+      "page_start": 43,
+      "page_end": 43,
+      "word_count": 19
+    },
+    {
+      "section_id": "55.6",
+      "parent_article": "55",
+      "title": "Spotting Trailers",
+      "page_start": 43,
+      "page_end": 43,
+      "word_count": 20
+    },
+    {
+      "section_id": "55.7",
+      "parent_article": "55",
+      "title": "Work Assignment and Pay During",
+      "page_start": 43,
+      "page_end": 44,
+      "word_count": 453
+    },
+    {
+      "section_id": "58.1",
+      "parent_article": "58",
+      "title": "Holidays under this Agreement shall be New Year’s Day, Martin",
+      "page_start": 44,
+      "page_end": 46,
+      "word_count": 486
+    },
+    {
+      "section_id": "58.2",
+      "parent_article": "58",
+      "title": "All time worked in job classifications subject to hourly rates and",
+      "page_start": 46,
+      "page_end": 47,
+      "word_count": 159
+    },
+    {
+      "section_id": "58.3",
+      "parent_article": "58",
+      "title": "When operating schedules require that Part-time employees work",
+      "page_start": 47,
+      "page_end": 47,
+      "word_count": 68
+    },
+    {
+      "section_id": "58.4",
+      "parent_article": "58",
+      "title": "All employees considered on the seniority list as regular employ-",
+      "page_start": 47,
+      "page_end": 47,
+      "word_count": 36
+    },
+    {
+      "section_id": "58.5",
+      "parent_article": "58",
+      "title": "An employee shall not be paid for a specified holiday when they",
+      "page_start": 47,
+      "page_end": 47,
+      "word_count": 56
+    },
+    {
+      "section_id": "58.6",
+      "parent_article": "58",
+      "title": "When any of the above specified holidays occur on a Sunday, the",
+      "page_start": 47,
+      "page_end": 47,
+      "word_count": 27
+    },
+    {
+      "section_id": "58.7",
+      "parent_article": "58",
+      "title": "Holiday Pay",
+      "page_start": 47,
+      "page_end": 48,
+      "word_count": 264
+    },
+    {
+      "section_id": "59.2",
+      "parent_article": "59",
+      "title": "Qualifications",
+      "page_start": 48,
+      "page_end": 50,
+      "word_count": 544
+    },
+    {
+      "section_id": "59.3",
+      "parent_article": "59",
+      "title": "Vacation Periods",
+      "page_start": 50,
+      "page_end": 51,
+      "word_count": 215
+    },
+    {
+      "section_id": "59.4",
+      "parent_article": "59",
+      "title": "Posting of Vacation Schedules",
+      "page_start": 51,
+      "page_end": 51,
+      "word_count": 64
+    },
+    {
+      "section_id": "59.5",
+      "parent_article": "59",
+      "title": "Holiday Pay During Vacation",
+      "page_start": 51,
+      "page_end": 51,
+      "word_count": 24
+    },
+    {
+      "section_id": "59.6",
+      "parent_article": "59",
+      "title": "Return Serviceman",
+      "page_start": 51,
+      "page_end": 52,
+      "word_count": 235
+    },
+    {
+      "section_id": "59.7",
+      "parent_article": "59",
+      "title": "Vacation Pay",
+      "page_start": 52,
+      "page_end": 53,
+      "word_count": 130
+    },
+    {
+      "section_id": "60.1",
+      "parent_article": "60",
+      "title": "The Employer may subcontract work when all of their regular em-",
+      "page_start": 53,
+      "page_end": 54,
+      "word_count": 199
+    },
+    {
+      "section_id": "64.1",
+      "parent_article": "64",
+      "title": "Employer",
+      "page_start": 54,
+      "page_end": 54,
+      "word_count": 194
+    },
+    {
+      "section_id": "64.2",
+      "parent_article": "64",
+      "title": "Eligibility of Employees",
+      "page_start": 54,
+      "page_end": 55,
+      "word_count": 66
+    },
+    {
+      "section_id": "64.3",
+      "parent_article": "64",
+      "title": "Audits and Penalties",
+      "page_start": 55,
+      "page_end": 55,
+      "word_count": 143
+    },
+    {
+      "section_id": "64.4",
+      "parent_article": "64",
+      "title": "Employer Contributions During",
+      "page_start": 55,
+      "page_end": 56,
+      "word_count": 278
+    },
+    {
+      "section_id": "65.1",
+      "parent_article": "65",
+      "title": "Employer Contributions",
+      "page_start": 56,
+      "page_end": 57,
+      "word_count": 271
+    },
+    {
+      "section_id": "65.2",
+      "parent_article": "65",
+      "title": "Employee Eligibility",
+      "page_start": 57,
+      "page_end": 58,
+      "word_count": 212
+    },
+    {
+      "section_id": "65.3",
+      "parent_article": "65",
+      "title": "Audit and Penalties",
+      "page_start": 58,
+      "page_end": 58,
+      "word_count": 143
+    },
+    {
+      "section_id": "65.4",
+      "parent_article": "65",
+      "title": "Employer Contributions During",
+      "page_start": 58,
+      "page_end": null,
+      "word_count": 1642
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "46",
+      "title": "Work Performed by Supervisors  ................................213",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "47",
+      "title": "Leave of Absence  .......................................................214",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "48",
+      "title": "Seniority  .....................................................................216",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "49",
+      "title": "Uniforms and Personal Appearance  ...........................230",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "50",
+      "title": "Part-time Employees ...................................................231",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "51",
+      "title": "Grievance Procedure  ..................................................235",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "52",
+      "title": "Discharge or Suspension  ............................................239",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "53",
+      "title": "Meal Period  ................................................................240",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "54",
+      "title": "Paid for Time  .............................................................242",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "55",
+      "title": "Wages and Working Conditions  .................................244",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "56",
+      "title": "Impassable Highways  ................................................251",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "57",
+      "title": "Maintenance of Standards  ..........................................251",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "58",
+      "title": "Holidays and Sunday Work ........................................251",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "59",
+      "title": "Vacations  ....................................................................255",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "60",
+      "title": "Subcontracting  ...........................................................260",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "61",
+      "title": "Air Conditioning .........................................................260",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "62",
+      "title": "Feeder Drivers  ............................................................260",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "63",
+      "title": "Union Cooperation  .....................................................260",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "64",
+      "title": "Health & Welfare Fund Full-Time Employees  ..........261",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "65",
+      "title": "Pension Fund Full-Time Employees ...........................263",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "66",
+      "title": "Part-Time Employees Health & Welfare  ...................266",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "67",
+      "title": "Part-Time Employees Pension  ...................................267",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "68",
+      "title": "Sick Leave  ..................................................................268",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "69",
+      "title": "Temporary Alternative Work ......................................269",
+      "page_start": 4,
+      "page_end": null,
+      "section_count": 0,
+      "word_count": 17654
+    }
+  ],
+  "key_topics": [
+    "wages",
+    "benefits",
+    "health_and_welfare",
+    "pension",
+    "hours_of_work",
+    "overtime",
+    "seniority",
+    "discipline",
+    "grievance_arbitration",
+    "leaves_of_absence",
+    "safety_and_health",
+    "holidays",
+    "vacations",
+    "job_classifications",
+    "supplemental_work",
+    "subcontracting",
+    "part_time_employees",
+    "full_time_employees",
+    "feeders",
+    "package_delivery",
+    "mechanics"
+  ],
+  "wage_parameters": [
+    {
+      "type": "hourly",
+      "value": 41.6,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Feeder drivers",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 41.64,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "mechanic",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 39.68,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Carwasher, porter",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 39.75,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Package handler",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 41.41,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Sorter",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 35.94,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Inside, Inside 22.3",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 41.5,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.25,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.75,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.75,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 49.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 41.6,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.35,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.1,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.85,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.85,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 49.1,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 42.1,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.85,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.6,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.35,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 47.35,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 49.6,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 42.25,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.5,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 47.5,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 49.75,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 41.64,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.39,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.14,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.89,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.89,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 49.14,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 39.68,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 42.43,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 43.18,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 43.93,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.93,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 47.18,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 39.75,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 42.5,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 43.25,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 47.25,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 41.41,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.16,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.91,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.66,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.66,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "time_parameters": [
+    {
+      "type": "waiting_period",
+      "value": 9,
+      "unit": "months",
+      "description": "ate\nAfter 9 months  80% of M",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 18,
+      "unit": "months",
+      "description": "ate\nAfter 18 months  85% of M",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 27,
+      "unit": "months",
+      "description": "ate\nAfter 27 months  90% of M",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 36,
+      "unit": "months",
+      "description": "ate\nAfter 36 months  95% of M",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 48,
+      "unit": "months",
+      "description": "ate\nAfter 48 months 100% of M",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 1,
+      "unit": "weeks",
+      "description": "n 2 years 1 week\n2 years,",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 2,
+      "unit": "weeks",
+      "description": "n 9 years 2 weeks\n9 years,",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 3,
+      "unit": "weeks",
+      "description": "15 years 3 weeks\n15 years,",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 4,
+      "unit": "weeks",
+      "description": "20 years 4 weeks\n20 years,",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 5,
+      "unit": "weeks",
+      "description": "25 years 5 weeks\n25 years",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 6,
+      "unit": "weeks",
+      "description": "s or more 6 weeks\nSection 2",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "benefit_parameters": [],
+  "cross_references": [],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:29.665074+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  }
+}

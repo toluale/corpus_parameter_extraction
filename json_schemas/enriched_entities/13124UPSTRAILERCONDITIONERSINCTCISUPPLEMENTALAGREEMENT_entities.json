@@ -1,0 +1,926 @@
+{
+  "document_id": "6d235d2800b62352",
+  "source_file": "13124UPSTRAILERCONDITIONERSINCTCISUPPLEMENTALAGREEMENT.pdf",
+  "document_type": "Supplemental Agreement",
+  "title": "Southern Region",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": null,
+    "geographic_region": "Southern Region"
+  },
+  "effective_date": "August 1, 2023",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 1826,
+  "page_count": 86,
+  "word_count": 24645,
+  "headers": [
+    {
+      "text": "Southern Region",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Article 1: RECOGNITION, UNION SHOP AND",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Recognition  ........................................................1",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Union Shop and Dues ........................................2",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Dues Checkoff and Joint Dues Committee  ........3",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Work Assignments .............................................6",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 5: 6",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 6: 6",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 2: STEWARDS .............................................................7",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 3: INSPECTION PRIVILEGES ...................................9",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 4: MANAGEMENT  ...................................................10",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 5: SENIORITY  ...........................................................11",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: SENIORITY RIGHTS ..................................... 11",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: PROBATIONARY PERIOD ............................11",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: BARGAINING UNIT WORK .........................12",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 4: CLASSIFICATIONS .......................................12",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 5: ANNUAL BID .................................................12",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 6: JOB V ACANCY OR NEW OPENING ...........13",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 7: TRAILER REPAIR AND ITS",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 8: LAYOFF AND RECALL  .................................15",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 9: CHANGE OF ADDRESS  ................................16",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 10: MECHANIC POSITION AT UPS .................16",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 6: CLOSING OR REOPENING  ................................17",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 7: LEA VE OF ABSENCE ..........................................17",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 17",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 18",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: LOSS OF LICENSE  ........................................18",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 4: MATERNITY AND PATERNITY LEA VE .....20",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 5: REHABILITATION PROGRAM—",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 6: FAMILY AND MEDICAL LEA VE ACT",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 7: DISABILITY  ...................................................24",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 8: GRIEV ANCES .......................................................24",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 9: ARBITRATION .....................................................26",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 10: STRIKES AND LOCK-OUTS .............................27",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 11: DISCIPLINE AND DISCHARGE  .......................28",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 12: BULLETINS AND NOTICES  .............................28",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 13: HEALTH & SAFETY  ..........................................29",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 14: WAGES & APPENDIX (A) WAGE",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 15: HOURS OF WORK AND OVERTIME ..............31",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 31",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 32",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 16: REPORTING PAY—",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 17: V ACATIONS ........................................................33",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 18: HOLIDAY PAY  ....................................................36",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 19: FUNERAL LEA VE ..............................................37",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 20: JURY DUTY  ........................................................38",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 21: RETIREMENT AND GROUP INSURANCE .......40",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: RETIREMENT—",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: GROUP INSURANCE  ....................................41",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 3: TAX DEFERRED SA VINGS PLAN 401(K) ....41",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 4: LONG-TERM DISABILITY  ...........................41",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 22: TOOL INSURANCE  ............................................42",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 23: OTHER EMPLOYMENT  ....................................43",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 24: LEGISLATION ....................................................43",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 25: AMENDMENTS TO THE AGREEMENT  .........43",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 26: DURATION .........................................................44",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 27: APPEARANCE ....................................................45",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 28: EMPLOYEE’S BAIL, LICENSE,",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: EMPLOYEE’S BAIL AND/OR",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: SUSPENSION OR",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 3: CONTROLLED SUBSTANCE TESTING .......46",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 4: ALCOHOL TESTING .....................................65",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 1: This Agreement shall be in full force and effect from August 1,",
+      "page": 51,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Where no such cancellation or termination notice is served and the",
+      "page": 51,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Revisions agreed upon or ordered shall be effective as of August 1,",
+      "page": 51,
+      "level": 3
+    },
+    {
+      "text": "Section 4: In the event of an inadvertent failure by either party to give notice",
+      "page": 51,
+      "level": 3
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1.1",
+      "parent_article": "1",
+      "title": "Recognition  ........................................................1",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "1.2",
+      "parent_article": "1",
+      "title": "Union Shop and Dues ........................................2",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "1.3",
+      "parent_article": "1",
+      "title": "Dues Checkoff and Joint Dues Committee  ........3",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "1.4",
+      "parent_article": "1",
+      "title": "Work Assignments .............................................6",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "1.5",
+      "parent_article": "1",
+      "title": "6",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "1.6",
+      "parent_article": "1",
+      "title": "6",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "5.1",
+      "parent_article": "5",
+      "title": "SENIORITY RIGHTS ..................................... 11",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "5.2",
+      "parent_article": "5",
+      "title": "PROBATIONARY PERIOD ............................11",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "5.3",
+      "parent_article": "5",
+      "title": "BARGAINING UNIT WORK .........................12",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "5.4",
+      "parent_article": "5",
+      "title": "CLASSIFICATIONS .......................................12",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "5.5",
+      "parent_article": "5",
+      "title": "ANNUAL BID .................................................12",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "5.6",
+      "parent_article": "5",
+      "title": "JOB V ACANCY OR NEW OPENING ...........13",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "5.7",
+      "parent_article": "5",
+      "title": "TRAILER REPAIR AND ITS",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 2
+    },
+    {
+      "section_id": "5.8",
+      "parent_article": "5",
+      "title": "LAYOFF AND RECALL  .................................15",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "5.9",
+      "parent_article": "5",
+      "title": "CHANGE OF ADDRESS  ................................16",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "5.10",
+      "parent_article": "5",
+      "title": "MECHANIC POSITION AT UPS .................16",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "7.1",
+      "parent_article": "7",
+      "title": "17",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "7.2",
+      "parent_article": "7",
+      "title": "18",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "7.3",
+      "parent_article": "7",
+      "title": "LOSS OF LICENSE  ........................................18",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 6
+    },
+    {
+      "section_id": "7.4",
+      "parent_article": "7",
+      "title": "MATERNITY AND PATERNITY LEA VE .....20",
+      "page_start": 4,
+      "page_end": 5,
+      "word_count": 6
+    },
+    {
+      "section_id": "7.5",
+      "parent_article": "7",
+      "title": "REHABILITATION PROGRAM—",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 5
+    },
+    {
+      "section_id": "7.6",
+      "parent_article": "7",
+      "title": "FAMILY AND MEDICAL LEA VE ACT",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 2
+    },
+    {
+      "section_id": "7.7",
+      "parent_article": "7",
+      "title": "DISABILITY  ...................................................24",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 2
+    },
+    {
+      "section_id": "15.1",
+      "parent_article": "15",
+      "title": "31",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "15.2",
+      "parent_article": "15",
+      "title": "32",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 3
+    },
+    {
+      "section_id": "21.1",
+      "parent_article": "21",
+      "title": "RETIREMENT—",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 4
+    },
+    {
+      "section_id": "21.2",
+      "parent_article": "21",
+      "title": "GROUP INSURANCE  ....................................41",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "21.3",
+      "parent_article": "21",
+      "title": "TAX DEFERRED SA VINGS PLAN 401(K) ....41",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "21.4",
+      "parent_article": "21",
+      "title": "LONG-TERM DISABILITY  ...........................41",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 5
+    },
+    {
+      "section_id": "28.1",
+      "parent_article": "28",
+      "title": "EMPLOYEE’S BAIL AND/OR",
+      "page_start": 5,
+      "page_end": 6,
+      "word_count": 6
+    },
+    {
+      "section_id": "28.2",
+      "parent_article": "28",
+      "title": "SUSPENSION OR",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 4
+    },
+    {
+      "section_id": "28.3",
+      "parent_article": "28",
+      "title": "CONTROLLED SUBSTANCE TESTING .......46",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 19
+    },
+    {
+      "section_id": "28.4",
+      "parent_article": "28",
+      "title": "ALCOHOL TESTING .....................................65",
+      "page_start": 6,
+      "page_end": 51,
+      "word_count": 13770
+    },
+    {
+      "section_id": "26.1",
+      "parent_article": "26",
+      "title": "This Agreement shall be in full force and effect from August 1,",
+      "page_start": 51,
+      "page_end": 51,
+      "word_count": 57
+    },
+    {
+      "section_id": "26.2",
+      "parent_article": "26",
+      "title": "Where no such cancellation or termination notice is served and the",
+      "page_start": 51,
+      "page_end": 51,
+      "word_count": 70
+    },
+    {
+      "section_id": "26.3",
+      "parent_article": "26",
+      "title": "Revisions agreed upon or ordered shall be effective as of August 1,",
+      "page_start": 51,
+      "page_end": 51,
+      "word_count": 46
+    },
+    {
+      "section_id": "26.4",
+      "parent_article": "26",
+      "title": "In the event of an inadvertent failure by either party to give notice",
+      "page_start": 51,
+      "page_end": null,
+      "word_count": 9726
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "1",
+      "title": "RECOGNITION, UNION SHOP AND",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 6,
+      "word_count": 4
+    },
+    {
+      "article_number": "2",
+      "title": "STEWARDS .............................................................7",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "3",
+      "title": "INSPECTION PRIVILEGES ...................................9",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "4",
+      "title": "MANAGEMENT  ...................................................10",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "5",
+      "title": "SENIORITY  ...........................................................11",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 10,
+      "word_count": 2
+    },
+    {
+      "article_number": "6",
+      "title": "CLOSING OR REOPENING  ................................17",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "7",
+      "title": "LEA VE OF ABSENCE ..........................................17",
+      "page_start": 4,
+      "page_end": 5,
+      "section_count": 7,
+      "word_count": 19
+    },
+    {
+      "article_number": "8",
+      "title": "GRIEV ANCES .......................................................24",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "9",
+      "title": "ARBITRATION .....................................................26",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "10",
+      "title": "STRIKES AND LOCK-OUTS .............................27",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "11",
+      "title": "DISCIPLINE AND DISCHARGE  .......................28",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "12",
+      "title": "BULLETINS AND NOTICES  .............................28",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "13",
+      "title": "HEALTH & SAFETY  ..........................................29",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "14",
+      "title": "WAGES & APPENDIX (A) WAGE",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 2
+    },
+    {
+      "article_number": "15",
+      "title": "HOURS OF WORK AND OVERTIME ..............31",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 2,
+      "word_count": 0
+    },
+    {
+      "article_number": "16",
+      "title": "REPORTING PAY—",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 3
+    },
+    {
+      "article_number": "17",
+      "title": "V ACATIONS ........................................................33",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "18",
+      "title": "HOLIDAY PAY  ....................................................36",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "19",
+      "title": "FUNERAL LEA VE ..............................................37",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "20",
+      "title": "JURY DUTY  ........................................................38",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "21",
+      "title": "RETIREMENT AND GROUP INSURANCE .......40",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 4,
+      "word_count": 4
+    },
+    {
+      "article_number": "22",
+      "title": "TOOL INSURANCE  ............................................42",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "23",
+      "title": "OTHER EMPLOYMENT  ....................................43",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "24",
+      "title": "LEGISLATION ....................................................43",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "25",
+      "title": "AMENDMENTS TO THE AGREEMENT  .........43",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "26",
+      "title": "DURATION .........................................................44",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "27",
+      "title": "APPEARANCE ....................................................45",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "28",
+      "title": "EMPLOYEE’S BAIL, LICENSE,",
+      "page_start": 5,
+      "page_end": null,
+      "section_count": 4,
+      "word_count": 23703
+    }
+  ],
+  "key_topics": [
+    "wages",
+    "benefits",
+    "health_and_welfare",
+    "pension",
+    "hours_of_work",
+    "overtime",
+    "seniority",
+    "discipline",
+    "grievance_arbitration",
+    "union_security",
+    "leaves_of_absence",
+    "safety_and_health",
+    "holidays",
+    "vacations",
+    "job_classifications",
+    "supplemental_work",
+    "part_time_employees",
+    "full_time_employees",
+    "feeders",
+    "mechanics"
+  ],
+  "wage_parameters": [],
+  "time_parameters": [
+    {
+      "type": "waiting_period",
+      "value": 6,
+      "unit": "weeks",
+      "description": "tal of 12/6 weeks of un-\npa",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "benefit_parameters": [],
+  "cross_references": [],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:26.562232+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  },
+  "enrichment_metadata": {
+    "enriched_at": "2026-04-08T23:31:24Z",
+    "enricher": "enrich_entities.py",
+    "sigma_used": 3,
+    "quality_filter": {
+      "extraction_method": "pypdf-tier0",
+      "min_words_per_page": 30,
+      "min_articles_plus_sections": 1
+    }
+  }
+}

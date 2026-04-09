@@ -1,0 +1,189 @@
+{
+  "document_id": "8865bd8cbd6f6832",
+  "source_file": "UPS-LOCAL-100-RIDER.pdf",
+  "document_type": "Rider",
+  "title": "NATIONAL MASTER",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": "100",
+    "geographic_region": "Central Region"
+  },
+  "effective_date": "August 1, 2023",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 1826,
+  "page_count": 17,
+  "word_count": 3567,
+  "headers": [
+    {
+      "text": "NATIONAL MASTER",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Section 1: Seniority shall be measured by length of continuous service with",
+      "page": 3,
+      "level": 3
+    },
+    {
+      "text": "Section 2: The Employer shall not require, as a condition of continued em-",
+      "page": 3,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Seniority shall be broken only by discharge for just cause; volun-",
+      "page": 3,
+      "level": 3
+    },
+    {
+      "text": "Section 4: (a)  In the event of layoff, the employee with the least seniority",
+      "page": 3,
+      "level": 3
+    },
+    {
+      "text": "Section 5: A laid off employee shall be given two (2) weeks notice of recall.",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Seniority works on a city wide basis including Gest Street, Sharon-",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Seniority shall prevail for extra work on Saturdays and Sundays,",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 8: (a)  Seniority shall prevail for extra work which leads to overtime,",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 9: Employees who are interested in qualifying as a tractor-trailer driv-",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 10: In the event any bid job is permanently eliminated, that employee",
+      "page": 6,
+      "level": 3
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "NA.1",
+      "parent_article": null,
+      "title": "Seniority shall be measured by length of continuous service with",
+      "page_start": 3,
+      "page_end": 3,
+      "word_count": 22
+    },
+    {
+      "section_id": "NA.2",
+      "parent_article": null,
+      "title": "The Employer shall not require, as a condition of continued em-",
+      "page_start": 3,
+      "page_end": 3,
+      "word_count": 44
+    },
+    {
+      "section_id": "NA.3",
+      "parent_article": null,
+      "title": "Seniority shall be broken only by discharge for just cause; volun-",
+      "page_start": 3,
+      "page_end": 3,
+      "word_count": 58
+    },
+    {
+      "section_id": "NA.4",
+      "parent_article": null,
+      "title": "(a)  In the event of layoff, the employee with the least seniority",
+      "page_start": 3,
+      "page_end": 4,
+      "word_count": 107
+    },
+    {
+      "section_id": "NA.5",
+      "parent_article": null,
+      "title": "A laid off employee shall be given two (2) weeks notice of recall.",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 86
+    },
+    {
+      "section_id": "NA.6",
+      "parent_article": null,
+      "title": "Seniority works on a city wide basis including Gest Street, Sharon-",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 109
+    },
+    {
+      "section_id": "NA.7",
+      "parent_article": null,
+      "title": "Seniority shall prevail for extra work on Saturdays and Sundays,",
+      "page_start": 4,
+      "page_end": 5,
+      "word_count": 20
+    },
+    {
+      "section_id": "NA.8",
+      "parent_article": null,
+      "title": "(a)  Seniority shall prevail for extra work which leads to overtime,",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 121
+    },
+    {
+      "section_id": "NA.9",
+      "parent_article": null,
+      "title": "Employees who are interested in qualifying as a tractor-trailer driv-",
+      "page_start": 5,
+      "page_end": 6,
+      "word_count": 278
+    },
+    {
+      "section_id": "NA.10",
+      "parent_article": null,
+      "title": "In the event any bid job is permanently eliminated, that employee",
+      "page_start": 6,
+      "page_end": null,
+      "word_count": 2625
+    }
+  ],
+  "articles": [],
+  "key_topics": [
+    "health_and_welfare",
+    "seniority",
+    "vacations",
+    "job_classifications",
+    "part_time_employees",
+    "full_time_employees",
+    "feeders",
+    "package_delivery",
+    "air_operations"
+  ],
+  "wage_parameters": [],
+  "time_parameters": [],
+  "benefit_parameters": [],
+  "cross_references": [],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:33.560401+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  },
+  "enrichment_metadata": {
+    "enriched_at": "2026-04-08T23:31:24Z",
+    "enricher": "enrich_entities.py",
+    "sigma_used": 3,
+    "quality_filter": {
+      "extraction_method": "pypdf-tier0",
+      "min_words_per_page": 30,
+      "min_articles_plus_sections": 1
+    }
+  }
+}

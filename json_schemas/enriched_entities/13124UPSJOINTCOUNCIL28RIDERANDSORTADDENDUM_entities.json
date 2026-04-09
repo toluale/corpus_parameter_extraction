@@ -1,0 +1,1615 @@
+{
+  "document_id": "47d18e8f8628ae2c",
+  "source_file": "13124UPSJOINTCOUNCIL28RIDERANDSORTADDENDUM.pdf",
+  "document_type": "Rider",
+  "title": "NATIONAL MASTER",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": null,
+    "geographic_region": "Western Region"
+  },
+  "effective_date": "August 1, 2023",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 1826,
+  "page_count": 77,
+  "word_count": 20066,
+  "headers": [
+    {
+      "text": "NATIONAL MASTER",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Article I: HOURS OF WORK- OVERTIME- AREA",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article II: CHANGE OF OPERATIONS ...............................288",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article III: WORK ASSIGNMENTS .....................................288",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article IV: PROTECTION OF RIGHTS ................................289",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article V: LAYOFF AND RECALL .......................................290",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article VI: BEREVEMENT LEA VE .....................................290",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article VII: JURY DUTY .......................................................290",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article VIII: SICK LEA VE, WORKERS",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article IX: V ACATIONS ........................................................294",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article X: HOLIDAYS ...........................................................298",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article XI: SUSPENSIONS AND DISCHARGES ................300",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article XII: HEALTH & WELFARE, DENTAL &",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article XIII: PENSION ..........................................................304",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article XIV: SA VINGS ..........................................................307",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article XV: LEGAL SERVICES TRUST FUND ...................308",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article XVI: NEW CUSTOMER COUNTER CLERKS",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article XVII: CLASSIFICATIONS SCALE OF WAGES .....312",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: FULL TIME",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 2: OVERTIME",
+      "page": 9,
+      "level": 3
+    },
+    {
+      "text": "Section 3: NEW HIRES",
+      "page": 9,
+      "level": 3
+    },
+    {
+      "text": "Section 4: DELIVERY AREA OPENINGS IN",
+      "page": 9,
+      "level": 3
+    },
+    {
+      "text": "Section 5: FEEDER DRIVERS",
+      "page": 12,
+      "level": 3
+    },
+    {
+      "text": "Section 6: BACKUP FEEDER DRIVERS",
+      "page": 13,
+      "level": 3
+    },
+    {
+      "text": "Section 7: AIR OPERATION EMPLOYEES",
+      "page": 15,
+      "level": 3
+    },
+    {
+      "text": "Section 8: SENIORITY",
+      "page": 16,
+      "level": 3
+    },
+    {
+      "text": "Section 9: FULL TIME COMBINATION JOBS",
+      "page": 20,
+      "level": 3
+    },
+    {
+      "text": "Article 22: 3/40 bargaining unit employees within the building",
+      "page": 21,
+      "level": 2
+    },
+    {
+      "text": "Section 10: FULL TIME JOB POSTINGS",
+      "page": 25,
+      "level": 3
+    },
+    {
+      "text": "Section 1: A. The Employer agrees that work now performed by or hereafter",
+      "page": 25,
+      "level": 3
+    },
+    {
+      "text": "Section 1: PICKET LINES",
+      "page": 26,
+      "level": 3
+    },
+    {
+      "text": "Section 1: NOTICE OF TEMPORARY LAYOFF",
+      "page": 27,
+      "level": 3
+    },
+    {
+      "text": "Section 2: A. An employee shall notify the Employer and the appropriate Lo-",
+      "page": 27,
+      "level": 3
+    },
+    {
+      "text": "Section 1: IMMEDIATE FAMILY",
+      "page": 27,
+      "level": 3
+    },
+    {
+      "text": "Section 1: JURY DUTY AND COURT SERVICE",
+      "page": 27,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Subpoena",
+      "page": 27,
+      "level": 3
+    },
+    {
+      "text": "Section 1: SICK LEAVE",
+      "page": 28,
+      "level": 3
+    },
+    {
+      "text": "Section 2: WORKERS’ COMPENSATION",
+      "page": 30,
+      "level": 3
+    },
+    {
+      "text": "Section 3: NOTIFICATION TO THE EMPLOYER",
+      "page": 31,
+      "level": 3
+    },
+    {
+      "text": "Section 1: A. All regular employees who have been in the service of the Em-",
+      "page": 31,
+      "level": 3
+    },
+    {
+      "text": "Section 2: OPTIONAL WEEK",
+      "page": 35,
+      "level": 3
+    },
+    {
+      "text": "Section 1: A. The following are paid holidays:",
+      "page": 35,
+      "level": 3
+    },
+    {
+      "text": "Section 2: HOLIDAY WEEK OPTION",
+      "page": 37,
+      "level": 3
+    },
+    {
+      "text": "Section 1: A. EFFECTIVE August 1, 2023, the employer shall pay into the",
+      "page": 38,
+      "level": 3
+    },
+    {
+      "text": "Section 2: A. Effective August 1, 2023, the employer shall pay into the Wash-",
+      "page": 39,
+      "level": 3
+    },
+    {
+      "text": "Section 3: A. Payments required under the foregoing provisions shall be",
+      "page": 41,
+      "level": 3
+    },
+    {
+      "text": "Section 1: A. Effective August 1, 2023, the Pension contribution rates for",
+      "page": 41,
+      "level": 3
+    },
+    {
+      "text": "Section 2: A. The total amount due each month shall be remitted in a lump",
+      "page": 44,
+      "level": 3
+    },
+    {
+      "text": "Section 1: FULL TIME EMPLOYEES",
+      "page": 49,
+      "level": 3
+    },
+    {
+      "text": "Section 2: A. NIGHT SHIFT PREMIUM: All regular employees, with excep-",
+      "page": 50,
+      "level": 3
+    },
+    {
+      "text": "Section 3: FEEDER DRIVERS",
+      "page": 50,
+      "level": 3
+    },
+    {
+      "text": "Section 4: No part-time employee receiving a higher rate of pay shall suffer a",
+      "page": 50,
+      "level": 3
+    },
+    {
+      "text": "Article 1: PARTIES TO THE ADDENDUM .........................321",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 2: HOURS OF WORK ...............................................321",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 3: PART-TIME TO FULL-TIME ...............................328",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 4: UTILITY DRIVERS ..............................................329",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 5: SICK LEA VE, WORKERS COMPENSATION",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 6: V ACATIONS ..........................................................335",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 7: HOLIDAYS ............................................................335",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 8: PENSION ...............................................................335",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 9: SA VINGS ...............................................................336",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 10: LEGAL SERVICES TRUST FUND ....................337",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 11: HEALTH & WELFARE, RETIREES’",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 12: NEW CUSTOMER COUNTER CLERKS",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 13: CLASSIFICATIONS SCALE OF WAGES .........338",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Section 1: OPERATIONS COVERED",
+      "page": 58,
+      "level": 3
+    },
+    {
+      "text": "Section 2: EMPLOYEES COVERED",
+      "page": 58,
+      "level": 3
+    },
+    {
+      "text": "Section 1: REGULAR PART-TIME",
+      "page": 58,
+      "level": 3
+    },
+    {
+      "text": "Section 2: NEW HIRES",
+      "page": 60,
+      "level": 3
+    },
+    {
+      "text": "Section 3: AIR OPERATION EMPLOYEES",
+      "page": 60,
+      "level": 3
+    },
+    {
+      "text": "Section 4: SENIORITY",
+      "page": 60,
+      "level": 3
+    },
+    {
+      "text": "Section 5: TRAINING",
+      "page": 64,
+      "level": 3
+    },
+    {
+      "text": "Section 6: 22.3/40 FULL-TIME COMBINATION JOBS",
+      "page": 65,
+      "level": 3
+    },
+    {
+      "text": "Section 1: A. Part-time employees moving to full-time employment shall re-",
+      "page": 65,
+      "level": 3
+    },
+    {
+      "text": "Section 2: A. Part-time employees requesting to transfer to full-time must at-",
+      "page": 66,
+      "level": 3
+    },
+    {
+      "text": "Section 1: UTILITY DRIVERS",
+      "page": 66,
+      "level": 3
+    },
+    {
+      "text": "Section 1: SICK LEAVE",
+      "page": 69,
+      "level": 3
+    },
+    {
+      "text": "Section 2: WORKERS’ COMPENSATION",
+      "page": 71,
+      "level": 3
+    },
+    {
+      "text": "Section 3: NOTIFICATION TO THE EMPLOYER",
+      "page": 71,
+      "level": 3
+    },
+    {
+      "text": "Section 1: As contained in the Rider with the following exception:",
+      "page": 72,
+      "level": 3
+    },
+    {
+      "text": "Section 1: As contained in the rider, with the following exception:",
+      "page": 72,
+      "level": 3
+    },
+    {
+      "text": "Section 1: A. Refer to Article 30 of the Western Region Supplement for the",
+      "page": 72,
+      "level": 3
+    },
+    {
+      "text": "Section 2: A. The total amount due each month shall be remitted in a lump",
+      "page": 73,
+      "level": 3
+    },
+    {
+      "text": "Section 1: (a) Part-time employees will continue to be covered by the Team-",
+      "page": 74,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Part-time employees hired prior to July 2, 1982, shall receive the",
+      "page": 75,
+      "level": 3
+    },
+    {
+      "text": "Section 2: (1) All part-time employees hired prior to July 2, 1982, shall be red",
+      "page": 75,
+      "level": 3
+    },
+    {
+      "text": "Section 3: MISCELLANEOUS CATEGORIES",
+      "page": 76,
+      "level": 3
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "I.1",
+      "parent_article": "I",
+      "title": "FULL TIME",
+      "page_start": 7,
+      "page_end": 9,
+      "word_count": 708
+    },
+    {
+      "section_id": "I.2",
+      "parent_article": "I",
+      "title": "OVERTIME",
+      "page_start": 9,
+      "page_end": 9,
+      "word_count": 12
+    },
+    {
+      "section_id": "I.3",
+      "parent_article": "I",
+      "title": "NEW HIRES",
+      "page_start": 9,
+      "page_end": 9,
+      "word_count": 29
+    },
+    {
+      "section_id": "I.4",
+      "parent_article": "I",
+      "title": "DELIVERY AREA OPENINGS IN",
+      "page_start": 9,
+      "page_end": 12,
+      "word_count": 1065
+    },
+    {
+      "section_id": "I.5",
+      "parent_article": "I",
+      "title": "FEEDER DRIVERS",
+      "page_start": 12,
+      "page_end": 13,
+      "word_count": 449
+    },
+    {
+      "section_id": "I.6",
+      "parent_article": "I",
+      "title": "BACKUP FEEDER DRIVERS",
+      "page_start": 13,
+      "page_end": 15,
+      "word_count": 596
+    },
+    {
+      "section_id": "I.7",
+      "parent_article": "I",
+      "title": "AIR OPERATION EMPLOYEES",
+      "page_start": 15,
+      "page_end": 16,
+      "word_count": 135
+    },
+    {
+      "section_id": "I.8",
+      "parent_article": "I",
+      "title": "SENIORITY",
+      "page_start": 16,
+      "page_end": 20,
+      "word_count": 1312
+    },
+    {
+      "section_id": "I.9",
+      "parent_article": "I",
+      "title": "FULL TIME COMBINATION JOBS",
+      "page_start": 20,
+      "page_end": 25,
+      "word_count": 1678
+    },
+    {
+      "section_id": "22.10",
+      "parent_article": "22",
+      "title": "FULL TIME JOB POSTINGS",
+      "page_start": 25,
+      "page_end": 25,
+      "word_count": 46
+    },
+    {
+      "section_id": "III.1",
+      "parent_article": "III",
+      "title": "A. The Employer agrees that work now performed by or hereafter",
+      "page_start": 25,
+      "page_end": 26,
+      "word_count": 258
+    },
+    {
+      "section_id": "IV.1",
+      "parent_article": "IV",
+      "title": "PICKET LINES",
+      "page_start": 26,
+      "page_end": 27,
+      "word_count": 72
+    },
+    {
+      "section_id": "V.1",
+      "parent_article": "V",
+      "title": "NOTICE OF TEMPORARY LAYOFF",
+      "page_start": 27,
+      "page_end": 27,
+      "word_count": 65
+    },
+    {
+      "section_id": "V.2",
+      "parent_article": "V",
+      "title": "A. An employee shall notify the Employer and the appropriate Lo-",
+      "page_start": 27,
+      "page_end": 27,
+      "word_count": 40
+    },
+    {
+      "section_id": "VI.1",
+      "parent_article": "VI",
+      "title": "IMMEDIATE FAMILY",
+      "page_start": 27,
+      "page_end": 27,
+      "word_count": 35
+    },
+    {
+      "section_id": "VII.1",
+      "parent_article": "VII",
+      "title": "JURY DUTY AND COURT SERVICE",
+      "page_start": 27,
+      "page_end": 27,
+      "word_count": 9
+    },
+    {
+      "section_id": "VII.2",
+      "parent_article": "VII",
+      "title": "Subpoena",
+      "page_start": 27,
+      "page_end": 28,
+      "word_count": 138
+    },
+    {
+      "section_id": "VIII.1",
+      "parent_article": "VIII",
+      "title": "SICK LEAVE",
+      "page_start": 28,
+      "page_end": 30,
+      "word_count": 710
+    },
+    {
+      "section_id": "VIII.2",
+      "parent_article": "VIII",
+      "title": "WORKERS’ COMPENSATION",
+      "page_start": 30,
+      "page_end": 31,
+      "word_count": 156
+    },
+    {
+      "section_id": "VIII.3",
+      "parent_article": "VIII",
+      "title": "NOTIFICATION TO THE EMPLOYER",
+      "page_start": 31,
+      "page_end": 31,
+      "word_count": 101
+    },
+    {
+      "section_id": "IX.1",
+      "parent_article": "IX",
+      "title": "A. All regular employees who have been in the service of the Em-",
+      "page_start": 31,
+      "page_end": 35,
+      "word_count": 1218
+    },
+    {
+      "section_id": "IX.2",
+      "parent_article": "IX",
+      "title": "OPTIONAL WEEK",
+      "page_start": 35,
+      "page_end": 35,
+      "word_count": 25
+    },
+    {
+      "section_id": "X.1",
+      "parent_article": "X",
+      "title": "A. The following are paid holidays:",
+      "page_start": 35,
+      "page_end": 37,
+      "word_count": 689
+    },
+    {
+      "section_id": "X.2",
+      "parent_article": "X",
+      "title": "HOLIDAY WEEK OPTION",
+      "page_start": 37,
+      "page_end": 38,
+      "word_count": 110
+    },
+    {
+      "section_id": "XII.1",
+      "parent_article": "XII",
+      "title": "A. EFFECTIVE August 1, 2023, the employer shall pay into the",
+      "page_start": 38,
+      "page_end": 39,
+      "word_count": 472
+    },
+    {
+      "section_id": "XII.2",
+      "parent_article": "XII",
+      "title": "A. Effective August 1, 2023, the employer shall pay into the Wash-",
+      "page_start": 39,
+      "page_end": 41,
+      "word_count": 353
+    },
+    {
+      "section_id": "XII.3",
+      "parent_article": "XII",
+      "title": "A. Payments required under the foregoing provisions shall be",
+      "page_start": 41,
+      "page_end": 41,
+      "word_count": 200
+    },
+    {
+      "section_id": "XIII.1",
+      "parent_article": "XIII",
+      "title": "A. Effective August 1, 2023, the Pension contribution rates for",
+      "page_start": 41,
+      "page_end": 44,
+      "word_count": 664
+    },
+    {
+      "section_id": "XIII.2",
+      "parent_article": "XIII",
+      "title": "A. The total amount due each month shall be remitted in a lump",
+      "page_start": 44,
+      "page_end": 49,
+      "word_count": 1331
+    },
+    {
+      "section_id": "XVII.1",
+      "parent_article": "XVII",
+      "title": "FULL TIME EMPLOYEES",
+      "page_start": 49,
+      "page_end": 50,
+      "word_count": 249
+    },
+    {
+      "section_id": "XVII.2",
+      "parent_article": "XVII",
+      "title": "A. NIGHT SHIFT PREMIUM: All regular employees, with excep-",
+      "page_start": 50,
+      "page_end": 50,
+      "word_count": 50
+    },
+    {
+      "section_id": "XVII.3",
+      "parent_article": "XVII",
+      "title": "FEEDER DRIVERS",
+      "page_start": 50,
+      "page_end": 50,
+      "word_count": 35
+    },
+    {
+      "section_id": "XVII.4",
+      "parent_article": "XVII",
+      "title": "No part-time employee receiving a higher rate of pay shall suffer a",
+      "page_start": 50,
+      "page_end": 58,
+      "word_count": 382
+    },
+    {
+      "section_id": "1.1",
+      "parent_article": "1",
+      "title": "OPERATIONS COVERED",
+      "page_start": 58,
+      "page_end": 58,
+      "word_count": 71
+    },
+    {
+      "section_id": "1.2",
+      "parent_article": "1",
+      "title": "EMPLOYEES COVERED",
+      "page_start": 58,
+      "page_end": 58,
+      "word_count": 88
+    },
+    {
+      "section_id": "2.1",
+      "parent_article": "2",
+      "title": "REGULAR PART-TIME",
+      "page_start": 58,
+      "page_end": 60,
+      "word_count": 533
+    },
+    {
+      "section_id": "2.2",
+      "parent_article": "2",
+      "title": "NEW HIRES",
+      "page_start": 60,
+      "page_end": 60,
+      "word_count": 26
+    },
+    {
+      "section_id": "2.3",
+      "parent_article": "2",
+      "title": "AIR OPERATION EMPLOYEES",
+      "page_start": 60,
+      "page_end": 60,
+      "word_count": 86
+    },
+    {
+      "section_id": "2.4",
+      "parent_article": "2",
+      "title": "SENIORITY",
+      "page_start": 60,
+      "page_end": 64,
+      "word_count": 1096
+    },
+    {
+      "section_id": "2.5",
+      "parent_article": "2",
+      "title": "TRAINING",
+      "page_start": 64,
+      "page_end": 65,
+      "word_count": 198
+    },
+    {
+      "section_id": "2.6",
+      "parent_article": "2",
+      "title": "22.3/40 FULL-TIME COMBINATION JOBS",
+      "page_start": 65,
+      "page_end": 65,
+      "word_count": 11
+    },
+    {
+      "section_id": "3.1",
+      "parent_article": "3",
+      "title": "A. Part-time employees moving to full-time employment shall re-",
+      "page_start": 65,
+      "page_end": 66,
+      "word_count": 379
+    },
+    {
+      "section_id": "3.2",
+      "parent_article": "3",
+      "title": "A. Part-time employees requesting to transfer to full-time must at-",
+      "page_start": 66,
+      "page_end": 66,
+      "word_count": 82
+    },
+    {
+      "section_id": "4.1",
+      "parent_article": "4",
+      "title": "UTILITY DRIVERS",
+      "page_start": 66,
+      "page_end": 69,
+      "word_count": 787
+    },
+    {
+      "section_id": "5.1",
+      "parent_article": "5",
+      "title": "SICK LEAVE",
+      "page_start": 69,
+      "page_end": 71,
+      "word_count": 720
+    },
+    {
+      "section_id": "5.2",
+      "parent_article": "5",
+      "title": "WORKERS’ COMPENSATION",
+      "page_start": 71,
+      "page_end": 71,
+      "word_count": 134
+    },
+    {
+      "section_id": "5.3",
+      "parent_article": "5",
+      "title": "NOTIFICATION TO THE EMPLOYER",
+      "page_start": 71,
+      "page_end": 72,
+      "word_count": 107
+    },
+    {
+      "section_id": "6.1",
+      "parent_article": "6",
+      "title": "As contained in the Rider with the following exception:",
+      "page_start": 72,
+      "page_end": 72,
+      "word_count": 74
+    },
+    {
+      "section_id": "7.1",
+      "parent_article": "7",
+      "title": "As contained in the rider, with the following exception:",
+      "page_start": 72,
+      "page_end": 72,
+      "word_count": 21
+    },
+    {
+      "section_id": "8.1",
+      "parent_article": "8",
+      "title": "A. Refer to Article 30 of the Western Region Supplement for the",
+      "page_start": 72,
+      "page_end": 73,
+      "word_count": 232
+    },
+    {
+      "section_id": "8.2",
+      "parent_article": "8",
+      "title": "A. The total amount due each month shall be remitted in a lump",
+      "page_start": 73,
+      "page_end": 74,
+      "word_count": 383
+    },
+    {
+      "section_id": "11.1",
+      "parent_article": "11",
+      "title": "(a) Part-time employees will continue to be covered by the Team-",
+      "page_start": 74,
+      "page_end": 75,
+      "word_count": 124
+    },
+    {
+      "section_id": "13.1",
+      "parent_article": "13",
+      "title": "Part-time employees hired prior to July 2, 1982, shall receive the",
+      "page_start": 75,
+      "page_end": 75,
+      "word_count": 53
+    },
+    {
+      "section_id": "13.2",
+      "parent_article": "13",
+      "title": "(1) All part-time employees hired prior to July 2, 1982, shall be red",
+      "page_start": 75,
+      "page_end": 76,
+      "word_count": 94
+    },
+    {
+      "section_id": "13.3",
+      "parent_article": "13",
+      "title": "MISCELLANEOUS CATEGORIES",
+      "page_start": 76,
+      "page_end": null,
+      "word_count": 460
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "I",
+      "title": "HOURS OF WORK- OVERTIME- AREA",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 4
+    },
+    {
+      "article_number": "II",
+      "title": "CHANGE OF OPERATIONS ...............................288",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "III",
+      "title": "WORK ASSIGNMENTS .....................................288",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "IV",
+      "title": "PROTECTION OF RIGHTS ................................289",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "V",
+      "title": "LAYOFF AND RECALL .......................................290",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "VI",
+      "title": "BEREVEMENT LEA VE .....................................290",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "VII",
+      "title": "JURY DUTY .......................................................290",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "VIII",
+      "title": "SICK LEA VE, WORKERS",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 4
+    },
+    {
+      "article_number": "IX",
+      "title": "V ACATIONS ........................................................294",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "X",
+      "title": "HOLIDAYS ...........................................................298",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "XI",
+      "title": "SUSPENSIONS AND DISCHARGES ................300",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "XII",
+      "title": "HEALTH & WELFARE, DENTAL &",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 7
+    },
+    {
+      "article_number": "XIII",
+      "title": "PENSION ..........................................................304",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "XIV",
+      "title": "SA VINGS ..........................................................307",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "XV",
+      "title": "LEGAL SERVICES TRUST FUND ...................308",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "XVI",
+      "title": "NEW CUSTOMER COUNTER CLERKS",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 7
+    },
+    {
+      "article_number": "XVII",
+      "title": "CLASSIFICATIONS SCALE OF WAGES .....312",
+      "page_start": 4,
+      "page_end": 21,
+      "section_count": 0,
+      "word_count": 4878
+    },
+    {
+      "article_number": "22",
+      "title": "3/40 bargaining unit employees within the building",
+      "page_start": 21,
+      "page_end": 56,
+      "section_count": 1,
+      "word_count": 8719
+    },
+    {
+      "article_number": "1",
+      "title": "PARTIES TO THE ADDENDUM .........................321",
+      "page_start": 56,
+      "page_end": 56,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "2",
+      "title": "HOURS OF WORK ...............................................321",
+      "page_start": 56,
+      "page_end": 56,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "3",
+      "title": "PART-TIME TO FULL-TIME ...............................328",
+      "page_start": 56,
+      "page_end": 56,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "4",
+      "title": "UTILITY DRIVERS ..............................................329",
+      "page_start": 56,
+      "page_end": 56,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "5",
+      "title": "SICK LEA VE, WORKERS COMPENSATION",
+      "page_start": 56,
+      "page_end": 56,
+      "section_count": 0,
+      "word_count": 2
+    },
+    {
+      "article_number": "6",
+      "title": "V ACATIONS ..........................................................335",
+      "page_start": 56,
+      "page_end": 56,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "7",
+      "title": "HOLIDAYS ............................................................335",
+      "page_start": 56,
+      "page_end": 56,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "8",
+      "title": "PENSION ...............................................................335",
+      "page_start": 56,
+      "page_end": 56,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "9",
+      "title": "SA VINGS ...............................................................336",
+      "page_start": 56,
+      "page_end": 56,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "10",
+      "title": "LEGAL SERVICES TRUST FUND ....................337",
+      "page_start": 56,
+      "page_end": 56,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "11",
+      "title": "HEALTH & WELFARE, RETIREES’",
+      "page_start": 56,
+      "page_end": 56,
+      "section_count": 0,
+      "word_count": 8
+    },
+    {
+      "article_number": "12",
+      "title": "NEW CUSTOMER COUNTER CLERKS",
+      "page_start": 56,
+      "page_end": 56,
+      "section_count": 0,
+      "word_count": 6
+    },
+    {
+      "article_number": "13",
+      "title": "CLASSIFICATIONS SCALE OF WAGES .........338",
+      "page_start": 56,
+      "page_end": null,
+      "section_count": 3,
+      "word_count": 5769
+    }
+  ],
+  "key_topics": [
+    "wages",
+    "benefits",
+    "health_and_welfare",
+    "pension",
+    "hours_of_work",
+    "overtime",
+    "seniority",
+    "discipline",
+    "grievance_arbitration",
+    "leaves_of_absence",
+    "safety_and_health",
+    "holidays",
+    "vacations",
+    "job_classifications",
+    "supplemental_work",
+    "part_time_employees",
+    "full_time_employees",
+    "feeders",
+    "package_delivery",
+    "air_operations",
+    "combination_employees"
+  ],
+  "wage_parameters": [
+    {
+      "type": "hourly",
+      "value": 42.42,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Drivers, Feeders (Tractor Trailer)",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 42.2,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Drivers, Package",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 39.42,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Car Washers",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 36.38,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Full-Time Inside Jobs",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 42.73,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Sorter",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 33.8,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "DRIVERS",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 42.42,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 22.94,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 23.94,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 24.94,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 30.69,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.17,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.92,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.67,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 47.67,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 49.92,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 42.2,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.95,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.7,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 22.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.45,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 47.45,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 49.7,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 34.25,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 37.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 37.75,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 38.5,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 39.5,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 41.75,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 33.8,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 36.55,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 37.3,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 38.05,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 39.05,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 41.3,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "time_parameters": [
+    {
+      "type": "waiting_period",
+      "value": 5,
+      "unit": "working_days",
+      "description": "less than 5 working days), be avai",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 30,
+      "unit": "days",
+      "description": "n job for 30 days shall be",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 12,
+      "unit": "months",
+      "description": "total of 12 months)\n$ 11.40",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "benefit_parameters": [],
+  "cross_references": [],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:18.654308+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  },
+  "enrichment_metadata": {
+    "enriched_at": "2026-04-08T23:31:24Z",
+    "enricher": "enrich_entities.py",
+    "sigma_used": 3,
+    "quality_filter": {
+      "extraction_method": "pypdf-tier0",
+      "min_words_per_page": 30,
+      "min_articles_plus_sections": 1
+    }
+  },
+  "wage_value_stats": {
+    "n": 35,
+    "mean": 39.1566,
+    "stdev": 7.4175,
+    "variance": 55.0199,
+    "range_low": 16.9039,
+    "range_high": 61.4092,
+    "sigma_used": 3,
+    "currency": "USD",
+    "unit": "hour"
+  }
+}

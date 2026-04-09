@@ -1,0 +1,132 @@
+{
+  "document_id": "ccfcd88eee9a08b6",
+  "source_file": "13124UPSOHIORIDER.pdf",
+  "document_type": "Rider",
+  "title": "NATIONAL MASTER",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": "407",
+    "geographic_region": "Central Region"
+  },
+  "effective_date": "August 1, 2002",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 9496,
+  "page_count": 11,
+  "word_count": 886,
+  "headers": [
+    {
+      "text": "NATIONAL MASTER",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Section 3: Scat Trailer",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 5: of the National Master Agreement.",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 2: of the National Master Agreement.",
+      "page": 8,
+      "level": 3
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "NA.3",
+      "parent_article": null,
+      "title": "Scat Trailer",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 31
+    },
+    {
+      "section_id": "NA.5",
+      "parent_article": null,
+      "title": "of the National Master Agreement.",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 24
+    },
+    {
+      "section_id": "NA.2",
+      "parent_article": null,
+      "title": "of the National Master Agreement.",
+      "page_start": 8,
+      "page_end": null,
+      "word_count": 265
+    }
+  ],
+  "articles": [],
+  "key_topics": [
+    "wages",
+    "health_and_welfare",
+    "pension",
+    "discipline",
+    "vacations",
+    "supplemental_work",
+    "part_time_employees",
+    "full_time_employees"
+  ],
+  "wage_parameters": [
+    {
+      "type": "hourly",
+      "value": 44.34,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Drivers",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.44,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Drivers",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.89,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Drivers",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.24,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Drivers",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "time_parameters": [],
+  "benefit_parameters": [],
+  "cross_references": [],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:24.077953+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  }
+}

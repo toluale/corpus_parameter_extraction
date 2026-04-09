@@ -1,0 +1,1571 @@
+{
+  "document_id": "680402662a9d62bf",
+  "source_file": "13124UPSNEWENGLANDSUPPLEMENTALAGREEMENT.pdf",
+  "document_type": "Supplemental Agreement",
+  "title": "NATIONAL MASTER",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": null,
+    "geographic_region": "New England"
+  },
+  "effective_date": "August 1, 2023",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 1826,
+  "page_count": 70,
+  "word_count": 20392,
+  "headers": [
+    {
+      "text": "NATIONAL MASTER",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Article 45a: EMPLOYEES COVERED  ............................. 215",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 46: LEA VE OF ABSENCE  .....................................215",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Time Off for Union Activities ............................ 215",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Leave of Absence  .............................................. 215",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 216",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 47: MAINTENANCE OF STANDARDS  ..............216",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Protection of Conditions  ....................................216",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Extra Contract Agreements  ...............................217",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Workweek Reduction  .........................................217",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 4: New Equipment ..................................................217",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 48: GRIEVANCE PROCEDURE  ...........................218",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: No Strikes—No Lockouts  ..................................218",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Grievances ......................................................... 218",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Approval by Package Division .......................... 219",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Illegal Strikes ..................................................... 219",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Examination of Records ................................... 220",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 49: UNIFORMS AND PERSONAL",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 50: PAYROLL PERIOD  ..........................................221",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 51: COURT APPEARANCE  ................................. 222",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 52: TIME RECORD  ................................................222",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 53: BREAKDOWNS—IMPASSABLE",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Breakdowns & Impassable Highways ............... 222",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Emergencies  .......................................................223",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 54: AIR CONDITIONING  ..................................... 223",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 55: PART-TIME EMPLOYEES  .............................224",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 224",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Part-Time Bid .................................................... 224",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 225",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 4: 225",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 5: 228",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 6: 229",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 56: SUPERVISOR WORKING ............................. 230",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 57: SENIORITY  .................................................... 230",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 230",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Bidding  ...............................................................231",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Layoff  .................................................................234",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Other Applications of Seniority ........................236",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 5: House Concerns and Acquisitions",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Loss of Seniority  ............................................... 238",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Military Clause .................................................. 239",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 8: Posting of Seniority List .................................... 239",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 9: Opening or Closing—Operating Centers,",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 58: OTHER BUSINESS  .........................................241",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 59: DISCHARGE OR SUSPENSION ..................... 242",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 60: SUNDAY —HOLIDAYS—SICK LEA VE  .........243",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 243",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 243",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 244",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 4: 244",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 5: 245",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Personal Holidays  ..............................................245",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Sick Leave  ..........................................................245",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 8: Options  ..............................................................246",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 9: Disciplinary Action ............................................247",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 61: VACATION ........................................................247",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 247",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 248",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 249",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 4: 251",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 5: 251",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 6: 252",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 7: 252",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 8: 252",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 9: Summer Vacations  .............................................253",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 10: 253",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 11: 253",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 62: EXAMINATION AND INSPECTION FEES .. 254",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Examination  ......................................................254",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Injury on the Job ............................................... 254",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 63: OTHER EQUIPMENT  .................................... 254",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 64: BREAK PERIOD  ..............................................255",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 65: FEEDER  ........................................................... 255",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 66: HOURS OF WORK AND OVERTIME ...........259",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 259",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 259",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 260",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Article 67: WAGES AND ALLOWANCES  ........................261",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 261",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 261",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 261",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 4: 261",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Helpers  ...............................................................262",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Wage Schedule ................................................... 262",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Article 68: HEALTH ANDWELFARE  ..............................263",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 263",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 263",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 266",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Article 69: PENSION FUND ............................................. 266",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 266",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Article 70: CENTER CLERKS  ...........................................270",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 270",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Wage Schedule ................................................... 271",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Article 71: MECHANICS AND MAINTENANCE  ..........271",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Wages and Allowances .......................................271",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Call-In Time .......................................................272",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Tool Replacement  ...............................................272",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Apprenticeship Program ....................................272",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Subcontracting  ...................................................272",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 6: 273",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Article 72: TRAINING  ........................................................273",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 273",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 273",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 273",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 4: 274",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 5: 274",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 6: 274",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 7: 274",
+      "page": 6,
+      "level": 3
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "46.1",
+      "parent_article": "46",
+      "title": "Time Off for Union Activities ............................ 215",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "46.2",
+      "parent_article": "46",
+      "title": "Leave of Absence  .............................................. 215",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "46.3",
+      "parent_article": "46",
+      "title": "216",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "47.1",
+      "parent_article": "47",
+      "title": "Protection of Conditions  ....................................216",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "47.2",
+      "parent_article": "47",
+      "title": "Extra Contract Agreements  ...............................217",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "47.3",
+      "parent_article": "47",
+      "title": "Workweek Reduction  .........................................217",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "47.4",
+      "parent_article": "47",
+      "title": "New Equipment ..................................................217",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "48.1",
+      "parent_article": "48",
+      "title": "No Strikes—No Lockouts  ..................................218",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "48.2",
+      "parent_article": "48",
+      "title": "Grievances ......................................................... 218",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "48.3",
+      "parent_article": "48",
+      "title": "Approval by Package Division .......................... 219",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "48.4",
+      "parent_article": "48",
+      "title": "Illegal Strikes ..................................................... 219",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "48.5",
+      "parent_article": "48",
+      "title": "Examination of Records ................................... 220",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 5
+    },
+    {
+      "section_id": "53.1",
+      "parent_article": "53",
+      "title": "Breakdowns & Impassable Highways ............... 222",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "53.2",
+      "parent_article": "53",
+      "title": "Emergencies  .......................................................223",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "55.1",
+      "parent_article": "55",
+      "title": "224",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "55.2",
+      "parent_article": "55",
+      "title": "Part-Time Bid .................................................... 224",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "55.3",
+      "parent_article": "55",
+      "title": "225",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "55.4",
+      "parent_article": "55",
+      "title": "225",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "55.5",
+      "parent_article": "55",
+      "title": "228",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "55.6",
+      "parent_article": "55",
+      "title": "229",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "57.1",
+      "parent_article": "57",
+      "title": "230",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "57.2",
+      "parent_article": "57",
+      "title": "Bidding  ...............................................................231",
+      "page_start": 4,
+      "page_end": 5,
+      "word_count": 3
+    },
+    {
+      "section_id": "57.3",
+      "parent_article": "57",
+      "title": "Layoff  .................................................................234",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "57.4",
+      "parent_article": "57",
+      "title": "Other Applications of Seniority ........................236",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "57.5",
+      "parent_article": "57",
+      "title": "House Concerns and Acquisitions",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 3
+    },
+    {
+      "section_id": "57.6",
+      "parent_article": "57",
+      "title": "Loss of Seniority  ............................................... 238",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "57.7",
+      "parent_article": "57",
+      "title": "Military Clause .................................................. 239",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "57.8",
+      "parent_article": "57",
+      "title": "Posting of Seniority List .................................... 239",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "57.9",
+      "parent_article": "57",
+      "title": "Opening or Closing—Operating Centers,",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 4
+    },
+    {
+      "section_id": "60.1",
+      "parent_article": "60",
+      "title": "243",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "60.2",
+      "parent_article": "60",
+      "title": "243",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "60.3",
+      "parent_article": "60",
+      "title": "244",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "60.4",
+      "parent_article": "60",
+      "title": "244",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "60.5",
+      "parent_article": "60",
+      "title": "245",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "60.6",
+      "parent_article": "60",
+      "title": "Personal Holidays  ..............................................245",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "60.7",
+      "parent_article": "60",
+      "title": "Sick Leave  ..........................................................245",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "60.8",
+      "parent_article": "60",
+      "title": "Options  ..............................................................246",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 15
+    },
+    {
+      "section_id": "60.9",
+      "parent_article": "60",
+      "title": "Disciplinary Action ............................................247",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "61.1",
+      "parent_article": "61",
+      "title": "247",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "61.2",
+      "parent_article": "61",
+      "title": "248",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "61.3",
+      "parent_article": "61",
+      "title": "249",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "61.4",
+      "parent_article": "61",
+      "title": "251",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "61.5",
+      "parent_article": "61",
+      "title": "251",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "61.6",
+      "parent_article": "61",
+      "title": "252",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "61.7",
+      "parent_article": "61",
+      "title": "252",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "61.8",
+      "parent_article": "61",
+      "title": "252",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "61.9",
+      "parent_article": "61",
+      "title": "Summer Vacations  .............................................253",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "61.10",
+      "parent_article": "61",
+      "title": "253",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "61.11",
+      "parent_article": "61",
+      "title": "253",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "62.1",
+      "parent_article": "62",
+      "title": "Examination  ......................................................254",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "62.2",
+      "parent_article": "62",
+      "title": "Injury on the Job ............................................... 254",
+      "page_start": 5,
+      "page_end": 6,
+      "word_count": 6
+    },
+    {
+      "section_id": "66.1",
+      "parent_article": "66",
+      "title": "259",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "66.2",
+      "parent_article": "66",
+      "title": "259",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "66.3",
+      "parent_article": "66",
+      "title": "260",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "67.1",
+      "parent_article": "67",
+      "title": "261",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "67.2",
+      "parent_article": "67",
+      "title": "261",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "67.3",
+      "parent_article": "67",
+      "title": "261",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "67.4",
+      "parent_article": "67",
+      "title": "261",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "67.5",
+      "parent_article": "67",
+      "title": "Helpers  ...............................................................262",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "67.6",
+      "parent_article": "67",
+      "title": "Wage Schedule ................................................... 262",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "68.1",
+      "parent_article": "68",
+      "title": "263",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "68.2",
+      "parent_article": "68",
+      "title": "263",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "68.3",
+      "parent_article": "68",
+      "title": "266",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "69.1",
+      "parent_article": "69",
+      "title": "266",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "70.1",
+      "parent_article": "70",
+      "title": "270",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "70.2",
+      "parent_article": "70",
+      "title": "Wage Schedule ................................................... 271",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "71.1",
+      "parent_article": "71",
+      "title": "Wages and Allowances .......................................271",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "71.2",
+      "parent_article": "71",
+      "title": "Call-In Time .......................................................272",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "71.3",
+      "parent_article": "71",
+      "title": "Tool Replacement  ...............................................272",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "71.4",
+      "parent_article": "71",
+      "title": "Apprenticeship Program ....................................272",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "71.5",
+      "parent_article": "71",
+      "title": "Subcontracting  ...................................................272",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "71.6",
+      "parent_article": "71",
+      "title": "273",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "72.1",
+      "parent_article": "72",
+      "title": "273",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "72.2",
+      "parent_article": "72",
+      "title": "273",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "72.3",
+      "parent_article": "72",
+      "title": "273",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "72.4",
+      "parent_article": "72",
+      "title": "274",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "72.5",
+      "parent_article": "72",
+      "title": "274",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "72.6",
+      "parent_article": "72",
+      "title": "274",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "72.7",
+      "parent_article": "72",
+      "title": "274",
+      "page_start": 6,
+      "page_end": null,
+      "word_count": 19556
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "45a",
+      "title": "EMPLOYEES COVERED  ............................. 215",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "46",
+      "title": "LEA VE OF ABSENCE  .....................................215",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 3,
+      "word_count": 0
+    },
+    {
+      "article_number": "47",
+      "title": "MAINTENANCE OF STANDARDS  ..............216",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 4,
+      "word_count": 0
+    },
+    {
+      "article_number": "48",
+      "title": "GRIEVANCE PROCEDURE  ...........................218",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 5,
+      "word_count": 0
+    },
+    {
+      "article_number": "49",
+      "title": "UNIFORMS AND PERSONAL",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 2
+    },
+    {
+      "article_number": "50",
+      "title": "PAYROLL PERIOD  ..........................................221",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "51",
+      "title": "COURT APPEARANCE  ................................. 222",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "52",
+      "title": "TIME RECORD  ................................................222",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "53",
+      "title": "BREAKDOWNS—IMPASSABLE",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 2,
+      "word_count": 3
+    },
+    {
+      "article_number": "54",
+      "title": "AIR CONDITIONING  ..................................... 223",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "55",
+      "title": "PART-TIME EMPLOYEES  .............................224",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 6,
+      "word_count": 0
+    },
+    {
+      "article_number": "56",
+      "title": "SUPERVISOR WORKING ............................. 230",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "57",
+      "title": "SENIORITY  .................................................... 230",
+      "page_start": 4,
+      "page_end": 5,
+      "section_count": 9,
+      "word_count": 10
+    },
+    {
+      "article_number": "58",
+      "title": "OTHER BUSINESS  .........................................241",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "59",
+      "title": "DISCHARGE OR SUSPENSION ..................... 242",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "60",
+      "title": "SUNDAY —HOLIDAYS—SICK LEA VE  .........243",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 9,
+      "word_count": 15
+    },
+    {
+      "article_number": "61",
+      "title": "VACATION ........................................................247",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 11,
+      "word_count": 0
+    },
+    {
+      "article_number": "62",
+      "title": "EXAMINATION AND INSPECTION FEES .. 254",
+      "page_start": 5,
+      "page_end": 6,
+      "section_count": 2,
+      "word_count": 6
+    },
+    {
+      "article_number": "63",
+      "title": "OTHER EQUIPMENT  .................................... 254",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "64",
+      "title": "BREAK PERIOD  ..............................................255",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "65",
+      "title": "FEEDER  ........................................................... 255",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "66",
+      "title": "HOURS OF WORK AND OVERTIME ...........259",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 3,
+      "word_count": 0
+    },
+    {
+      "article_number": "67",
+      "title": "WAGES AND ALLOWANCES  ........................261",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 6,
+      "word_count": 0
+    },
+    {
+      "article_number": "68",
+      "title": "HEALTH ANDWELFARE  ..............................263",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 3,
+      "word_count": 0
+    },
+    {
+      "article_number": "69",
+      "title": "PENSION FUND ............................................. 266",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 1,
+      "word_count": 0
+    },
+    {
+      "article_number": "70",
+      "title": "CENTER CLERKS  ...........................................270",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 2,
+      "word_count": 0
+    },
+    {
+      "article_number": "71",
+      "title": "MECHANICS AND MAINTENANCE  ..........271",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 6,
+      "word_count": 0
+    },
+    {
+      "article_number": "72",
+      "title": "TRAINING  ........................................................273",
+      "page_start": 6,
+      "page_end": null,
+      "section_count": 7,
+      "word_count": 19556
+    }
+  ],
+  "key_topics": [
+    "wages",
+    "benefits",
+    "health_and_welfare",
+    "pension",
+    "hours_of_work",
+    "overtime",
+    "seniority",
+    "discipline",
+    "grievance_arbitration",
+    "leaves_of_absence",
+    "safety_and_health",
+    "holidays",
+    "vacations",
+    "job_classifications",
+    "supplemental_work",
+    "subcontracting",
+    "part_time_employees",
+    "full_time_employees",
+    "feeders",
+    "package_delivery",
+    "air_operations",
+    "mechanics"
+  ],
+  "wage_parameters": [
+    {
+      "type": "hourly",
+      "value": 20.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "time_parameters": [
+    {
+      "type": "waiting_period",
+      "value": 45,
+      "unit": "days",
+      "description": "ed within 45 days. Should a",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 6,
+      "unit": "months",
+      "description": "date plus 6 months  95%\nSeni",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 12,
+      "unit": "months",
+      "description": "date plus 12 months  Top Rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "grievance_step_limit",
+      "value": 45,
+      "unit": "days",
+      "description": "completed within 45 days. Should a",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "benefit_parameters": [
+    {
+      "type": "health_welfare_contribution",
+      "value": 576.5,
+      "currency": "USD",
+      "unit": "week",
+      "description": "more than $576.50 per week for any o",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 596.5,
+      "currency": "USD",
+      "unit": "week",
+      "description": "more than $596.50 per week for any o",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 616.5,
+      "currency": "USD",
+      "unit": "week",
+      "description": "more than $616.50 per week for any o",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 636.5,
+      "currency": "USD",
+      "unit": "week",
+      "description": "more than $636.50 per week for any o",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 656.5,
+      "currency": "USD",
+      "unit": "week",
+      "description": "more than $656.50 per week for any o",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 446.0,
+      "currency": "USD",
+      "unit": "week",
+      "description": "more than $446.00 per\nweek for any o",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "cross_references": [
+    {
+      "from_article": null,
+      "from_section": null,
+      "to_article": "48",
+      "to_section": null
+    }
+  ],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:23.877949+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  }
+}

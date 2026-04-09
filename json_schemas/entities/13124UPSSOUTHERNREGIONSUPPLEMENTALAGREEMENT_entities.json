@@ -1,0 +1,1288 @@
+{
+  "document_id": "318766705881ef06",
+  "source_file": "13124UPSSOUTHERNREGIONSUPPLEMENTALAGREEMENT.pdf",
+  "document_type": "Supplemental Agreement",
+  "title": "Southern Region",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": null,
+    "geographic_region": "Southern Region"
+  },
+  "effective_date": "August 1, 2023",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 1826,
+  "page_count": 101,
+  "word_count": 29585,
+  "headers": [
+    {
+      "text": "Southern Region",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Article 46: ACQUISITION OF SENIORITY ....................... 215",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: PROBATIONARY PERIOD ...........................215",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: SEASONAL EMPLOYEES ........................... 215",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: SUPERVISORS WORKING .......................... 216",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 4: EMPLOYMENT OPPORTUNITIES ............ 218",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 47: STEWARDS ........................................................218",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 48: SENIORITY ........................................................220",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: SENIORITY ROSTERS/POSTINGS ............ 220",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: LOSS OF SENIORITY ...................................222",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 222",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 4: 222",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 5: REDUCTION IN FORCE—FULL-TIME",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 6: PACKAGE DRIVERS—JOB SELECTION .....224",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 7: FEEDER DRIVERS—JOB SELECTION ..... 229",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 8: FULL-TIME EMPLOYEES INSIDE",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 9: OPENING AND CLOSING OF",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 10: 22.3 COMBINATION EMPLOYEES",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 49: PART-TIME EMPLOYEES ................................243",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 243",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: POOL BID–PART-TIME TO FULL-TIME ....244",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: PART-TIME RELIEF PERIODS ....................245",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 4: CLASSIFICATION BIDDING .......................246",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 5: PART-TIME SHIFT BIDDING ......................247",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 6: PART-TIME LAY-OFF PROCEDURE ..........248",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 7: PART-TIME COVER DRIVER .....................248",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 50: MAINTENANCE OF STANDARDS ................ 251",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 51: GRIEVANCE ......................................................252",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 252",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: GRIEVANCE COMMITTEE-S.R.A.P .G.C .....253",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 255",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 52: DISCHARGE OR SUSPENSION .......................256",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 53: UNIFORM .......................................................... 257",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 54: MEAL PERIOD ..................................................258",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 55: EQUIPMENT ......................................................259",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 56: PAY PERIOD ......................................................259",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 57: CALL-IN TIME AND REPORT",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 58: HOURS OF WORK AND OVERTIME .............261",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: HOURS OF WORK AND OVERTIME ........ 261",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: OVERTIME APPLICATION .........................263",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 3: COMPENSATION FOR WORK IN",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 59: WAGES ................................................................263",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: HOURS OF WORK AND OVERTIME ........ 263",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: FULL-TIME WAGE INCREASES ................264",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 3: FULL-TIME INSIDE WAGE",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 60: HOLIDAYS .........................................................271",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: HOLIDAYS .....................................................271",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 273",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 273",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 4: 273",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 5: 274",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 6: 274",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 61: VACATIONS .......................................................274",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 62: BREAKDOWN OR IMPASSABLE",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 63: REVIEW OF OVERTIME HOURS ...................278",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 64: TIME OFF UNPAID .......................................... 282",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 65: UNION COOPERATION ...................................283",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 66: MANAGEMENT—EMPLOYEE RELATIONS  .283",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 283",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 284",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 284",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 67: APPRENTICESHIP AGREEMENT .................. 285",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 68: HEALTH AND WELFARE ............................... 285",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 69: PENSION.............................................................287",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: JOINTLY TRUSTEE UPS/IBT",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 291",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 70: MECHANICS ..................................................... 293",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Section 1: STARTING TIMES ........................................293",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 2: OVERTIME .................................................... 294",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 3: TOOL INSURANCE ...................................... 294",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 4: LAYOFF ..........................................................295",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 5: OTHER FULL-TIME OPPORTUNITIES .... 295",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Article 71: GUARD SHACK PROCEDURE ........................295",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 72: SOUTHERN REGION TRAINING",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 22: Section 4 of the National Master United Parcel Service",
+      "page": 39,
+      "level": 2
+    },
+    {
+      "text": "Section 5: PART-TIME SHIFT BIDDING",
+      "page": 40,
+      "level": 3
+    },
+    {
+      "text": "Section 6: PART-TIME LAY-OFF PROCEDURE",
+      "page": 41,
+      "level": 3
+    },
+    {
+      "text": "Section 7: PART-TIME COVER DRIVER",
+      "page": 41,
+      "level": 3
+    },
+    {
+      "text": "Section 1: (E). If the individual(s) had been previously qualified, then",
+      "page": 43,
+      "level": 3
+    },
+    {
+      "text": "Article 37: Section 1(a) which allege intimidation, harassment, co-",
+      "page": 76,
+      "level": 2
+    },
+    {
+      "text": "Section 2: Not more than one (1) member of management will ride with a",
+      "page": 77,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Any alleged violation of this Article shall be subject to the applica-",
+      "page": 77,
+      "level": 3
+    },
+    {
+      "text": "Section 1: (a) shall be paid to the new plan.",
+      "page": 79,
+      "level": 3
+    },
+    {
+      "text": "Article 10: Article 10",
+      "page": 92,
+      "level": 2
+    },
+    {
+      "text": "Article 40: Article 40",
+      "page": 93,
+      "level": 2
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "46.1",
+      "parent_article": "46",
+      "title": "PROBATIONARY PERIOD ...........................215",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "46.2",
+      "parent_article": "46",
+      "title": "SEASONAL EMPLOYEES ........................... 215",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "46.3",
+      "parent_article": "46",
+      "title": "SUPERVISORS WORKING .......................... 216",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "46.4",
+      "parent_article": "46",
+      "title": "EMPLOYMENT OPPORTUNITIES ............ 218",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "48.1",
+      "parent_article": "48",
+      "title": "SENIORITY ROSTERS/POSTINGS ............ 220",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "48.2",
+      "parent_article": "48",
+      "title": "LOSS OF SENIORITY ...................................222",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "48.3",
+      "parent_article": "48",
+      "title": "222",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "48.4",
+      "parent_article": "48",
+      "title": "222",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "48.5",
+      "parent_article": "48",
+      "title": "REDUCTION IN FORCE—FULL-TIME",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 6
+    },
+    {
+      "section_id": "48.6",
+      "parent_article": "48",
+      "title": "PACKAGE DRIVERS—JOB SELECTION .....224",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "48.7",
+      "parent_article": "48",
+      "title": "FEEDER DRIVERS—JOB SELECTION ..... 229",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "48.8",
+      "parent_article": "48",
+      "title": "FULL-TIME EMPLOYEES INSIDE",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 5
+    },
+    {
+      "section_id": "48.9",
+      "parent_article": "48",
+      "title": "OPENING AND CLOSING OF",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 5
+    },
+    {
+      "section_id": "48.10",
+      "parent_article": "48",
+      "title": "22.3 COMBINATION EMPLOYEES",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 3
+    },
+    {
+      "section_id": "49.1",
+      "parent_article": "49",
+      "title": "243",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "49.2",
+      "parent_article": "49",
+      "title": "POOL BID–PART-TIME TO FULL-TIME ....244",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "49.3",
+      "parent_article": "49",
+      "title": "PART-TIME RELIEF PERIODS ....................245",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "49.4",
+      "parent_article": "49",
+      "title": "CLASSIFICATION BIDDING .......................246",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "49.5",
+      "parent_article": "49",
+      "title": "PART-TIME SHIFT BIDDING ......................247",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "49.6",
+      "parent_article": "49",
+      "title": "PART-TIME LAY-OFF PROCEDURE ..........248",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "49.7",
+      "parent_article": "49",
+      "title": "PART-TIME COVER DRIVER .....................248",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "51.1",
+      "parent_article": "51",
+      "title": "252",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "51.2",
+      "parent_article": "51",
+      "title": "GRIEVANCE COMMITTEE-S.R.A.P .G.C .....253",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "51.3",
+      "parent_article": "51",
+      "title": "255",
+      "page_start": 4,
+      "page_end": 5,
+      "word_count": 5
+    },
+    {
+      "section_id": "58.1",
+      "parent_article": "58",
+      "title": "HOURS OF WORK AND OVERTIME ........ 261",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "58.2",
+      "parent_article": "58",
+      "title": "OVERTIME APPLICATION .........................263",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "58.3",
+      "parent_article": "58",
+      "title": "COMPENSATION FOR WORK IN",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 3
+    },
+    {
+      "section_id": "59.1",
+      "parent_article": "59",
+      "title": "HOURS OF WORK AND OVERTIME ........ 263",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "59.2",
+      "parent_article": "59",
+      "title": "FULL-TIME WAGE INCREASES ................264",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "59.3",
+      "parent_article": "59",
+      "title": "FULL-TIME INSIDE WAGE",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 2
+    },
+    {
+      "section_id": "60.1",
+      "parent_article": "60",
+      "title": "HOLIDAYS .....................................................271",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "60.2",
+      "parent_article": "60",
+      "title": "273",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "60.3",
+      "parent_article": "60",
+      "title": "273",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "60.4",
+      "parent_article": "60",
+      "title": "273",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "60.5",
+      "parent_article": "60",
+      "title": "274",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "60.6",
+      "parent_article": "60",
+      "title": "274",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 3
+    },
+    {
+      "section_id": "66.1",
+      "parent_article": "66",
+      "title": "283",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "66.2",
+      "parent_article": "66",
+      "title": "284",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "66.3",
+      "parent_article": "66",
+      "title": "284",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "69.1",
+      "parent_article": "69",
+      "title": "JOINTLY TRUSTEE UPS/IBT",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 6
+    },
+    {
+      "section_id": "69.2",
+      "parent_article": "69",
+      "title": "291",
+      "page_start": 5,
+      "page_end": 6,
+      "word_count": 6
+    },
+    {
+      "section_id": "70.1",
+      "parent_article": "70",
+      "title": "STARTING TIMES ........................................293",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "70.2",
+      "parent_article": "70",
+      "title": "OVERTIME .................................................... 294",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "70.3",
+      "parent_article": "70",
+      "title": "TOOL INSURANCE ...................................... 294",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "70.4",
+      "parent_article": "70",
+      "title": "LAYOFF ..........................................................295",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "70.5",
+      "parent_article": "70",
+      "title": "OTHER FULL-TIME OPPORTUNITIES .... 295",
+      "page_start": 6,
+      "page_end": 40,
+      "word_count": 10936
+    },
+    {
+      "section_id": "22.5",
+      "parent_article": "22",
+      "title": "PART-TIME SHIFT BIDDING",
+      "page_start": 40,
+      "page_end": 41,
+      "word_count": 241
+    },
+    {
+      "section_id": "22.6",
+      "parent_article": "22",
+      "title": "PART-TIME LAY-OFF PROCEDURE",
+      "page_start": 41,
+      "page_end": 41,
+      "word_count": 103
+    },
+    {
+      "section_id": "22.7",
+      "parent_article": "22",
+      "title": "PART-TIME COVER DRIVER",
+      "page_start": 41,
+      "page_end": 43,
+      "word_count": 798
+    },
+    {
+      "section_id": "22.1",
+      "parent_article": "22",
+      "title": "(E). If the individual(s) had been previously qualified, then",
+      "page_start": 43,
+      "page_end": 77,
+      "word_count": 10094
+    },
+    {
+      "section_id": "37.2",
+      "parent_article": "37",
+      "title": "Not more than one (1) member of management will ride with a",
+      "page_start": 77,
+      "page_end": 77,
+      "word_count": 198
+    },
+    {
+      "section_id": "37.3",
+      "parent_article": "37",
+      "title": "Any alleged violation of this Article shall be subject to the applica-",
+      "page_start": 77,
+      "page_end": 79,
+      "word_count": 633
+    },
+    {
+      "section_id": "68.1",
+      "parent_article": "68",
+      "title": "(a) shall be paid to the new plan.",
+      "page_start": 79,
+      "page_end": null,
+      "word_count": 5729
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "46",
+      "title": "ACQUISITION OF SENIORITY ....................... 215",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 4,
+      "word_count": 0
+    },
+    {
+      "article_number": "47",
+      "title": "STEWARDS ........................................................218",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "48",
+      "title": "SENIORITY ........................................................220",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 10,
+      "word_count": 19
+    },
+    {
+      "article_number": "49",
+      "title": "PART-TIME EMPLOYEES ................................243",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 7,
+      "word_count": 0
+    },
+    {
+      "article_number": "50",
+      "title": "MAINTENANCE OF STANDARDS ................ 251",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "51",
+      "title": "GRIEVANCE ......................................................252",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 3,
+      "word_count": 0
+    },
+    {
+      "article_number": "52",
+      "title": "DISCHARGE OR SUSPENSION .......................256",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "53",
+      "title": "UNIFORM .......................................................... 257",
+      "page_start": 4,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 3
+    },
+    {
+      "article_number": "54",
+      "title": "MEAL PERIOD ..................................................258",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "55",
+      "title": "EQUIPMENT ......................................................259",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "56",
+      "title": "PAY PERIOD ......................................................259",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "57",
+      "title": "CALL-IN TIME AND REPORT",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 2
+    },
+    {
+      "article_number": "58",
+      "title": "HOURS OF WORK AND OVERTIME .............261",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 3,
+      "word_count": 3
+    },
+    {
+      "article_number": "59",
+      "title": "WAGES ................................................................263",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 3,
+      "word_count": 2
+    },
+    {
+      "article_number": "60",
+      "title": "HOLIDAYS .........................................................271",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 6,
+      "word_count": 0
+    },
+    {
+      "article_number": "61",
+      "title": "VACATIONS .......................................................274",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "62",
+      "title": "BREAKDOWN OR IMPASSABLE",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 3
+    },
+    {
+      "article_number": "63",
+      "title": "REVIEW OF OVERTIME HOURS ...................278",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "64",
+      "title": "TIME OFF UNPAID .......................................... 282",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "65",
+      "title": "UNION COOPERATION ...................................283",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "66",
+      "title": "MANAGEMENT—EMPLOYEE RELATIONS  .283",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 3,
+      "word_count": 0
+    },
+    {
+      "article_number": "67",
+      "title": "APPRENTICESHIP AGREEMENT .................. 285",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "68",
+      "title": "HEALTH AND WELFARE ............................... 285",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "69",
+      "title": "PENSION.............................................................287",
+      "page_start": 5,
+      "page_end": 6,
+      "section_count": 2,
+      "word_count": 12
+    },
+    {
+      "article_number": "70",
+      "title": "MECHANICS ..................................................... 293",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 5,
+      "word_count": 0
+    },
+    {
+      "article_number": "71",
+      "title": "GUARD SHACK PROCEDURE ........................295",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "72",
+      "title": "SOUTHERN REGION TRAINING",
+      "page_start": 6,
+      "page_end": 39,
+      "section_count": 0,
+      "word_count": 10749
+    },
+    {
+      "article_number": "22",
+      "title": "Section 4 of the National Master United Parcel Service",
+      "page_start": 39,
+      "page_end": 76,
+      "section_count": 4,
+      "word_count": 11241
+    },
+    {
+      "article_number": "37",
+      "title": "Section 1(a) which allege intimidation, harassment, co-",
+      "page_start": 76,
+      "page_end": 92,
+      "section_count": 2,
+      "word_count": 4420
+    },
+    {
+      "article_number": "10",
+      "title": "Article 10",
+      "page_start": 92,
+      "page_end": 93,
+      "section_count": 0,
+      "word_count": 305
+    },
+    {
+      "article_number": "40",
+      "title": "Article 40",
+      "page_start": 93,
+      "page_end": null,
+      "section_count": 0,
+      "word_count": 2017
+    }
+  ],
+  "key_topics": [
+    "wages",
+    "benefits",
+    "health_and_welfare",
+    "pension",
+    "hours_of_work",
+    "overtime",
+    "seniority",
+    "discipline",
+    "grievance_arbitration",
+    "leaves_of_absence",
+    "safety_and_health",
+    "holidays",
+    "vacations",
+    "job_classifications",
+    "supplemental_work",
+    "part_time_employees",
+    "full_time_employees",
+    "feeders",
+    "package_delivery",
+    "mechanics",
+    "combination_employees"
+  ],
+  "wage_parameters": [
+    {
+      "type": "hourly",
+      "value": 21.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 21.5,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 22.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 22.5,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 23.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "time_parameters": [
+    {
+      "type": "waiting_period",
+      "value": 19,
+      "unit": "weeks",
+      "description": "yee has 0-19 weeks of servic",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 39,
+      "unit": "weeks",
+      "description": "y have\n20-39 weeks of servic",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 40,
+      "unit": "weeks",
+      "description": "loyee has 40\nweeks of servic",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 9,
+      "unit": "months",
+      "description": "year, and 9 months of part-t",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "benefit_parameters": [
+    {
+      "type": "health_welfare_contribution",
+      "value": 2000.0,
+      "currency": "USD",
+      "unit": "month",
+      "description": "shall be $2,000 per month if less t",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 2500.0,
+      "currency": "USD",
+      "unit": "month",
+      "description": "mence and $2,500 per month if at lea",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 3400.0,
+      "currency": "USD",
+      "unit": "month",
+      "description": "shall be $3,400 per month regardles",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "pension_contribution",
+      "value": 3900.0,
+      "currency": "USD",
+      "unit": "month",
+      "description": "shall be $3,900 per month regardles",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "cross_references": [],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:24.661058+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  }
+}

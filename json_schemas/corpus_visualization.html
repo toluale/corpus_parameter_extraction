@@ -1,0 +1,1181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>UPS Labor Contracts — Corpus Distribution</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:system-ui,-apple-system,sans-serif;background:#F8FAFC;color:#1E293B;padding:24px}
+  h1{font-size:1.6rem;font-weight:700;color:#0F172A;margin-bottom:4px}
+  .subtitle{font-size:.95rem;color:#64748B;margin-bottom:28px}
+  .stats{display:flex;gap:16px;flex-wrap:wrap;margin-bottom:32px}
+  .stat-card{background:#fff;border:1px solid #E2E8F0;border-radius:12px;padding:16px 24px;min-width:160px;text-align:center;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+  .stat-card .num{font-size:2rem;font-weight:700;color:#2563EB}
+  .stat-card .lbl{font-size:.82rem;color:#64748B;margin-top:4px}
+  .section{background:#fff;border:1px solid #E2E8F0;border-radius:12px;padding:24px;margin-bottom:28px;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+  .section h2{font-size:1.05rem;font-weight:600;color:#0F172A;margin-bottom:16px;padding-bottom:10px;border-bottom:1px solid #E2E8F0}
+  .two-col{display:flex;gap:24px;flex-wrap:wrap;align-items:flex-start}
+  .legend{font-size:.8rem;color:#475569;margin-bottom:12px}
+  table{width:100%;border-collapse:collapse;font-size:.78rem}
+  th{background:#F1F5F9;padding:8px 10px;text-align:left;font-weight:600;color:#475569;border-bottom:2px solid #CBD5E1;position:sticky;top:0}
+  td{padding:7px 10px;border-bottom:1px solid #F1F5F9;vertical-align:top}
+  tr:hover td{background:#F8FAFC}
+  td.num{text-align:right;font-variant-numeric:tabular-nums}
+  td.fname{font-size:.72rem;color:#475569;max-width:220px;word-break:break-all}
+  td.dtype{white-space:nowrap}
+  td.topics{font-size:.72rem;color:#475569}
+  td.region{font-size:.75rem}
+  .table-wrap{overflow-x:auto;max-height:480px;overflow-y:auto;border-radius:8px;border:1px solid #E2E8F0}
+  .badge{display:inline-block;padding:2px 8px;border-radius:999px;font-size:.72rem;font-weight:500}
+  footer{margin-top:40px;text-align:center;font-size:.78rem;color:#94A3B8}
+</style>
+</head>
+<body>
+
+<h1>UPS Labor Contracts — Corpus Distribution</h1>
+<p class="subtitle">Generated 2026-04-08 &nbsp;·&nbsp; 39 documents &nbsp;·&nbsp; Schema v2</p>
+
+<div class="stats">
+  <div class="stat-card"><div class="num">39</div><div class="lbl">Documents</div></div>
+  <div class="stat-card"><div class="num">2,625</div><div class="lbl">Total Pages</div></div>
+  <div class="stat-card"><div class="num">707,975</div><div class="lbl">Total Words</div></div>
+  <div class="stat-card"><div class="num">800</div><div class="lbl">Articles Parsed</div></div>
+  <div class="stat-card"><div class="num">2042</div><div class="lbl">Sections Parsed</div></div>
+  <div class="stat-card"><div class="num">28</div><div class="lbl">Distinct Topics</div></div>
+  <div class="stat-card"><div class="num">0</div><div class="lbl">Failed / Invalid</div></div>
+  <div class="stat-card" style="border-color:#2563EB"><div class="num" style="color:#059669">38</div><div class="lbl">Enriched Docs</div></div>
+  <div class="stat-card" style="border-color:#2563EB"><div class="num" style="color:#059669">30</div><div class="lbl">Wage Stats (±3σ)</div></div>
+</div>
+
+<div class="section">
+  <h2>Document Type &amp; Topic Coverage</h2>
+  <div class="two-col">
+    <svg xmlns="http://www.w3.org/2000/svg" width="400" height="430" style="font-family:system-ui,sans-serif">
+  <text x="200" y="20" text-anchor="middle" font-size="15" font-weight="600" fill="#1E293B">Document Type Distribution</text>
+  <path d="M 200.00 40.00 A 160 160 0 0 1 238.29 355.35 L 226.32 306.80 A 110 110 0 0 0 200.00 90.00 Z" fill="#2563EB" stroke="white" stroke-width="2"/><text x="376.7" y="178.5" text-anchor="middle" font-size="11" fill="#1E293B" font-weight="500">46%</text><path d="M 238.29 355.35 A 160 160 0 0 1 187.13 359.48 L 191.15 309.64 A 110 110 0 0 0 226.32 306.80 Z" fill="#0891B2" stroke="white" stroke-width="2"/><path d="M 187.13 359.48 A 160 160 0 0 1 174.33 42.07 L 182.35 91.42 A 110 110 0 0 0 191.15 309.64 Z" fill="#059669" stroke="white" stroke-width="2"/><text x="22.1" y="207.2" text-anchor="middle" font-size="11" fill="#1E293B" font-weight="500">46%</text><path d="M 174.33 42.07 A 160 160 0 0 1 200.00 40.00 L 200.00 90.00 A 110 110 0 0 0 182.35 91.42 Z" fill="#D97706" stroke="white" stroke-width="2"/>
+  <text x="200" y="192" text-anchor="middle" font-size="22" font-weight="700" fill="#1E293B">39</text><text x="200" y="212" text-anchor="middle" font-size="12" fill="#64748B">total</text>
+  <rect x="10" y="318" width="12" height="12" fill="#2563EB" rx="2"/><text x="26" y="328" font-size="11" fill="#334155">Supplemental Agreement (18)</text><rect x="10" y="336" width="12" height="12" fill="#0891B2" rx="2"/><text x="26" y="346" font-size="11" fill="#334155">National Master Agreement (2)</text><rect x="10" y="354" width="12" height="12" fill="#059669" rx="2"/><text x="26" y="364" font-size="11" fill="#334155">Rider (18)</text><rect x="10" y="372" width="12" height="12" fill="#D97706" rx="2"/><text x="26" y="382" font-size="11" fill="#334155">Addendum (1)</text>
+</svg>
+    <svg xmlns="http://www.w3.org/2000/svg" width="760" height="882" style="font-family:system-ui,sans-serif">
+  <text x="380" y="22" text-anchor="middle" font-size="15" font-weight="600" fill="#1E293B">Topic Distribution Across Corpus</text>
+  <text x="380" y="38" text-anchor="middle" font-size="12" fill="#64748B">Number of documents containing each topic</text>
+  
+  <text x="234" y="67" text-anchor="end"
+        font-size="12" fill="#334155">Health And Welfare</text>
+  <rect x="240" y="50" width="460" height="24"
+        fill="#2563EB" rx="3"/>
+  <text x="705" y="67"
+        font-size="12" fill="#475569">38</text>
+  <text x="234" y="96" text-anchor="end"
+        font-size="12" fill="#334155">Vacations</text>
+  <rect x="240" y="79" width="460" height="24"
+        fill="#0891B2" rx="3"/>
+  <text x="705" y="96"
+        font-size="12" fill="#475569">38</text>
+  <text x="234" y="125" text-anchor="end"
+        font-size="12" fill="#334155">Supplemental Work</text>
+  <rect x="240" y="108" width="460" height="24"
+        fill="#059669" rx="3"/>
+  <text x="705" y="125"
+        font-size="12" fill="#475569">38</text>
+  <text x="234" y="154" text-anchor="end"
+        font-size="12" fill="#334155">Full Time Employees</text>
+  <rect x="240" y="137" width="460" height="24"
+        fill="#D97706" rx="3"/>
+  <text x="705" y="154"
+        font-size="12" fill="#475569">38</text>
+  <text x="234" y="183" text-anchor="end"
+        font-size="12" fill="#334155">Wages</text>
+  <rect x="240" y="166" width="447" height="24"
+        fill="#DC2626" rx="3"/>
+  <text x="692" y="183"
+        font-size="12" fill="#475569">37</text>
+  <text x="234" y="212" text-anchor="end"
+        font-size="12" fill="#334155">Seniority</text>
+  <rect x="240" y="195" width="447" height="24"
+        fill="#7C3AED" rx="3"/>
+  <text x="692" y="212"
+        font-size="12" fill="#475569">37</text>
+  <text x="234" y="241" text-anchor="end"
+        font-size="12" fill="#334155">Job Classifications</text>
+  <rect x="240" y="224" width="447" height="24"
+        fill="#DB2777" rx="3"/>
+  <text x="692" y="241"
+        font-size="12" fill="#475569">37</text>
+  <text x="234" y="270" text-anchor="end"
+        font-size="12" fill="#334155">Part Time Employees</text>
+  <rect x="240" y="253" width="435" height="24"
+        fill="#0284C7" rx="3"/>
+  <text x="680" y="270"
+        font-size="12" fill="#475569">36</text>
+  <text x="234" y="299" text-anchor="end"
+        font-size="12" fill="#334155">Pension</text>
+  <rect x="240" y="282" width="411" height="24"
+        fill="#16A34A" rx="3"/>
+  <text x="656" y="299"
+        font-size="12" fill="#475569">34</text>
+  <text x="234" y="328" text-anchor="end"
+        font-size="12" fill="#334155">Discipline</text>
+  <rect x="240" y="311" width="411" height="24"
+        fill="#CA8A04" rx="3"/>
+  <text x="656" y="328"
+        font-size="12" fill="#475569">34</text>
+  <text x="234" y="357" text-anchor="end"
+        font-size="12" fill="#334155">Benefits</text>
+  <rect x="240" y="340" width="399" height="24"
+        fill="#9333EA" rx="3"/>
+  <text x="644" y="357"
+        font-size="12" fill="#475569">33</text>
+  <text x="234" y="386" text-anchor="end"
+        font-size="12" fill="#334155">Grievance Arbitration</text>
+  <rect x="240" y="369" width="399" height="24"
+        fill="#0F766E" rx="3"/>
+  <text x="644" y="386"
+        font-size="12" fill="#475569">33</text>
+  <text x="234" y="415" text-anchor="end"
+        font-size="12" fill="#334155">Holidays</text>
+  <rect x="240" y="398" width="399" height="24"
+        fill="#B45309" rx="3"/>
+  <text x="644" y="415"
+        font-size="12" fill="#475569">33</text>
+  <text x="234" y="444" text-anchor="end"
+        font-size="12" fill="#334155">Feeders</text>
+  <rect x="240" y="427" width="387" height="24"
+        fill="#4F46E5" rx="3"/>
+  <text x="632" y="444"
+        font-size="12" fill="#475569">32</text>
+  <text x="234" y="473" text-anchor="end"
+        font-size="12" fill="#334155">Hours Of Work</text>
+  <rect x="240" y="456" width="375" height="24"
+        fill="#BE185D" rx="3"/>
+  <text x="620" y="473"
+        font-size="12" fill="#475569">31</text>
+  <text x="234" y="502" text-anchor="end"
+        font-size="12" fill="#334155">Overtime</text>
+  <rect x="240" y="485" width="363" height="24"
+        fill="#047857" rx="3"/>
+  <text x="608" y="502"
+        font-size="12" fill="#475569">30</text>
+  <text x="234" y="531" text-anchor="end"
+        font-size="12" fill="#334155">Package Delivery</text>
+  <rect x="240" y="514" width="338" height="24"
+        fill="#1D4ED8" rx="3"/>
+  <text x="583" y="531"
+        font-size="12" fill="#475569">28</text>
+  <text x="234" y="560" text-anchor="end"
+        font-size="12" fill="#334155">Leaves Of Absence</text>
+  <rect x="240" y="543" width="290" height="24"
+        fill="#7E22CE" rx="3"/>
+  <text x="535" y="560"
+        font-size="12" fill="#475569">24</text>
+  <text x="234" y="589" text-anchor="end"
+        font-size="12" fill="#334155">Mechanics</text>
+  <rect x="240" y="572" width="278" height="24"
+        fill="#065F46" rx="3"/>
+  <text x="523" y="589"
+        font-size="12" fill="#475569">23</text>
+  <text x="234" y="618" text-anchor="end"
+        font-size="12" fill="#334155">Safety And Health</text>
+  <rect x="240" y="601" width="254" height="24"
+        fill="#92400E" rx="3"/>
+  <text x="499" y="618"
+        font-size="12" fill="#475569">21</text>
+  <text x="234" y="647" text-anchor="end"
+        font-size="12" fill="#334155">Air Operations</text>
+  <rect x="240" y="630" width="193" height="24"
+        fill="#1E40AF" rx="3"/>
+  <text x="438" y="647"
+        font-size="12" fill="#475569">16</text>
+  <text x="234" y="676" text-anchor="end"
+        font-size="12" fill="#334155">Subcontracting</text>
+  <rect x="240" y="659" width="145" height="24"
+        fill="#6B21A8" rx="3"/>
+  <text x="390" y="676"
+        font-size="12" fill="#475569">12</text>
+  <text x="234" y="705" text-anchor="end"
+        font-size="12" fill="#334155">Union Security</text>
+  <rect x="240" y="688" width="121" height="24"
+        fill="#14532D" rx="3"/>
+  <text x="366" y="705"
+        font-size="12" fill="#475569">10</text>
+  <text x="234" y="734" text-anchor="end"
+        font-size="12" fill="#334155">Combination Employees</text>
+  <rect x="240" y="717" width="108" height="24"
+        fill="#78350F" rx="3"/>
+  <text x="353" y="734"
+        font-size="12" fill="#475569">9</text>
+  <text x="234" y="763" text-anchor="end"
+        font-size="12" fill="#334155">Cartage</text>
+  <rect x="240" y="746" width="48" height="24"
+        fill="#1E3A5F" rx="3"/>
+  <text x="293" y="763"
+        font-size="12" fill="#475569">4</text>
+  <text x="234" y="792" text-anchor="end"
+        font-size="12" fill="#334155">Management Rights</text>
+  <rect x="240" y="775" width="36" height="24"
+        fill="#4A1942" rx="3"/>
+  <text x="281" y="792"
+        font-size="12" fill="#475569">3</text>
+  <text x="234" y="821" text-anchor="end"
+        font-size="12" fill="#334155">New Technology</text>
+  <rect x="240" y="804" width="12" height="24"
+        fill="#134E4A" rx="3"/>
+  <text x="257" y="821"
+        font-size="12" fill="#475569">1</text>
+  <text x="234" y="850" text-anchor="end"
+        font-size="12" fill="#334155">General Provisions</text>
+  <rect x="240" y="833" width="12" height="24"
+        fill="#451A03" rx="3"/>
+  <text x="257" y="850"
+        font-size="12" fill="#475569">1</text>
+</svg>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Word Count per Document</h2>
+  <div class="legend">Color legend: <span style="display:inline-flex;align-items:center;gap:4px;margin-right:12px"><svg width="14" height="14"><rect width="14" height="14" fill="#2563EB" rx="3"/></svg>Supplemental Agreement</span> <span style="display:inline-flex;align-items:center;gap:4px;margin-right:12px"><svg width="14" height="14"><rect width="14" height="14" fill="#059669" rx="3"/></svg>Rider</span> <span style="display:inline-flex;align-items:center;gap:4px;margin-right:12px"><svg width="14" height="14"><rect width="14" height="14" fill="#D97706" rx="3"/></svg>National Master Agreement</span> <span style="display:inline-flex;align-items:center;gap:4px;margin-right:12px"><svg width="14" height="14"><rect width="14" height="14" fill="#DC2626" rx="3"/></svg>Addendum</span></div>
+  <svg xmlns="http://www.w3.org/2000/svg" width="780" height="928" style="font-family:system-ui,sans-serif">
+  <text x="390" y="22" text-anchor="middle" font-size="15" font-weight="600" fill="#1E293B">Word Count per Document</text>
+  <text x="390" y="38" text-anchor="middle" font-size="12" fill="#64748B">Sorted descending — color = document type</text>
+  
+  <text x="274" y="64" text-anchor="end"
+        font-size="12" fill="#334155">83796-Ups-Norcal-Supplement- [...]</text>
+  <rect x="280" y="50" width="440" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="725" y="64"
+        font-size="12" fill="#475569">66,027</text>
+  <text x="274" y="86" text-anchor="end"
+        font-size="12" fill="#334155">1924Upsnationalmasterfinal</text>
+  <rect x="280" y="72" width="435" height="18"
+        fill="#D97706" rx="3"/>
+  <text x="720" y="86"
+        font-size="12" fill="#475569">65,335</text>
+  <text x="274" y="108" text-anchor="end"
+        font-size="12" fill="#334155">13124Upssouthwestpackagesortriders</text>
+  <rect x="280" y="94" width="266" height="18"
+        fill="#059669" rx="3"/>
+  <text x="551" y="108"
+        font-size="12" fill="#475569">40,065</text>
+  <text x="274" y="130" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="116" width="215" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="500" y="130"
+        font-size="12" fill="#475569">32,324</text>
+  <text x="274" y="152" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="138" width="197" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="482" y="152"
+        font-size="12" fill="#475569">29,585</text>
+  <text x="274" y="174" text-anchor="end"
+        font-size="12" fill="#334155">83790-Ups- [...]</text>
+  <rect x="280" y="160" width="177" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="462" y="174"
+        font-size="12" fill="#475569">26,693</text>
+  <text x="274" y="196" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="182" width="164" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="449" y="196"
+        font-size="12" fill="#475569">24,645</text>
+  <text x="274" y="218" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="204" width="163" height="18"
+        fill="#059669" rx="3"/>
+  <text x="448" y="218"
+        font-size="12" fill="#475569">24,575</text>
+  <text x="274" y="240" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="226" width="157" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="442" y="240"
+        font-size="12" fill="#475569">23,612</text>
+  <text x="274" y="262" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="248" width="140" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="425" y="262"
+        font-size="12" fill="#475569">21,052</text>
+  <text x="274" y="284" text-anchor="end"
+        font-size="12" fill="#334155">Teamsters-Local-177-Drivers-Rider</text>
+  <rect x="280" y="270" width="138" height="18"
+        fill="#059669" rx="3"/>
+  <text x="423" y="284"
+        font-size="12" fill="#475569">20,813</text>
+  <text x="274" y="306" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="292" width="135" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="420" y="306"
+        font-size="12" fill="#475569">20,392</text>
+  <text x="274" y="328" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="314" width="133" height="18"
+        fill="#059669" rx="3"/>
+  <text x="418" y="328"
+        font-size="12" fill="#475569">20,066</text>
+  <text x="274" y="350" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="336" width="133" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="418" y="350"
+        font-size="12" fill="#475569">20,000</text>
+  <text x="274" y="372" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="358" width="129" height="18"
+        fill="#059669" rx="3"/>
+  <text x="414" y="372"
+        font-size="12" fill="#475569">19,483</text>
+  <text x="274" y="394" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="380" width="128" height="18"
+        fill="#059669" rx="3"/>
+  <text x="413" y="394"
+        font-size="12" fill="#475569">19,334</text>
+  <text x="274" y="416" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="402" width="126" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="411" y="416"
+        font-size="12" fill="#475569">19,034</text>
+  <text x="274" y="438" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="424" width="121" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="406" y="438"
+        font-size="12" fill="#475569">18,297</text>
+  <text x="274" y="460" text-anchor="end"
+        font-size="12" fill="#334155">83787-Ups-Central-Pa- [...]</text>
+  <rect x="280" y="446" width="120" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="405" y="460"
+        font-size="12" fill="#475569">18,151</text>
+  <text x="274" y="482" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="468" width="110" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="395" y="482"
+        font-size="12" fill="#475569">16,540</text>
+  <text x="274" y="504" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="490" width="107" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="392" y="504"
+        font-size="12" fill="#475569">16,085</text>
+  <text x="274" y="526" text-anchor="end"
+        font-size="12" fill="#334155">Teamsters- [...]</text>
+  <rect x="280" y="512" width="106" height="18"
+        fill="#059669" rx="3"/>
+  <text x="391" y="526"
+        font-size="12" fill="#475569">15,962</text>
+  <text x="274" y="548" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="534" width="106" height="18"
+        fill="#D97706" rx="3"/>
+  <text x="391" y="548"
+        font-size="12" fill="#475569">15,959</text>
+  <text x="274" y="570" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="556" width="98" height="18"
+        fill="#DC2626" rx="3"/>
+  <text x="383" y="570"
+        font-size="12" fill="#475569">14,805</text>
+  <text x="274" y="592" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="578" width="98" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="383" y="592"
+        font-size="12" fill="#475569">14,746</text>
+  <text x="274" y="614" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="600" width="94" height="18"
+        fill="#059669" rx="3"/>
+  <text x="379" y="614"
+        font-size="12" fill="#475569">14,186</text>
+  <text x="274" y="636" text-anchor="end"
+        font-size="12" fill="#334155">13124Upslocal89Louisvilleairrider</text>
+  <rect x="280" y="622" width="88" height="18"
+        fill="#059669" rx="3"/>
+  <text x="373" y="636"
+        font-size="12" fill="#475569">13,259</text>
+  <text x="274" y="658" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="644" width="79" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="364" y="658"
+        font-size="12" fill="#475569">11,885</text>
+  <text x="274" y="680" text-anchor="end"
+        font-size="12" fill="#334155">13124Upslocal344Rider</text>
+  <rect x="280" y="666" width="66" height="18"
+        fill="#059669" rx="3"/>
+  <text x="351" y="680"
+        font-size="12" fill="#475569">9,950</text>
+  <text x="274" y="702" text-anchor="end"
+        font-size="12" fill="#334155">13124Upslocal688Rider</text>
+  <rect x="280" y="688" width="56" height="18"
+        fill="#059669" rx="3"/>
+  <text x="341" y="702"
+        font-size="12" fill="#475569">8,457</text>
+  <text x="274" y="724" text-anchor="end"
+        font-size="12" fill="#334155">13124Upslocal135Rider</text>
+  <rect x="280" y="710" width="53" height="18"
+        fill="#059669" rx="3"/>
+  <text x="338" y="724"
+        font-size="12" fill="#475569">8,055</text>
+  <text x="274" y="746" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="732" width="42" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="327" y="746"
+        font-size="12" fill="#475569">6,439</text>
+  <text x="274" y="768" text-anchor="end"
+        font-size="12" fill="#334155">Ups-Local-100-Rider</text>
+  <rect x="280" y="754" width="23" height="18"
+        fill="#059669" rx="3"/>
+  <text x="308" y="768"
+        font-size="12" fill="#475569">3,567</text>
+  <text x="274" y="790" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="776" width="19" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="304" y="790"
+        font-size="12" fill="#475569">2,977</text>
+  <text x="274" y="812" text-anchor="end"
+        font-size="12" fill="#334155">13124Upskentuckyrider</text>
+  <rect x="280" y="798" width="18" height="18"
+        fill="#059669" rx="3"/>
+  <text x="303" y="812"
+        font-size="12" fill="#475569">2,736</text>
+  <text x="274" y="834" text-anchor="end"
+        font-size="12" fill="#334155">13124Upsmichiganrider</text>
+  <rect x="280" y="820" width="6" height="18"
+        fill="#059669" rx="3"/>
+  <text x="291" y="834"
+        font-size="12" fill="#475569">902</text>
+  <text x="274" y="856" text-anchor="end"
+        font-size="12" fill="#334155">13124Upsohiorider</text>
+  <rect x="280" y="842" width="5" height="18"
+        fill="#059669" rx="3"/>
+  <text x="290" y="856"
+        font-size="12" fill="#475569">886</text>
+  <text x="274" y="878" text-anchor="end"
+        font-size="12" fill="#334155">13124Upslocal200Rider</text>
+  <rect x="280" y="864" width="5" height="18"
+        fill="#059669" rx="3"/>
+  <text x="290" y="878"
+        font-size="12" fill="#475569">757</text>
+  <text x="274" y="900" text-anchor="end"
+        font-size="12" fill="#334155">Ups-Local-696-Rider</text>
+  <rect x="280" y="886" width="2" height="18"
+        fill="#059669" rx="3"/>
+  <text x="287" y="900"
+        font-size="12" fill="#475569">339</text>
+</svg>
+</div>
+
+<div class="section">
+  <h2>Page Count per Document</h2>
+  <div class="legend">Color legend: <span style="display:inline-flex;align-items:center;gap:4px;margin-right:12px"><svg width="14" height="14"><rect width="14" height="14" fill="#2563EB" rx="3"/></svg>Supplemental Agreement</span> <span style="display:inline-flex;align-items:center;gap:4px;margin-right:12px"><svg width="14" height="14"><rect width="14" height="14" fill="#059669" rx="3"/></svg>Rider</span> <span style="display:inline-flex;align-items:center;gap:4px;margin-right:12px"><svg width="14" height="14"><rect width="14" height="14" fill="#D97706" rx="3"/></svg>National Master Agreement</span> <span style="display:inline-flex;align-items:center;gap:4px;margin-right:12px"><svg width="14" height="14"><rect width="14" height="14" fill="#DC2626" rx="3"/></svg>Addendum</span></div>
+  <svg xmlns="http://www.w3.org/2000/svg" width="780" height="928" style="font-family:system-ui,sans-serif">
+  <text x="390" y="22" text-anchor="middle" font-size="15" font-weight="600" fill="#1E293B">Page Count per Document</text>
+  <text x="390" y="38" text-anchor="middle" font-size="12" fill="#64748B">Color = document type</text>
+  
+  <text x="274" y="64" text-anchor="end"
+        font-size="12" fill="#334155">83796-Ups-Norcal-Supplement- [...]</text>
+  <rect x="280" y="50" width="440" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="725" y="64"
+        font-size="12" fill="#475569">230</text>
+  <text x="274" y="86" text-anchor="end"
+        font-size="12" fill="#334155">1924Upsnationalmasterfinal</text>
+  <rect x="280" y="72" width="415" height="18"
+        fill="#D97706" rx="3"/>
+  <text x="700" y="86"
+        font-size="12" fill="#475569">217</text>
+  <text x="274" y="108" text-anchor="end"
+        font-size="12" fill="#334155">13124Upssouthwestpackagesortriders</text>
+  <rect x="280" y="94" width="285" height="18"
+        fill="#059669" rx="3"/>
+  <text x="570" y="108"
+        font-size="12" fill="#475569">149</text>
+  <text x="274" y="130" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="116" width="204" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="489" y="130"
+        font-size="12" fill="#475569">107</text>
+  <text x="274" y="152" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="138" width="204" height="18"
+        fill="#059669" rx="3"/>
+  <text x="489" y="152"
+        font-size="12" fill="#475569">107</text>
+  <text x="274" y="174" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="160" width="193" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="478" y="174"
+        font-size="12" fill="#475569">101</text>
+  <text x="274" y="196" text-anchor="end"
+        font-size="12" fill="#334155">83790-Ups- [...]</text>
+  <rect x="280" y="182" width="185" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="470" y="196"
+        font-size="12" fill="#475569">97</text>
+  <text x="274" y="218" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="204" width="164" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="449" y="218"
+        font-size="12" fill="#475569">86</text>
+  <text x="274" y="240" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="226" width="153" height="18"
+        fill="#059669" rx="3"/>
+  <text x="438" y="240"
+        font-size="12" fill="#475569">80</text>
+  <text x="274" y="262" text-anchor="end"
+        font-size="12" fill="#334155">Teamsters-Local-177-Drivers-Rider</text>
+  <rect x="280" y="248" width="153" height="18"
+        fill="#059669" rx="3"/>
+  <text x="438" y="262"
+        font-size="12" fill="#475569">80</text>
+  <text x="274" y="284" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="270" width="149" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="434" y="284"
+        font-size="12" fill="#475569">78</text>
+  <text x="274" y="306" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="292" width="147" height="18"
+        fill="#059669" rx="3"/>
+  <text x="432" y="306"
+        font-size="12" fill="#475569">77</text>
+  <text x="274" y="328" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="314" width="143" height="18"
+        fill="#059669" rx="3"/>
+  <text x="428" y="328"
+        font-size="12" fill="#475569">75</text>
+  <text x="274" y="350" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="336" width="135" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="420" y="350"
+        font-size="12" fill="#475569">71</text>
+  <text x="274" y="372" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="358" width="133" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="418" y="372"
+        font-size="12" fill="#475569">70</text>
+  <text x="274" y="394" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="380" width="133" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="418" y="394"
+        font-size="12" fill="#475569">70</text>
+  <text x="274" y="416" text-anchor="end"
+        font-size="12" fill="#334155">Teamsters- [...]</text>
+  <rect x="280" y="402" width="132" height="18"
+        fill="#059669" rx="3"/>
+  <text x="417" y="416"
+        font-size="12" fill="#475569">69</text>
+  <text x="274" y="438" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="424" width="130" height="18"
+        fill="#D97706" rx="3"/>
+  <text x="415" y="438"
+        font-size="12" fill="#475569">68</text>
+  <text x="274" y="460" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="446" width="130" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="415" y="460"
+        font-size="12" fill="#475569">68</text>
+  <text x="274" y="482" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="468" width="124" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="409" y="482"
+        font-size="12" fill="#475569">65</text>
+  <text x="274" y="504" text-anchor="end"
+        font-size="12" fill="#334155">83787-Ups-Central-Pa- [...]</text>
+  <rect x="280" y="490" width="124" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="409" y="504"
+        font-size="12" fill="#475569">65</text>
+  <text x="274" y="526" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="512" width="116" height="18"
+        fill="#DC2626" rx="3"/>
+  <text x="401" y="526"
+        font-size="12" fill="#475569">61</text>
+  <text x="274" y="548" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="534" width="109" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="394" y="548"
+        font-size="12" fill="#475569">57</text>
+  <text x="274" y="570" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="556" width="107" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="392" y="570"
+        font-size="12" fill="#475569">56</text>
+  <text x="274" y="592" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="578" width="101" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="386" y="592"
+        font-size="12" fill="#475569">53</text>
+  <text x="274" y="614" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="600" width="97" height="18"
+        fill="#059669" rx="3"/>
+  <text x="382" y="614"
+        font-size="12" fill="#475569">51</text>
+  <text x="274" y="636" text-anchor="end"
+        font-size="12" fill="#334155">13124Upslocal89Louisvilleairrider</text>
+  <rect x="280" y="622" width="97" height="18"
+        fill="#059669" rx="3"/>
+  <text x="382" y="636"
+        font-size="12" fill="#475569">51</text>
+  <text x="274" y="658" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="644" width="88" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="373" y="658"
+        font-size="12" fill="#475569">46</text>
+  <text x="274" y="680" text-anchor="end"
+        font-size="12" fill="#334155">13124Upslocal344Rider</text>
+  <rect x="280" y="666" width="70" height="18"
+        fill="#059669" rx="3"/>
+  <text x="355" y="680"
+        font-size="12" fill="#475569">37</text>
+  <text x="274" y="702" text-anchor="end"
+        font-size="12" fill="#334155">13124Upslocal688Rider</text>
+  <rect x="280" y="688" width="70" height="18"
+        fill="#059669" rx="3"/>
+  <text x="355" y="702"
+        font-size="12" fill="#475569">37</text>
+  <text x="274" y="724" text-anchor="end"
+        font-size="12" fill="#334155">13124Upslocal135Rider</text>
+  <rect x="280" y="710" width="66" height="18"
+        fill="#059669" rx="3"/>
+  <text x="351" y="724"
+        font-size="12" fill="#475569">35</text>
+  <text x="274" y="746" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="732" width="57" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="342" y="746"
+        font-size="12" fill="#475569">30</text>
+  <text x="274" y="768" text-anchor="end"
+        font-size="12" fill="#334155">[...]</text>
+  <rect x="280" y="754" width="34" height="18"
+        fill="#2563EB" rx="3"/>
+  <text x="319" y="768"
+        font-size="12" fill="#475569">18</text>
+  <text x="274" y="790" text-anchor="end"
+        font-size="12" fill="#334155">13124Upskentuckyrider</text>
+  <rect x="280" y="776" width="32" height="18"
+        fill="#059669" rx="3"/>
+  <text x="317" y="790"
+        font-size="12" fill="#475569">17</text>
+  <text x="274" y="812" text-anchor="end"
+        font-size="12" fill="#334155">Ups-Local-100-Rider</text>
+  <rect x="280" y="798" width="32" height="18"
+        fill="#059669" rx="3"/>
+  <text x="317" y="812"
+        font-size="12" fill="#475569">17</text>
+  <text x="274" y="834" text-anchor="end"
+        font-size="12" fill="#334155">13124Upsohiorider</text>
+  <rect x="280" y="820" width="21" height="18"
+        fill="#059669" rx="3"/>
+  <text x="306" y="834"
+        font-size="12" fill="#475569">11</text>
+  <text x="274" y="856" text-anchor="end"
+        font-size="12" fill="#334155">13124Upsmichiganrider</text>
+  <rect x="280" y="842" width="17" height="18"
+        fill="#059669" rx="3"/>
+  <text x="302" y="856"
+        font-size="12" fill="#475569">9</text>
+  <text x="274" y="878" text-anchor="end"
+        font-size="12" fill="#334155">13124Upslocal200Rider</text>
+  <rect x="280" y="864" width="11" height="18"
+        fill="#059669" rx="3"/>
+  <text x="296" y="878"
+        font-size="12" fill="#475569">6</text>
+  <text x="274" y="900" text-anchor="end"
+        font-size="12" fill="#334155">Ups-Local-696-Rider</text>
+  <rect x="280" y="886" width="5" height="18"
+        fill="#059669" rx="3"/>
+  <text x="290" y="900"
+        font-size="12" fill="#475569">3</text>
+</svg>
+</div>
+
+<div class="section">
+  <h2>Structural Depth — Articles &amp; Sections per Document</h2>
+  <svg xmlns="http://www.w3.org/2000/svg" width="780" height="1562" style="font-family:system-ui,sans-serif"><text x="390" y="14" text-anchor="middle" font-size="15" font-weight="600" fill="#1E293B">Articles &amp; Sections per Document</text><text x="390" y="17" text-anchor="middle" font-size="12" fill="#64748B">Blue = Articles, Green = Sections — sorted by total</text><rect x="280" y="24" width="12" height="12" fill="#2563EB" rx="2"/><text x="296" y="34" font-size="12" fill="#334155">Articles</text><rect x="400" y="24" width="12" height="12" fill="#059669" rx="2"/><text x="416" y="34" font-size="12" fill="#334155">Sections</text>
+  <text x="274" y="71" text-anchor="end" font-size="11" fill="#334155">83796-UPS-NORCAL-SUPPLEMENT-and- [...]</text>
+  <rect x="280" y="55" width="92" height="13" fill="#2563EB" rx="2"/>
+  <text x="375" y="66" font-size="10" fill="#475569">35</text>
+  <rect x="280" y="69" width="440" height="13" fill="#059669" rx="2"/>
+  <text x="723" y="81" font-size="10" fill="#475569">166</text>
+  <text x="274" y="109" text-anchor="end" font-size="11" fill="#334155">1924UPSNATIONALMASTERFINAL</text>
+  <rect x="280" y="93" width="119" height="13" fill="#2563EB" rx="2"/>
+  <text x="402" y="104" font-size="10" fill="#475569">45</text>
+  <rect x="280" y="107" width="392" height="13" fill="#059669" rx="2"/>
+  <text x="675" y="119" font-size="10" fill="#475569">148</text>
+  <text x="274" y="147" text-anchor="end" font-size="11" fill="#334155">83790-UPS-LOCAL-804-SUPPLEMENT- [...]</text>
+  <rect x="280" y="131" width="113" height="13" fill="#2563EB" rx="2"/>
+  <text x="396" y="142" font-size="10" fill="#475569">43</text>
+  <rect x="280" y="145" width="363" height="13" fill="#059669" rx="2"/>
+  <text x="646" y="157" font-size="10" fill="#475569">137</text>
+  <text x="274" y="185" text-anchor="end" font-size="11" fill="#334155">Teamsters-Local-177-Drivers-Rider</text>
+  <rect x="280" y="169" width="100" height="13" fill="#2563EB" rx="2"/>
+  <text x="383" y="180" font-size="10" fill="#475569">38</text>
+  <rect x="280" y="183" width="339" height="13" fill="#059669" rx="2"/>
+  <text x="622" y="195" font-size="10" fill="#475569">128</text>
+  <text x="274" y="223" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="207" width="108" height="13" fill="#2563EB" rx="2"/>
+  <text x="391" y="218" font-size="10" fill="#475569">41</text>
+  <rect x="280" y="221" width="286" height="13" fill="#059669" rx="2"/>
+  <text x="569" y="233" font-size="10" fill="#475569">108</text>
+  <text x="274" y="261" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="245" width="116" height="13" fill="#2563EB" rx="2"/>
+  <text x="399" y="256" font-size="10" fill="#475569">44</text>
+  <rect x="280" y="259" width="270" height="13" fill="#059669" rx="2"/>
+  <text x="553" y="271" font-size="10" fill="#475569">102</text>
+  <text x="274" y="299" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="283" width="71" height="13" fill="#2563EB" rx="2"/>
+  <text x="354" y="294" font-size="10" fill="#475569">27</text>
+  <rect x="280" y="297" width="275" height="13" fill="#059669" rx="2"/>
+  <text x="558" y="309" font-size="10" fill="#475569">104</text>
+  <text x="274" y="337" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="321" width="103" height="13" fill="#2563EB" rx="2"/>
+  <text x="386" y="332" font-size="10" fill="#475569">39</text>
+  <rect x="280" y="335" width="222" height="13" fill="#059669" rx="2"/>
+  <text x="505" y="347" font-size="10" fill="#475569">84</text>
+  <text x="274" y="375" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL623SUPPLEMENTALAGREEMENT</text>
+  <rect x="280" y="359" width="76" height="13" fill="#2563EB" rx="2"/>
+  <text x="359" y="370" font-size="10" fill="#475569">29</text>
+  <rect x="280" y="373" width="206" height="13" fill="#059669" rx="2"/>
+  <text x="489" y="385" font-size="10" fill="#475569">78</text>
+  <text x="274" y="413" text-anchor="end" font-size="11" fill="#334155">13124UPSNEWENGLANDSUPPLEMENTALAGREEMENT</text>
+  <rect x="280" y="397" width="74" height="13" fill="#2563EB" rx="2"/>
+  <text x="357" y="408" font-size="10" fill="#475569">28</text>
+  <rect x="280" y="411" width="209" height="13" fill="#059669" rx="2"/>
+  <text x="492" y="423" font-size="10" fill="#475569">79</text>
+  <text x="274" y="451" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="435" width="50" height="13" fill="#2563EB" rx="2"/>
+  <text x="333" y="446" font-size="10" fill="#475569">19</text>
+  <rect x="280" y="449" width="222" height="13" fill="#059669" rx="2"/>
+  <text x="505" y="461" font-size="10" fill="#475569">84</text>
+  <text x="274" y="489" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="473" width="71" height="13" fill="#2563EB" rx="2"/>
+  <text x="354" y="484" font-size="10" fill="#475569">27</text>
+  <rect x="280" y="487" width="182" height="13" fill="#059669" rx="2"/>
+  <text x="465" y="499" font-size="10" fill="#475569">69</text>
+  <text x="274" y="527" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="511" width="63" height="13" fill="#2563EB" rx="2"/>
+  <text x="346" y="522" font-size="10" fill="#475569">24</text>
+  <rect x="280" y="525" width="180" height="13" fill="#059669" rx="2"/>
+  <text x="463" y="537" font-size="10" fill="#475569">68</text>
+  <text x="274" y="565" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="549" width="50" height="13" fill="#2563EB" rx="2"/>
+  <text x="333" y="560" font-size="10" fill="#475569">19</text>
+  <rect x="280" y="563" width="190" height="13" fill="#059669" rx="2"/>
+  <text x="473" y="575" font-size="10" fill="#475569">72</text>
+  <text x="274" y="603" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="587" width="82" height="13" fill="#2563EB" rx="2"/>
+  <text x="365" y="598" font-size="10" fill="#475569">31</text>
+  <rect x="280" y="601" width="145" height="13" fill="#059669" rx="2"/>
+  <text x="428" y="613" font-size="10" fill="#475569">55</text>
+  <text x="274" y="641" text-anchor="end" font-size="11" fill="#334155">83787-UPS-CENTRAL-PA-SUPPLEMENT- [...]</text>
+  <rect x="280" y="625" width="63" height="13" fill="#2563EB" rx="2"/>
+  <text x="346" y="636" font-size="10" fill="#475569">24</text>
+  <rect x="280" y="639" width="161" height="13" fill="#059669" rx="2"/>
+  <text x="444" y="651" font-size="10" fill="#475569">61</text>
+  <text x="274" y="679" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="663" width="82" height="13" fill="#2563EB" rx="2"/>
+  <text x="365" y="674" font-size="10" fill="#475569">31</text>
+  <rect x="280" y="677" width="140" height="13" fill="#059669" rx="2"/>
+  <text x="423" y="689" font-size="10" fill="#475569">53</text>
+  <text x="274" y="717" text-anchor="end" font-size="11" fill="#334155">13124UPSCARTAGESERVICESINCSUPPLEMENT</text>
+  <rect x="280" y="701" width="103" height="13" fill="#2563EB" rx="2"/>
+  <text x="386" y="712" font-size="10" fill="#475569">39</text>
+  <rect x="280" y="715" width="106" height="13" fill="#059669" rx="2"/>
+  <text x="389" y="727" font-size="10" fill="#475569">40</text>
+  <text x="274" y="755" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="739" width="76" height="13" fill="#2563EB" rx="2"/>
+  <text x="359" y="750" font-size="10" fill="#475569">29</text>
+  <rect x="280" y="753" width="108" height="13" fill="#059669" rx="2"/>
+  <text x="391" y="765" font-size="10" fill="#475569">41</text>
+  <text x="274" y="793" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="777" width="74" height="13" fill="#2563EB" rx="2"/>
+  <text x="357" y="788" font-size="10" fill="#475569">28</text>
+  <rect x="280" y="791" width="98" height="13" fill="#059669" rx="2"/>
+  <text x="381" y="803" font-size="10" fill="#475569">37</text>
+  <text x="274" y="831" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL688RIDER</text>
+  <rect x="280" y="815" width="15" height="13" fill="#2563EB" rx="2"/>
+  <text x="298" y="826" font-size="10" fill="#475569">6</text>
+  <rect x="280" y="829" width="124" height="13" fill="#059669" rx="2"/>
+  <text x="407" y="841" font-size="10" fill="#475569">47</text>
+  <text x="274" y="869" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="853" width="82" height="13" fill="#2563EB" rx="2"/>
+  <text x="365" y="864" font-size="10" fill="#475569">31</text>
+  <rect x="280" y="867" width="55" height="13" fill="#059669" rx="2"/>
+  <text x="338" y="879" font-size="10" fill="#475569">21</text>
+  <text x="274" y="907" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL996SUPPLEMENTALAGREEMENT</text>
+  <rect x="280" y="891" width="2" height="13" fill="#2563EB" rx="2"/>
+  <text x="285" y="902" font-size="10" fill="#475569">0</text>
+  <rect x="280" y="905" width="121" height="13" fill="#059669" rx="2"/>
+  <text x="404" y="917" font-size="10" fill="#475569">46</text>
+  <text x="274" y="945" text-anchor="end" font-size="11" fill="#334155">13124UPSSOUTHWESTPACKAGESORTRIDERS</text>
+  <rect x="280" y="929" width="2" height="13" fill="#2563EB" rx="2"/>
+  <text x="285" y="940" font-size="10" fill="#475569">0</text>
+  <rect x="280" y="943" width="121" height="13" fill="#059669" rx="2"/>
+  <text x="404" y="955" font-size="10" fill="#475569">46</text>
+  <text x="274" y="983" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="967" width="2" height="13" fill="#2563EB" rx="2"/>
+  <text x="285" y="978" font-size="10" fill="#475569">1</text>
+  <rect x="280" y="981" width="116" height="13" fill="#059669" rx="2"/>
+  <text x="399" y="993" font-size="10" fill="#475569">44</text>
+  <text x="274" y="1021" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="1005" width="31" height="13" fill="#2563EB" rx="2"/>
+  <text x="314" y="1016" font-size="10" fill="#475569">12</text>
+  <rect x="280" y="1019" width="71" height="13" fill="#059669" rx="2"/>
+  <text x="354" y="1031" font-size="10" fill="#475569">27</text>
+  <text x="274" y="1059" text-anchor="end" font-size="11" fill="#334155">Teamsters-Local-177-Mechanics-Rider</text>
+  <rect x="280" y="1043" width="98" height="13" fill="#2563EB" rx="2"/>
+  <text x="381" y="1054" font-size="10" fill="#475569">37</text>
+  <rect x="280" y="1057" width="2" height="13" fill="#059669" rx="2"/>
+  <text x="285" y="1069" font-size="10" fill="#475569">1</text>
+  <text x="274" y="1097" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL769LATINAMERICAINCRIDER</text>
+  <rect x="280" y="1081" width="92" height="13" fill="#2563EB" rx="2"/>
+  <text x="375" y="1092" font-size="10" fill="#475569">35</text>
+  <rect x="280" y="1095" width="5" height="13" fill="#059669" rx="2"/>
+  <text x="288" y="1107" font-size="10" fill="#475569">2</text>
+  <text x="274" y="1135" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL135RIDER</text>
+  <rect x="280" y="1119" width="2" height="13" fill="#2563EB" rx="2"/>
+  <text x="285" y="1130" font-size="10" fill="#475569">0</text>
+  <rect x="280" y="1133" width="60" height="13" fill="#059669" rx="2"/>
+  <text x="343" y="1145" font-size="10" fill="#475569">23</text>
+  <text x="274" y="1173" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL89LOUISVILLEAIRRIDER</text>
+  <rect x="280" y="1157" width="23" height="13" fill="#2563EB" rx="2"/>
+  <text x="306" y="1168" font-size="10" fill="#475569">9</text>
+  <rect x="280" y="1171" width="37" height="13" fill="#059669" rx="2"/>
+  <text x="320" y="1183" font-size="10" fill="#475569">14</text>
+  <text x="274" y="1211" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="1195" width="45" height="13" fill="#2563EB" rx="2"/>
+  <text x="328" y="1206" font-size="10" fill="#475569">17</text>
+  <rect x="280" y="1209" width="5" height="13" fill="#059669" rx="2"/>
+  <text x="288" y="1221" font-size="10" fill="#475569">2</text>
+  <text x="274" y="1249" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL344RIDER</text>
+  <rect x="280" y="1233" width="2" height="13" fill="#2563EB" rx="2"/>
+  <text x="285" y="1244" font-size="10" fill="#475569">0</text>
+  <rect x="280" y="1247" width="45" height="13" fill="#059669" rx="2"/>
+  <text x="328" y="1259" font-size="10" fill="#475569">17</text>
+  <text x="274" y="1287" text-anchor="end" font-size="11" fill="#334155">[...]</text>
+  <rect x="280" y="1271" width="2" height="13" fill="#2563EB" rx="2"/>
+  <text x="285" y="1282" font-size="10" fill="#475569">1</text>
+  <rect x="280" y="1285" width="34" height="13" fill="#059669" rx="2"/>
+  <text x="317" y="1297" font-size="10" fill="#475569">13</text>
+  <text x="274" y="1325" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL200RIDER</text>
+  <rect x="280" y="1309" width="13" height="13" fill="#2563EB" rx="2"/>
+  <text x="296" y="1320" font-size="10" fill="#475569">5</text>
+  <rect x="280" y="1323" width="13" height="13" fill="#059669" rx="2"/>
+  <text x="296" y="1335" font-size="10" fill="#475569">5</text>
+  <text x="274" y="1363" text-anchor="end" font-size="11" fill="#334155">UPS-LOCAL-100-RIDER</text>
+  <rect x="280" y="1347" width="2" height="13" fill="#2563EB" rx="2"/>
+  <text x="285" y="1358" font-size="10" fill="#475569">0</text>
+  <rect x="280" y="1361" width="26" height="13" fill="#059669" rx="2"/>
+  <text x="309" y="1373" font-size="10" fill="#475569">10</text>
+  <text x="274" y="1401" text-anchor="end" font-size="11" fill="#334155">13124UPSKENTUCKYRIDER</text>
+  <rect x="280" y="1385" width="2" height="13" fill="#2563EB" rx="2"/>
+  <text x="285" y="1396" font-size="10" fill="#475569">1</text>
+  <rect x="280" y="1399" width="18" height="13" fill="#059669" rx="2"/>
+  <text x="301" y="1411" font-size="10" fill="#475569">7</text>
+  <text x="274" y="1439" text-anchor="end" font-size="11" fill="#334155">13124UPSMICHIGANRIDER</text>
+  <rect x="280" y="1423" width="13" height="13" fill="#2563EB" rx="2"/>
+  <text x="296" y="1434" font-size="10" fill="#475569">5</text>
+  <rect x="280" y="1437" width="2" height="13" fill="#059669" rx="2"/>
+  <text x="285" y="1449" font-size="10" fill="#475569">0</text>
+  <text x="274" y="1477" text-anchor="end" font-size="11" fill="#334155">13124UPSOHIORIDER</text>
+  <rect x="280" y="1461" width="2" height="13" fill="#2563EB" rx="2"/>
+  <text x="285" y="1472" font-size="10" fill="#475569">0</text>
+  <rect x="280" y="1475" width="7" height="13" fill="#059669" rx="2"/>
+  <text x="290" y="1487" font-size="10" fill="#475569">3</text>
+  <text x="274" y="1515" text-anchor="end" font-size="11" fill="#334155">UPS-LOCAL-696-RIDER</text>
+  <rect x="280" y="1499" width="2" height="13" fill="#2563EB" rx="2"/>
+  <text x="285" y="1510" font-size="10" fill="#475569">0</text>
+  <rect x="280" y="1513" width="2" height="13" fill="#059669" rx="2"/>
+  <text x="285" y="1525" font-size="10" fill="#475569">0</text></svg>
+</div>
+
+<div class="section">
+  <h2>Topic Density per Document &nbsp;&amp;&nbsp; Word Count vs. Article Count</h2>
+  <div class="two-col">
+    <svg xmlns="http://www.w3.org/2000/svg" width="600" height="518" style="font-family:system-ui,sans-serif">
+  <text x="300" y="22" text-anchor="middle" font-size="15" font-weight="600" fill="#1E293B">Topic Density per Document</text>
+  <text x="300" y="38" text-anchor="middle" font-size="12" fill="#64748B">How many distinct topics each document covers</text>
+  
+  <text x="154" y="68" text-anchor="end"
+        font-size="12" fill="#334155">3 Topics</text>
+  <rect x="160" y="50" width="54" height="26"
+        fill="#2563EB" rx="3"/>
+  <text x="219" y="68"
+        font-size="12" fill="#475569">1</text>
+  <text x="154" y="100" text-anchor="end"
+        font-size="12" fill="#334155">8 Topics</text>
+  <rect x="160" y="82" width="108" height="26"
+        fill="#0891B2" rx="3"/>
+  <text x="273" y="100"
+        font-size="12" fill="#475569">2</text>
+  <text x="154" y="132" text-anchor="end"
+        font-size="12" fill="#334155">9 Topics</text>
+  <rect x="160" y="114" width="54" height="26"
+        fill="#059669" rx="3"/>
+  <text x="219" y="132"
+        font-size="12" fill="#475569">1</text>
+  <text x="154" y="164" text-anchor="end"
+        font-size="12" fill="#334155">10 Topics</text>
+  <rect x="160" y="146" width="54" height="26"
+        fill="#D97706" rx="3"/>
+  <text x="219" y="164"
+        font-size="12" fill="#475569">1</text>
+  <text x="154" y="196" text-anchor="end"
+        font-size="12" fill="#334155">13 Topics</text>
+  <rect x="160" y="178" width="108" height="26"
+        fill="#DC2626" rx="3"/>
+  <text x="273" y="196"
+        font-size="12" fill="#475569">2</text>
+  <text x="154" y="228" text-anchor="end"
+        font-size="12" fill="#334155">17 Topics</text>
+  <rect x="160" y="210" width="217" height="26"
+        fill="#7C3AED" rx="3"/>
+  <text x="382" y="228"
+        font-size="12" fill="#475569">4</text>
+  <text x="154" y="260" text-anchor="end"
+        font-size="12" fill="#334155">18 Topics</text>
+  <rect x="160" y="242" width="108" height="26"
+        fill="#DB2777" rx="3"/>
+  <text x="273" y="260"
+        font-size="12" fill="#475569">2</text>
+  <text x="154" y="292" text-anchor="end"
+        font-size="12" fill="#334155">19 Topics</text>
+  <rect x="160" y="274" width="380" height="26"
+        fill="#0284C7" rx="3"/>
+  <text x="545" y="292"
+        font-size="12" fill="#475569">7</text>
+  <text x="154" y="324" text-anchor="end"
+        font-size="12" fill="#334155">20 Topics</text>
+  <rect x="160" y="306" width="271" height="26"
+        fill="#16A34A" rx="3"/>
+  <text x="436" y="324"
+        font-size="12" fill="#475569">5</text>
+  <text x="154" y="356" text-anchor="end"
+        font-size="12" fill="#334155">21 Topics</text>
+  <rect x="160" y="338" width="271" height="26"
+        fill="#CA8A04" rx="3"/>
+  <text x="436" y="356"
+        font-size="12" fill="#475569">5</text>
+  <text x="154" y="388" text-anchor="end"
+        font-size="12" fill="#334155">22 Topics</text>
+  <rect x="160" y="370" width="325" height="26"
+        fill="#9333EA" rx="3"/>
+  <text x="490" y="388"
+        font-size="12" fill="#475569">6</text>
+  <text x="154" y="420" text-anchor="end"
+        font-size="12" fill="#334155">23 Topics</text>
+  <rect x="160" y="402" width="54" height="26"
+        fill="#0F766E" rx="3"/>
+  <text x="219" y="420"
+        font-size="12" fill="#475569">1</text>
+  <text x="154" y="452" text-anchor="end"
+        font-size="12" fill="#334155">24 Topics</text>
+  <rect x="160" y="434" width="54" height="26"
+        fill="#B45309" rx="3"/>
+  <text x="219" y="452"
+        font-size="12" fill="#475569">1</text>
+  <text x="154" y="484" text-anchor="end"
+        font-size="12" fill="#334155">26 Topics</text>
+  <rect x="160" y="466" width="54" height="26"
+        fill="#4F46E5" rx="3"/>
+  <text x="219" y="484"
+        font-size="12" fill="#475569">1</text>
+</svg>
+    <svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" style="font-family:system-ui,sans-serif">
+  <text x="320" y="22" text-anchor="middle" font-size="15" font-weight="600" fill="#1E293B">Word Count vs. Article Count</text>
+  <line x1="70" y1="40" x2="70" y2="370" stroke="#CBD5E1" stroke-width="1"/><line x1="70" y1="370" x2="610" y2="370" stroke="#CBD5E1" stroke-width="1"/><text x="320" y="414" text-anchor="middle" font-size="12" fill="#64748B">Word Count</text><text transform="rotate(-90,14,210)" x="14" y="210" text-anchor="middle" font-size="12" fill="#64748B">Article Count</text><line x1="70.0" y1="370" x2="70.0" y2="374" stroke="#94A3B8"/><text x="70.0" y="386" text-anchor="middle" font-size="10" fill="#94A3B8">0</text><line x1="205.0" y1="370" x2="205.0" y2="374" stroke="#94A3B8"/><text x="205.0" y="386" text-anchor="middle" font-size="10" fill="#94A3B8">16,507</text><line x1="340.0" y1="370" x2="340.0" y2="374" stroke="#94A3B8"/><text x="340.0" y="386" text-anchor="middle" font-size="10" fill="#94A3B8">33,014</text><line x1="475.0" y1="370" x2="475.0" y2="374" stroke="#94A3B8"/><text x="475.0" y="386" text-anchor="middle" font-size="10" fill="#94A3B8">49,520</text><line x1="610.0" y1="370" x2="610.0" y2="374" stroke="#94A3B8"/><text x="610.0" y="386" text-anchor="middle" font-size="10" fill="#94A3B8">66,027</text><line x1="66" y1="287.5" x2="70" y2="287.5" stroke="#94A3B8"/><text x="64" y="291.5" text-anchor="end" font-size="10" fill="#94A3B8">11</text><line x1="66" y1="205.0" x2="70" y2="205.0" stroke="#94A3B8"/><text x="64" y="209.0" text-anchor="end" font-size="10" fill="#94A3B8">22</text><line x1="66" y1="122.5" x2="70" y2="122.5" stroke="#94A3B8"/><text x="64" y="126.5" text-anchor="end" font-size="10" fill="#94A3B8">34</text><line x1="66" y1="40.0" x2="70" y2="40.0" stroke="#94A3B8"/><text x="64" y="44.0" text-anchor="end" font-size="10" fill="#94A3B8">45</text><circle cx="263.1" cy="69.3" r="6" fill="#2563EB" opacity="0.85"><title>100424UPSLOCAL901PUERTORICOSUP
+Words: 23,612
+Articles: 41</title></circle><text x="271.1" y="73.3" font-size="9" fill="#475569">[...]</text><circle cx="334.4" cy="194.0" r="6" fill="#2563EB" opacity="0.85"><title>13124UPSATLANTICAREASUPPLEMENT
+Words: 32,324
+Articles: 24</title></circle><text x="342.4" y="198.0" font-size="9" fill="#475569">[...]</text><circle cx="200.5" cy="47.3" r="6" fill="#D97706" opacity="0.85"><title>13124UPSCARTAGESERVICESINCSOUT
+Words: 15,959
+Articles: 44</title></circle><text x="208.5" y="51.3" font-size="9" fill="#475569">[...]</text><circle cx="205.3" cy="84.0" r="6" fill="#2563EB" opacity="0.85"><title>13124UPSCARTAGESERVICESINCSUPP
+Words: 16,540
+Articles: 39</title></circle><text x="213.3" y="88.0" font-size="9" fill="#475569">[...]</text><circle cx="219.6" cy="230.7" r="6" fill="#2563EB" opacity="0.85"><title>13124UPSCENTRALREGIONSUPPLEMEN
+Words: 18,297
+Articles: 19</title></circle><text x="227.6" y="234.7" font-size="9" fill="#475569">[...]</text><circle cx="234.1" cy="142.7" r="6" fill="#059669" opacity="0.85"><title>13124UPSJOINTCOUNCIL28RIDERAND
+Words: 20,066
+Articles: 31</title></circle><text x="242.1" y="146.7" font-size="9" fill="#475569">[...]</text><circle cx="229.3" cy="230.7" r="6" fill="#059669" opacity="0.85"><title>13124UPSJOINTCOUNCIL37PACKAGEA
+Words: 19,483
+Articles: 19</title></circle><text x="237.3" y="234.7" font-size="9" fill="#475569">[...]</text><circle cx="228.1" cy="172.0" r="6" fill="#059669" opacity="0.85"><title>13124UPSJOINTCOUNCIL3FEEDERPAC
+Words: 19,334
+Articles: 27</title></circle><text x="236.1" y="176.0" font-size="9" fill="#475569">[...]</text><circle cx="92.4" cy="362.7" r="6" fill="#059669" opacity="0.85"><title>13124UPSKENTUCKYRIDER
+Words: 2,736
+Articles: 1</title></circle><text x="100.4" y="366.7" font-size="9" fill="#475569">[...]</text><circle cx="135.9" cy="370.0" r="6" fill="#059669" opacity="0.85"><title>13124UPSLOCAL135RIDER
+Words: 8,055
+Articles: 0</title></circle><text x="143.9" y="374.0" font-size="9" fill="#475569">[...]</text><circle cx="76.2" cy="333.3" r="6" fill="#059669" opacity="0.85"><title>13124UPSLOCAL200RIDER
+Words: 757
+Articles: 5</title></circle><text x="84.2" y="337.3" font-size="9" fill="#475569">[...]</text><circle cx="122.7" cy="282.0" r="6" fill="#2563EB" opacity="0.85"><title>13124UPSLOCAL243METRODETROITSU
+Words: 6,439
+Articles: 12</title></circle><text x="130.7" y="286.0" font-size="9" fill="#475569">[...]</text><circle cx="151.4" cy="370.0" r="6" fill="#059669" opacity="0.85"><title>13124UPSLOCAL344RIDER
+Words: 9,950
+Articles: 0</title></circle><text x="159.4" y="374.0" font-size="9" fill="#475569">[...]</text><circle cx="225.7" cy="157.3" r="6" fill="#2563EB" opacity="0.85"><title>13124UPSLOCAL623SUPPLEMENTALAG
+Words: 19,034
+Articles: 29</title></circle><text x="233.7" y="161.3" font-size="9" fill="#475569">[...]</text><circle cx="139.2" cy="326.0" r="6" fill="#059669" opacity="0.85"><title>13124UPSLOCAL688RIDER
+Words: 8,457
+Articles: 6</title></circle><text x="147.2" y="330.0" font-size="9" fill="#475569">[...]</text><circle cx="186.0" cy="113.3" r="6" fill="#059669" opacity="0.85"><title>13124UPSLOCAL769LATINAMERICAIN
+Words: 14,186
+Articles: 35</title></circle><text x="194.0" y="117.3" font-size="9" fill="#475569">[...]</text><circle cx="178.4" cy="304.0" r="6" fill="#059669" opacity="0.85"><title>13124UPSLOCAL89LOUISVILLEAIRRI
+Words: 13,259
+Articles: 9</title></circle><text x="186.4" y="308.0" font-size="9" fill="#475569">[...]</text><circle cx="271.0" cy="245.3" r="6" fill="#059669" opacity="0.85"><title>13124UPSLOCAL959ALASKAFULLTIME
+Words: 24,575
+Articles: 17</title></circle><text x="279.0" y="249.3" font-size="9" fill="#475569">[...]</text><circle cx="167.2" cy="370.0" r="6" fill="#2563EB" opacity="0.85"><title>13124UPSLOCAL996SUPPLEMENTALAG
+Words: 11,885
+Articles: 0</title></circle><text x="175.2" y="374.0" font-size="9" fill="#475569">[...]</text><circle cx="201.6" cy="172.0" r="6" fill="#2563EB" opacity="0.85"><title>13124UPSMETROPHILADELPHIASUPPL
+Words: 16,085
+Articles: 27</title></circle><text x="209.6" y="176.0" font-size="9" fill="#475569">[...]</text><circle cx="77.4" cy="333.3" r="6" fill="#059669" opacity="0.85"><title>13124UPSMICHIGANRIDER
+Words: 902
+Articles: 5</title></circle><text x="85.4" y="337.3" font-size="9" fill="#475569">[...]</text><circle cx="236.8" cy="164.7" r="6" fill="#2563EB" opacity="0.85"><title>13124UPSNEWENGLANDSUPPLEMENTAL
+Words: 20,392
+Articles: 28</title></circle><text x="244.8" y="168.7" font-size="9" fill="#475569">[...]</text><circle cx="94.3" cy="362.7" r="6" fill="#2563EB" opacity="0.85"><title>13124UPSNORTHDAKOTAMINNESOTADI
+Words: 2,977
+Articles: 1</title></circle><text x="102.3" y="366.7" font-size="9" fill="#475569">[...]</text><circle cx="77.2" cy="370.0" r="6" fill="#059669" opacity="0.85"><title>13124UPSOHIORIDER
+Words: 886
+Articles: 0</title></circle><text x="85.2" y="374.0" font-size="9" fill="#475569">13124UPSOHIORIDER</text><circle cx="312.0" cy="142.7" r="6" fill="#2563EB" opacity="0.85"><title>13124UPSSOUTHERNREGIONSUPPLEME
+Words: 29,585
+Articles: 31</title></circle><text x="320.0" y="146.7" font-size="9" fill="#475569">[...]</text><circle cx="191.1" cy="362.7" r="6" fill="#DC2626" opacity="0.85"><title>13124UPSSOUTHWESTAUTOMOTIVEAND
+Words: 14,805
+Articles: 1</title></circle><text x="199.1" y="366.7" font-size="9" fill="#475569">[...]</text><circle cx="397.7" cy="370.0" r="6" fill="#059669" opacity="0.85"><title>13124UPSSOUTHWESTPACKAGESORTRI
+Words: 40,065
+Articles: 0</title></circle><text x="405.7" y="374.0" font-size="9" fill="#475569">[...]</text><circle cx="271.6" cy="164.7" r="6" fill="#2563EB" opacity="0.85"><title>13124UPSTRAILERCONDITIONERSINC
+Words: 24,645
+Articles: 28</title></circle><text x="279.6" y="168.7" font-size="9" fill="#475569">[...]</text><circle cx="233.6" cy="84.0" r="6" fill="#2563EB" opacity="0.85"><title>13124UPSUPSTATEWESTNEWYORKSUPP
+Words: 20,000
+Articles: 39</title></circle><text x="241.6" y="88.0" font-size="9" fill="#475569">[...]</text><circle cx="242.2" cy="157.3" r="6" fill="#2563EB" opacity="0.85"><title>13124UPSWESTERNPENNSYLVANIASUP
+Words: 21,052
+Articles: 29</title></circle><text x="250.2" y="161.3" font-size="9" fill="#475569">[...]</text><circle cx="190.6" cy="142.7" r="6" fill="#2563EB" opacity="0.85"><title>13124UPSWESTERNREGIONSUPPLEMEN
+Words: 14,746
+Articles: 31</title></circle><text x="198.6" y="146.7" font-size="9" fill="#475569">[...]</text><circle cx="604.3" cy="40.0" r="6" fill="#D97706" opacity="0.85"><title>1924UPSNATIONALMASTERFINAL
+Words: 65,335
+Articles: 45</title></circle><text x="612.3" y="44.0" font-size="9" fill="#475569">[...]</text><circle cx="218.4" cy="194.0" r="6" fill="#2563EB" opacity="0.85"><title>83787-UPS-CENTRAL-PA-SUPPLEMEN
+Words: 18,151
+Articles: 24</title></circle><text x="226.4" y="198.0" font-size="9" fill="#475569">83787-UPS- [...]</text><circle cx="288.3" cy="54.7" r="6" fill="#2563EB" opacity="0.85"><title>83790-UPS-LOCAL-804-SUPPLEMENT
+Words: 26,693
+Articles: 43</title></circle><text x="296.3" y="58.7" font-size="9" fill="#475569">83790-UPS- [...]</text><circle cx="610.0" cy="113.3" r="6" fill="#2563EB" opacity="0.85"><title>83796-UPS-NORCAL-SUPPLEMENT-an
+Words: 66,027
+Articles: 35</title></circle><text x="618.0" y="117.3" font-size="9" fill="#475569">83796-UPS- [...]</text><circle cx="240.2" cy="91.3" r="6" fill="#059669" opacity="0.85"><title>Teamsters-Local-177-Drivers-Ri
+Words: 20,813
+Articles: 38</title></circle><text x="248.2" y="95.3" font-size="9" fill="#475569">Teamsters- [...]</text><circle cx="200.5" cy="98.7" r="6" fill="#059669" opacity="0.85"><title>Teamsters-Local-177-Mechanics-
+Words: 15,962
+Articles: 37</title></circle><text x="208.5" y="102.7" font-size="9" fill="#475569">Teamsters- [...]</text><circle cx="99.2" cy="370.0" r="6" fill="#059669" opacity="0.85"><title>UPS-LOCAL-100-RIDER
+Words: 3,567
+Articles: 0</title></circle><text x="107.2" y="374.0" font-size="9" fill="#475569">UPS- [...]</text><circle cx="72.8" cy="370.0" r="6" fill="#059669" opacity="0.85"><title>UPS-LOCAL-696-RIDER
+Words: 339
+Articles: 0</title></circle><text x="80.8" y="374.0" font-size="9" fill="#475569">UPS- [...]</text>
+</svg>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Topic Coverage Heatmap by Document Type</h2>
+  <p style="font-size:.8rem;color:#64748B;margin-bottom:12px">Cell value = number of documents of that type containing the topic. Darker = higher frequency.</p>
+  <svg xmlns="http://www.w3.org/2000/svg" width="580" height="772" style="font-family:system-ui,sans-serif">
+  <text x="290" y="22" text-anchor="middle" font-size="15" font-weight="600" fill="#1E293B">Topic Coverage by Document Type</text>
+  <text transform="rotate(-35,280,56)" x="280" y="56" text-anchor="end" font-size="11" fill="#334155">[...]</text><text transform="rotate(-35,360,56)" x="360" y="56" text-anchor="end" font-size="11" fill="#334155">[...]</text><text transform="rotate(-35,440,56)" x="440" y="56" text-anchor="end" font-size="11" fill="#334155">Rider</text><text transform="rotate(-35,520,56)" x="520" y="56" text-anchor="end" font-size="11" fill="#334155">Addendum</text>
+  <text x="234" y="76" text-anchor="end" font-size="11" fill="#334155">Health And Welfare</text><rect x="240" y="60" width="79" height="23" fill="#E6E9F6" rx="2"><title>health_and_welfare × National Master Agreement: 2</title></rect><text x="280" y="76" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="60" width="79" height="23" fill="#1E40AF" rx="2"><title>health_and_welfare × Supplemental Agreement: 18</title></rect><text x="360" y="76" text-anchor="middle" font-size="10" fill="#FFFFFF">18</text><rect x="400" y="60" width="79" height="23" fill="#2A4AB3" rx="2"><title>health_and_welfare × Rider: 17</title></rect><text x="440" y="76" text-anchor="middle" font-size="10" fill="#FFFFFF">17</text><rect x="480" y="60" width="79" height="23" fill="#F2F4FA" rx="2"><title>health_and_welfare × Addendum: 1</title></rect><text x="520" y="76" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="100" text-anchor="end" font-size="11" fill="#334155">Vacations</text><rect x="240" y="84" width="79" height="23" fill="#E6E9F6" rx="2"><title>vacations × National Master Agreement: 2</title></rect><text x="280" y="100" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="84" width="79" height="23" fill="#1E40AF" rx="2"><title>vacations × Supplemental Agreement: 18</title></rect><text x="360" y="100" text-anchor="middle" font-size="10" fill="#FFFFFF">18</text><rect x="400" y="84" width="79" height="23" fill="#2A4AB3" rx="2"><title>vacations × Rider: 17</title></rect><text x="440" y="100" text-anchor="middle" font-size="10" fill="#FFFFFF">17</text><rect x="480" y="84" width="79" height="23" fill="#F2F4FA" rx="2"><title>vacations × Addendum: 1</title></rect><text x="520" y="100" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="124" text-anchor="end" font-size="11" fill="#334155">Supplemental Work</text><rect x="240" y="108" width="79" height="23" fill="#E6E9F6" rx="2"><title>supplemental_work × National Master Agreement: 2</title></rect><text x="280" y="124" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="108" width="79" height="23" fill="#1E40AF" rx="2"><title>supplemental_work × Supplemental Agreement: 18</title></rect><text x="360" y="124" text-anchor="middle" font-size="10" fill="#FFFFFF">18</text><rect x="400" y="108" width="79" height="23" fill="#2A4AB3" rx="2"><title>supplemental_work × Rider: 17</title></rect><text x="440" y="124" text-anchor="middle" font-size="10" fill="#FFFFFF">17</text><rect x="480" y="108" width="79" height="23" fill="#F2F4FA" rx="2"><title>supplemental_work × Addendum: 1</title></rect><text x="520" y="124" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="148" text-anchor="end" font-size="11" fill="#334155">Full Time Employees</text><rect x="240" y="132" width="79" height="23" fill="#E6E9F6" rx="2"><title>full_time_employees × National Master Agreement: 2</title></rect><text x="280" y="148" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="132" width="79" height="23" fill="#1E40AF" rx="2"><title>full_time_employees × Supplemental Agreement: 18</title></rect><text x="360" y="148" text-anchor="middle" font-size="10" fill="#FFFFFF">18</text><rect x="400" y="132" width="79" height="23" fill="#2A4AB3" rx="2"><title>full_time_employees × Rider: 17</title></rect><text x="440" y="148" text-anchor="middle" font-size="10" fill="#FFFFFF">17</text><rect x="480" y="132" width="79" height="23" fill="#F2F4FA" rx="2"><title>full_time_employees × Addendum: 1</title></rect><text x="520" y="148" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="172" text-anchor="end" font-size="11" fill="#334155">Wages</text><rect x="240" y="156" width="79" height="23" fill="#E6E9F6" rx="2"><title>wages × National Master Agreement: 2</title></rect><text x="280" y="172" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="156" width="79" height="23" fill="#1E40AF" rx="2"><title>wages × Supplemental Agreement: 18</title></rect><text x="360" y="172" text-anchor="middle" font-size="10" fill="#FFFFFF">18</text><rect x="400" y="156" width="79" height="23" fill="#3755B7" rx="2"><title>wages × Rider: 16</title></rect><text x="440" y="172" text-anchor="middle" font-size="10" fill="#FFFFFF">16</text><rect x="480" y="156" width="79" height="23" fill="#F2F4FA" rx="2"><title>wages × Addendum: 1</title></rect><text x="520" y="172" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="196" text-anchor="end" font-size="11" fill="#334155">Seniority</text><rect x="240" y="180" width="79" height="23" fill="#E6E9F6" rx="2"><title>seniority × National Master Agreement: 2</title></rect><text x="280" y="196" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="180" width="79" height="23" fill="#1E40AF" rx="2"><title>seniority × Supplemental Agreement: 18</title></rect><text x="360" y="196" text-anchor="middle" font-size="10" fill="#FFFFFF">18</text><rect x="400" y="180" width="79" height="23" fill="#3755B7" rx="2"><title>seniority × Rider: 16</title></rect><text x="440" y="196" text-anchor="middle" font-size="10" fill="#FFFFFF">16</text><rect x="480" y="180" width="79" height="23" fill="#F2F4FA" rx="2"><title>seniority × Addendum: 1</title></rect><text x="520" y="196" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="220" text-anchor="end" font-size="11" fill="#334155">Job Classifications</text><rect x="240" y="204" width="79" height="23" fill="#E6E9F6" rx="2"><title>job_classifications × National Master Agreement: 2</title></rect><text x="280" y="220" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="204" width="79" height="23" fill="#1E40AF" rx="2"><title>job_classifications × Supplemental Agreement: 18</title></rect><text x="360" y="220" text-anchor="middle" font-size="10" fill="#FFFFFF">18</text><rect x="400" y="204" width="79" height="23" fill="#3755B7" rx="2"><title>job_classifications × Rider: 16</title></rect><text x="440" y="220" text-anchor="middle" font-size="10" fill="#FFFFFF">16</text><rect x="480" y="204" width="79" height="23" fill="#F2F4FA" rx="2"><title>job_classifications × Addendum: 1</title></rect><text x="520" y="220" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="244" text-anchor="end" font-size="11" fill="#334155">Part Time Employees</text><rect x="240" y="228" width="79" height="23" fill="#E6E9F6" rx="2"><title>part_time_employees × National Master Agreement: 2</title></rect><text x="280" y="244" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="228" width="79" height="23" fill="#1E40AF" rx="2"><title>part_time_employees × Supplemental Agreement: 18</title></rect><text x="360" y="244" text-anchor="middle" font-size="10" fill="#FFFFFF">18</text><rect x="400" y="228" width="79" height="23" fill="#435FBC" rx="2"><title>part_time_employees × Rider: 15</title></rect><text x="440" y="244" text-anchor="middle" font-size="10" fill="#FFFFFF">15</text><rect x="480" y="228" width="79" height="23" fill="#F2F4FA" rx="2"><title>part_time_employees × Addendum: 1</title></rect><text x="520" y="244" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="268" text-anchor="end" font-size="11" fill="#334155">Pension</text><rect x="240" y="252" width="79" height="23" fill="#E6E9F6" rx="2"><title>pension × National Master Agreement: 2</title></rect><text x="280" y="268" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="252" width="79" height="23" fill="#2A4AB3" rx="2"><title>pension × Supplemental Agreement: 17</title></rect><text x="360" y="268" text-anchor="middle" font-size="10" fill="#FFFFFF">17</text><rect x="400" y="252" width="79" height="23" fill="#506AC0" rx="2"><title>pension × Rider: 14</title></rect><text x="440" y="268" text-anchor="middle" font-size="10" fill="#FFFFFF">14</text><rect x="480" y="252" width="79" height="23" fill="#F2F4FA" rx="2"><title>pension × Addendum: 1</title></rect><text x="520" y="268" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="292" text-anchor="end" font-size="11" fill="#334155">Discipline</text><rect x="240" y="276" width="79" height="23" fill="#E6E9F6" rx="2"><title>discipline × National Master Agreement: 2</title></rect><text x="280" y="292" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="276" width="79" height="23" fill="#2A4AB3" rx="2"><title>discipline × Supplemental Agreement: 17</title></rect><text x="360" y="292" text-anchor="middle" font-size="10" fill="#FFFFFF">17</text><rect x="400" y="276" width="79" height="23" fill="#506AC0" rx="2"><title>discipline × Rider: 14</title></rect><text x="440" y="292" text-anchor="middle" font-size="10" fill="#FFFFFF">14</text><rect x="480" y="276" width="79" height="23" fill="#F2F4FA" rx="2"><title>discipline × Addendum: 1</title></rect><text x="520" y="292" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="316" text-anchor="end" font-size="11" fill="#334155">Benefits</text><rect x="240" y="300" width="79" height="23" fill="#E6E9F6" rx="2"><title>benefits × National Master Agreement: 2</title></rect><text x="280" y="316" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="300" width="79" height="23" fill="#2A4AB3" rx="2"><title>benefits × Supplemental Agreement: 17</title></rect><text x="360" y="316" text-anchor="middle" font-size="10" fill="#FFFFFF">17</text><rect x="400" y="300" width="79" height="23" fill="#5C75C5" rx="2"><title>benefits × Rider: 13</title></rect><text x="440" y="316" text-anchor="middle" font-size="10" fill="#FFFFFF">13</text><rect x="480" y="300" width="79" height="23" fill="#F2F4FA" rx="2"><title>benefits × Addendum: 1</title></rect><text x="520" y="316" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="340" text-anchor="end" font-size="11" fill="#334155">Grievance Arbitration</text><rect x="240" y="324" width="79" height="23" fill="#E6E9F6" rx="2"><title>grievance_arbitration × National Master Agreement: 2</title></rect><text x="280" y="340" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="324" width="79" height="23" fill="#2A4AB3" rx="2"><title>grievance_arbitration × Supplemental Agreement: 17</title></rect><text x="360" y="340" text-anchor="middle" font-size="10" fill="#FFFFFF">17</text><rect x="400" y="324" width="79" height="23" fill="#5C75C5" rx="2"><title>grievance_arbitration × Rider: 13</title></rect><text x="440" y="340" text-anchor="middle" font-size="10" fill="#FFFFFF">13</text><rect x="480" y="324" width="79" height="23" fill="#F2F4FA" rx="2"><title>grievance_arbitration × Addendum: 1</title></rect><text x="520" y="340" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="364" text-anchor="end" font-size="11" fill="#334155">Holidays</text><rect x="240" y="348" width="79" height="23" fill="#E6E9F6" rx="2"><title>holidays × National Master Agreement: 2</title></rect><text x="280" y="364" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="348" width="79" height="23" fill="#1E40AF" rx="2"><title>holidays × Supplemental Agreement: 18</title></rect><text x="360" y="364" text-anchor="middle" font-size="10" fill="#FFFFFF">18</text><rect x="400" y="348" width="79" height="23" fill="#697FC9" rx="2"><title>holidays × Rider: 12</title></rect><text x="440" y="364" text-anchor="middle" font-size="10" fill="#1E293B">12</text><rect x="480" y="348" width="79" height="23" fill="#F2F4FA" rx="2"><title>holidays × Addendum: 1</title></rect><text x="520" y="364" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="388" text-anchor="end" font-size="11" fill="#334155">Feeders</text><rect x="240" y="372" width="79" height="23" fill="#E6E9F6" rx="2"><title>feeders × National Master Agreement: 2</title></rect><text x="280" y="388" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="372" width="79" height="23" fill="#3755B7" rx="2"><title>feeders × Supplemental Agreement: 16</title></rect><text x="360" y="388" text-anchor="middle" font-size="10" fill="#FFFFFF">16</text><rect x="400" y="372" width="79" height="23" fill="#506AC0" rx="2"><title>feeders × Rider: 14</title></rect><text x="440" y="388" text-anchor="middle" font-size="10" fill="#FFFFFF">14</text><rect x="480" y="372" width="79" height="23" fill="#FFFFFF" rx="2"><title>feeders × Addendum: 0</title></rect><text x="234" y="412" text-anchor="end" font-size="11" fill="#334155">Hours Of Work</text><rect x="240" y="396" width="79" height="23" fill="#E6E9F6" rx="2"><title>hours_of_work × National Master Agreement: 2</title></rect><text x="280" y="412" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="396" width="79" height="23" fill="#1E40AF" rx="2"><title>hours_of_work × Supplemental Agreement: 18</title></rect><text x="360" y="412" text-anchor="middle" font-size="10" fill="#FFFFFF">18</text><rect x="400" y="396" width="79" height="23" fill="#8294D2" rx="2"><title>hours_of_work × Rider: 10</title></rect><text x="440" y="412" text-anchor="middle" font-size="10" fill="#1E293B">10</text><rect x="480" y="396" width="79" height="23" fill="#F2F4FA" rx="2"><title>hours_of_work × Addendum: 1</title></rect><text x="520" y="412" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="436" text-anchor="end" font-size="11" fill="#334155">Overtime</text><rect x="240" y="420" width="79" height="23" fill="#E6E9F6" rx="2"><title>overtime × National Master Agreement: 2</title></rect><text x="280" y="436" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="420" width="79" height="23" fill="#3755B7" rx="2"><title>overtime × Supplemental Agreement: 16</title></rect><text x="360" y="436" text-anchor="middle" font-size="10" fill="#FFFFFF">16</text><rect x="400" y="420" width="79" height="23" fill="#758ACE" rx="2"><title>overtime × Rider: 11</title></rect><text x="440" y="436" text-anchor="middle" font-size="10" fill="#1E293B">11</text><rect x="480" y="420" width="79" height="23" fill="#F2F4FA" rx="2"><title>overtime × Addendum: 1</title></rect><text x="520" y="436" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="460" text-anchor="end" font-size="11" fill="#334155">Package Delivery</text><rect x="240" y="444" width="79" height="23" fill="#E6E9F6" rx="2"><title>package_delivery × National Master Agreement: 2</title></rect><text x="280" y="460" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="444" width="79" height="23" fill="#435FBC" rx="2"><title>package_delivery × Supplemental Agreement: 15</title></rect><text x="360" y="460" text-anchor="middle" font-size="10" fill="#FFFFFF">15</text><rect x="400" y="444" width="79" height="23" fill="#758ACE" rx="2"><title>package_delivery × Rider: 11</title></rect><text x="440" y="460" text-anchor="middle" font-size="10" fill="#1E293B">11</text><rect x="480" y="444" width="79" height="23" fill="#FFFFFF" rx="2"><title>package_delivery × Addendum: 0</title></rect><text x="234" y="484" text-anchor="end" font-size="11" fill="#334155">Leaves Of Absence</text><rect x="240" y="468" width="79" height="23" fill="#E6E9F6" rx="2"><title>leaves_of_absence × National Master Agreement: 2</title></rect><text x="280" y="484" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="468" width="79" height="23" fill="#5C75C5" rx="2"><title>leaves_of_absence × Supplemental Agreement: 13</title></rect><text x="360" y="484" text-anchor="middle" font-size="10" fill="#FFFFFF">13</text><rect x="400" y="468" width="79" height="23" fill="#9BAADB" rx="2"><title>leaves_of_absence × Rider: 8</title></rect><text x="440" y="484" text-anchor="middle" font-size="10" fill="#1E293B">8</text><rect x="480" y="468" width="79" height="23" fill="#F2F4FA" rx="2"><title>leaves_of_absence × Addendum: 1</title></rect><text x="520" y="484" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="508" text-anchor="end" font-size="11" fill="#334155">Mechanics</text><rect x="240" y="492" width="79" height="23" fill="#F2F4FA" rx="2"><title>mechanics × National Master Agreement: 1</title></rect><text x="280" y="508" text-anchor="middle" font-size="10" fill="#1E293B">1</text><rect x="320" y="492" width="79" height="23" fill="#758ACE" rx="2"><title>mechanics × Supplemental Agreement: 11</title></rect><text x="360" y="508" text-anchor="middle" font-size="10" fill="#1E293B">11</text><rect x="400" y="492" width="79" height="23" fill="#8294D2" rx="2"><title>mechanics × Rider: 10</title></rect><text x="440" y="508" text-anchor="middle" font-size="10" fill="#1E293B">10</text><rect x="480" y="492" width="79" height="23" fill="#F2F4FA" rx="2"><title>mechanics × Addendum: 1</title></rect><text x="520" y="508" text-anchor="middle" font-size="10" fill="#1E293B">1</text><text x="234" y="532" text-anchor="end" font-size="11" fill="#334155">Safety And Health</text><rect x="240" y="516" width="79" height="23" fill="#E6E9F6" rx="2"><title>safety_and_health × National Master Agreement: 2</title></rect><text x="280" y="532" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="516" width="79" height="23" fill="#697FC9" rx="2"><title>safety_and_health × Supplemental Agreement: 12</title></rect><text x="360" y="532" text-anchor="middle" font-size="10" fill="#1E293B">12</text><rect x="400" y="516" width="79" height="23" fill="#A7B4DF" rx="2"><title>safety_and_health × Rider: 7</title></rect><text x="440" y="532" text-anchor="middle" font-size="10" fill="#1E293B">7</text><rect x="480" y="516" width="79" height="23" fill="#FFFFFF" rx="2"><title>safety_and_health × Addendum: 0</title></rect><text x="234" y="556" text-anchor="end" font-size="11" fill="#334155">Air Operations</text><rect x="240" y="540" width="79" height="23" fill="#E6E9F6" rx="2"><title>air_operations × National Master Agreement: 2</title></rect><text x="280" y="556" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="540" width="79" height="23" fill="#A7B4DF" rx="2"><title>air_operations × Supplemental Agreement: 7</title></rect><text x="360" y="556" text-anchor="middle" font-size="10" fill="#1E293B">7</text><rect x="400" y="540" width="79" height="23" fill="#A7B4DF" rx="2"><title>air_operations × Rider: 7</title></rect><text x="440" y="556" text-anchor="middle" font-size="10" fill="#1E293B">7</text><rect x="480" y="540" width="79" height="23" fill="#FFFFFF" rx="2"><title>air_operations × Addendum: 0</title></rect><text x="234" y="580" text-anchor="end" font-size="11" fill="#334155">Subcontracting</text><rect x="240" y="564" width="79" height="23" fill="#E6E9F6" rx="2"><title>subcontracting × National Master Agreement: 2</title></rect><text x="280" y="580" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="564" width="79" height="23" fill="#A7B4DF" rx="2"><title>subcontracting × Supplemental Agreement: 7</title></rect><text x="360" y="580" text-anchor="middle" font-size="10" fill="#1E293B">7</text><rect x="400" y="564" width="79" height="23" fill="#D9DFF1" rx="2"><title>subcontracting × Rider: 3</title></rect><text x="440" y="580" text-anchor="middle" font-size="10" fill="#1E293B">3</text><rect x="480" y="564" width="79" height="23" fill="#FFFFFF" rx="2"><title>subcontracting × Addendum: 0</title></rect><text x="234" y="604" text-anchor="end" font-size="11" fill="#334155">Union Security</text><rect x="240" y="588" width="79" height="23" fill="#E6E9F6" rx="2"><title>union_security × National Master Agreement: 2</title></rect><text x="280" y="604" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="588" width="79" height="23" fill="#C0C9E8" rx="2"><title>union_security × Supplemental Agreement: 5</title></rect><text x="360" y="604" text-anchor="middle" font-size="10" fill="#1E293B">5</text><rect x="400" y="588" width="79" height="23" fill="#D9DFF1" rx="2"><title>union_security × Rider: 3</title></rect><text x="440" y="604" text-anchor="middle" font-size="10" fill="#1E293B">3</text><rect x="480" y="588" width="79" height="23" fill="#FFFFFF" rx="2"><title>union_security × Addendum: 0</title></rect><text x="234" y="628" text-anchor="end" font-size="11" fill="#334155">Combination Employees</text><rect x="240" y="612" width="79" height="23" fill="#F2F4FA" rx="2"><title>combination_employees × National Master Agreement: 1</title></rect><text x="280" y="628" text-anchor="middle" font-size="10" fill="#1E293B">1</text><rect x="320" y="612" width="79" height="23" fill="#CDD4ED" rx="2"><title>combination_employees × Supplemental Agreement: 4</title></rect><text x="360" y="628" text-anchor="middle" font-size="10" fill="#1E293B">4</text><rect x="400" y="612" width="79" height="23" fill="#CDD4ED" rx="2"><title>combination_employees × Rider: 4</title></rect><text x="440" y="628" text-anchor="middle" font-size="10" fill="#1E293B">4</text><rect x="480" y="612" width="79" height="23" fill="#FFFFFF" rx="2"><title>combination_employees × Addendum: 0</title></rect><text x="234" y="652" text-anchor="end" font-size="11" fill="#334155">Cartage</text><rect x="240" y="636" width="79" height="23" fill="#E6E9F6" rx="2"><title>cartage × National Master Agreement: 2</title></rect><text x="280" y="652" text-anchor="middle" font-size="10" fill="#1E293B">2</text><rect x="320" y="636" width="79" height="23" fill="#F2F4FA" rx="2"><title>cartage × Supplemental Agreement: 1</title></rect><text x="360" y="652" text-anchor="middle" font-size="10" fill="#1E293B">1</text><rect x="400" y="636" width="79" height="23" fill="#F2F4FA" rx="2"><title>cartage × Rider: 1</title></rect><text x="440" y="652" text-anchor="middle" font-size="10" fill="#1E293B">1</text><rect x="480" y="636" width="79" height="23" fill="#FFFFFF" rx="2"><title>cartage × Addendum: 0</title></rect><text x="234" y="676" text-anchor="end" font-size="11" fill="#334155">Management Rights</text><rect x="240" y="660" width="79" height="23" fill="#F2F4FA" rx="2"><title>management_rights × National Master Agreement: 1</title></rect><text x="280" y="676" text-anchor="middle" font-size="10" fill="#1E293B">1</text><rect x="320" y="660" width="79" height="23" fill="#F2F4FA" rx="2"><title>management_rights × Supplemental Agreement: 1</title></rect><text x="360" y="676" text-anchor="middle" font-size="10" fill="#1E293B">1</text><rect x="400" y="660" width="79" height="23" fill="#F2F4FA" rx="2"><title>management_rights × Rider: 1</title></rect><text x="440" y="676" text-anchor="middle" font-size="10" fill="#1E293B">1</text><rect x="480" y="660" width="79" height="23" fill="#FFFFFF" rx="2"><title>management_rights × Addendum: 0</title></rect><text x="234" y="700" text-anchor="end" font-size="11" fill="#334155">New Technology</text><rect x="240" y="684" width="79" height="23" fill="#F2F4FA" rx="2"><title>new_technology × National Master Agreement: 1</title></rect><text x="280" y="700" text-anchor="middle" font-size="10" fill="#1E293B">1</text><rect x="320" y="684" width="79" height="23" fill="#FFFFFF" rx="2"><title>new_technology × Supplemental Agreement: 0</title></rect><rect x="400" y="684" width="79" height="23" fill="#FFFFFF" rx="2"><title>new_technology × Rider: 0</title></rect><rect x="480" y="684" width="79" height="23" fill="#FFFFFF" rx="2"><title>new_technology × Addendum: 0</title></rect><text x="234" y="724" text-anchor="end" font-size="11" fill="#334155">General Provisions</text><rect x="240" y="708" width="79" height="23" fill="#FFFFFF" rx="2"><title>general_provisions × National Master Agreement: 0</title></rect><rect x="320" y="708" width="79" height="23" fill="#F2F4FA" rx="2"><title>general_provisions × Supplemental Agreement: 1</title></rect><text x="360" y="724" text-anchor="middle" font-size="10" fill="#1E293B">1</text><rect x="400" y="708" width="79" height="23" fill="#FFFFFF" rx="2"><title>general_provisions × Rider: 0</title></rect><rect x="480" y="708" width="79" height="23" fill="#FFFFFF" rx="2"><title>general_provisions × Addendum: 0</title></rect>
+</svg>
+</div>
+
+
+<div class="section">
+  <h2>Wage Value Distribution &mdash; Mean &plusmn;3&sigma; Range per Contract</h2>
+  <p style="font-size:.8rem;color:#64748B;margin-bottom:12px">
+    Contracts where hourly wage parameters were extracted (n=30).
+    The bar spans mean &minus; 3&sigma; to mean + 3&sigma; (covering &approx;99.7% of values under a normal model).
+    Diamond marker = mean. Sorted ascending by mean.
+  </p>
+  <svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" style="font-family:system-ui,sans-serif"><text x="400" y="22" text-anchor="middle" font-size="15" font-weight="600" fill="#1E293B">Hourly Wage Distribution per Contract (±3σ Range)</text><text x="400" y="38" text-anchor="middle" font-size="12" fill="#64748B">Diamond = mean hourly wage · Bar = ±3σ range · 30 contracts with extracted wage data</text><line x1="290.0" y1="70" x2="290.0" y2="970" stroke="#E2E8F0" stroke-width="1"/><text x="290.0" y="986" text-anchor="middle" font-size="10" fill="#94A3B8">$0.00</text> <line x1="400.0" y1="70" x2="400.0" y2="970" stroke="#E2E8F0" stroke-width="1"/><text x="400.0" y="986" text-anchor="middle" font-size="10" fill="#94A3B8">$18.50</text> <line x1="510.0" y1="70" x2="510.0" y2="970" stroke="#E2E8F0" stroke-width="1"/><text x="510.0" y="986" text-anchor="middle" font-size="10" fill="#94A3B8">$36.99</text> <line x1="620.0" y1="70" x2="620.0" y2="970" stroke="#E2E8F0" stroke-width="1"/><text x="620.0" y="986" text-anchor="middle" font-size="10" fill="#94A3B8">$55.49</text> <line x1="730.0" y1="70" x2="730.0" y2="970" stroke="#E2E8F0" stroke-width="1"/><text x="730.0" y="986" text-anchor="middle" font-size="10" fill="#94A3B8">$73.99</text> <line x1="290" y1="70" x2="290" y2="970" stroke="#CBD5E1" stroke-width="1.5"/><text x="284" y="85" text-anchor="end" font-size="11" fill="#334155">13124UPSJOINTCOUNCIL37PACKAGEANDSORTRIDERS</text><rect x="372.3" y="76" width="2.0" height="10" fill="#BFDBFE" rx="3"/><line x1="372.3" y1="73" x2="372.3" y2="89" stroke="#2563EB" stroke-width="1.5"/><line x1="372.3" y1="73" x2="372.3" y2="89" stroke="#2563EB" stroke-width="1.5"/><polygon points="372.3,74 377.3,81 372.3,88 367.3,81" fill="#1D4ED8"/><text x="372.3" y="71" text-anchor="middle" font-size="9" fill="#1D4ED8">$13.84</text> <text x="284" y="115" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL769LATINAMERICAINCRIDER</text><rect x="334.0" y="106" width="131.5" height="10" fill="#BFDBFE" rx="3"/><line x1="334.0" y1="103" x2="334.0" y2="119" stroke="#2563EB" stroke-width="1.5"/><line x1="465.5" y1="103" x2="465.5" y2="119" stroke="#2563EB" stroke-width="1.5"/><polygon points="399.7,104 404.7,111 399.7,118 394.7,111" fill="#1D4ED8"/><text x="399.7" y="101" text-anchor="middle" font-size="9" fill="#1D4ED8">$18.45</text> <text x="284" y="145" text-anchor="end" font-size="11" fill="#334155">Teamsters-Local-177-Drivers-Rider</text><rect x="366.5" y="136" width="77.9" height="10" fill="#BFDBFE" rx="3"/><line x1="366.5" y1="133" x2="366.5" y2="149" stroke="#2563EB" stroke-width="1.5"/><line x1="444.3" y1="133" x2="444.3" y2="149" stroke="#2563EB" stroke-width="1.5"/><polygon points="405.4,134 410.4,141 405.4,148 400.4,141" fill="#1D4ED8"/><text x="405.4" y="131" text-anchor="middle" font-size="9" fill="#1D4ED8">$19.41</text> <text x="284" y="175" text-anchor="end" font-size="11" fill="#334155">13124UPSNEWENGLANDSUPPLEMENTALAGREEMENT</text><rect x="408.9" y="166" width="2.0" height="10" fill="#BFDBFE" rx="3"/><line x1="408.9" y1="163" x2="408.9" y2="179" stroke="#2563EB" stroke-width="1.5"/><line x1="408.9" y1="163" x2="408.9" y2="179" stroke="#2563EB" stroke-width="1.5"/><polygon points="408.9,164 413.9,171 408.9,178 403.9,171" fill="#1D4ED8"/><text x="408.9" y="161" text-anchor="middle" font-size="9" fill="#1D4ED8">$20.00</text> <text x="284" y="205" text-anchor="end" font-size="11" fill="#334155">[...]</text><rect x="406.7" y="196" width="28.2" height="10" fill="#BFDBFE" rx="3"/><line x1="406.7" y1="193" x2="406.7" y2="209" stroke="#2563EB" stroke-width="1.5"/><line x1="434.9" y1="193" x2="434.9" y2="209" stroke="#2563EB" stroke-width="1.5"/><polygon points="420.8,194 425.8,201 420.8,208 415.8,201" fill="#1D4ED8"/><text x="420.8" y="191" text-anchor="middle" font-size="9" fill="#1D4ED8">$22.00</text> <text x="284" y="235" text-anchor="end" font-size="11" fill="#334155">13124UPSCENTRALREGIONSUPPLEMENTALAGREEMENT</text><rect x="426.8" y="226" width="2.0" height="10" fill="#BFDBFE" rx="3"/><line x1="426.8" y1="223" x2="426.8" y2="239" stroke="#2563EB" stroke-width="1.5"/><line x1="426.8" y1="223" x2="426.8" y2="239" stroke="#2563EB" stroke-width="1.5"/><polygon points="426.8,224 431.8,231 426.8,238 421.8,231" fill="#1D4ED8"/><text x="426.8" y="221" text-anchor="middle" font-size="9" fill="#1D4ED8">$23.00</text> <text x="284" y="265" text-anchor="end" font-size="11" fill="#334155">[...]</text><rect x="316.0" y="256" width="231.8" height="10" fill="#BFDBFE" rx="3"/><line x1="316.0" y1="253" x2="316.0" y2="269" stroke="#2563EB" stroke-width="1.5"/><line x1="547.8" y1="253" x2="547.8" y2="269" stroke="#2563EB" stroke-width="1.5"/><polygon points="431.9,254 436.9,261 431.9,268 426.9,261" fill="#1D4ED8"/><text x="431.9" y="251" text-anchor="middle" font-size="9" fill="#1D4ED8">$23.86</text> <text x="284" y="295" text-anchor="end" font-size="11" fill="#334155">[...]</text><rect x="300.4" y="286" width="299.2" height="10" fill="#BFDBFE" rx="3"/><line x1="300.4" y1="283" x2="300.4" y2="299" stroke="#2563EB" stroke-width="1.5"/><line x1="599.6" y1="283" x2="599.6" y2="299" stroke="#2563EB" stroke-width="1.5"/><polygon points="450.0,284 455.0,291 450.0,298 445.0,291" fill="#1D4ED8"/><text x="450.0" y="281" text-anchor="middle" font-size="9" fill="#1D4ED8">$26.90</text> <text x="284" y="325" text-anchor="end" font-size="11" fill="#334155">1924UPSNATIONALMASTERFINAL</text><rect x="306.4" y="316" width="297.0" height="10" fill="#BFDBFE" rx="3"/><line x1="306.4" y1="313" x2="306.4" y2="329" stroke="#2563EB" stroke-width="1.5"/><line x1="603.4" y1="313" x2="603.4" y2="329" stroke="#2563EB" stroke-width="1.5"/><polygon points="454.9,314 459.9,321 454.9,328 449.9,321" fill="#1D4ED8"/><text x="454.9" y="311" text-anchor="middle" font-size="9" fill="#1D4ED8">$27.72</text> <text x="284" y="355" text-anchor="end" font-size="11" fill="#334155">13124UPSATLANTICAREASUPPLEMENTALAGREEMENT</text><rect x="290.0" y="346" width="395.0" height="10" fill="#BFDBFE" rx="3"/><line x1="290.0" y1="343" x2="290.0" y2="359" stroke="#2563EB" stroke-width="1.5"/><line x1="685.0" y1="343" x2="685.0" y2="359" stroke="#2563EB" stroke-width="1.5"/><polygon points="469.7,344 474.7,351 469.7,358 464.7,351" fill="#1D4ED8"/><text x="469.7" y="341" text-anchor="middle" font-size="9" fill="#1D4ED8">$30.21</text> <text x="284" y="385" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL623SUPPLEMENTALAGREEMENT</text><rect x="326.0" y="376" width="353.8" height="10" fill="#BFDBFE" rx="3"/><line x1="326.0" y1="373" x2="326.0" y2="389" stroke="#2563EB" stroke-width="1.5"/><line x1="679.9" y1="373" x2="679.9" y2="389" stroke="#2563EB" stroke-width="1.5"/><polygon points="503.0,374 508.0,381 503.0,388 498.0,381" fill="#1D4ED8"/><text x="503.0" y="371" text-anchor="middle" font-size="9" fill="#1D4ED8">$35.81</text> <text x="284" y="415" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL996SUPPLEMENTALAGREEMENT</text><rect x="353.6" y="406" width="320.0" height="10" fill="#BFDBFE" rx="3"/><line x1="353.6" y1="403" x2="353.6" y2="419" stroke="#2563EB" stroke-width="1.5"/><line x1="673.6" y1="403" x2="673.6" y2="419" stroke="#2563EB" stroke-width="1.5"/><polygon points="513.6,404 518.6,411 513.6,418 508.6,411" fill="#1D4ED8"/><text x="513.6" y="401" text-anchor="middle" font-size="9" fill="#1D4ED8">$37.60</text> <text x="284" y="445" text-anchor="end" font-size="11" fill="#334155">Teamsters-Local-177-Mechanics-Rider</text><rect x="372.8" y="436" width="287.9" height="10" fill="#BFDBFE" rx="3"/><line x1="372.8" y1="433" x2="372.8" y2="449" stroke="#2563EB" stroke-width="1.5"/><line x1="660.6" y1="433" x2="660.6" y2="449" stroke="#2563EB" stroke-width="1.5"/><polygon points="516.7,434 521.7,441 516.7,448 511.7,441" fill="#1D4ED8"/><text x="516.7" y="431" text-anchor="middle" font-size="9" fill="#1D4ED8">$38.12</text> <text x="284" y="475" text-anchor="end" font-size="11" fill="#334155">[...]</text><rect x="312.7" y="466" width="417.3" height="10" fill="#BFDBFE" rx="3"/><line x1="312.7" y1="463" x2="312.7" y2="479" stroke="#2563EB" stroke-width="1.5"/><line x1="730.0" y1="463" x2="730.0" y2="479" stroke="#2563EB" stroke-width="1.5"/><polygon points="521.4,464 526.4,471 521.4,478 516.4,471" fill="#1D4ED8"/><text x="521.4" y="461" text-anchor="middle" font-size="9" fill="#1D4ED8">$38.90</text> <text x="284" y="505" text-anchor="end" font-size="11" fill="#334155">13124UPSJOINTCOUNCIL28RIDERANDSORTADDENDUM</text><rect x="390.5" y="496" width="264.7" height="10" fill="#BFDBFE" rx="3"/><line x1="390.5" y1="493" x2="390.5" y2="509" stroke="#2563EB" stroke-width="1.5"/><line x1="655.2" y1="493" x2="655.2" y2="509" stroke="#2563EB" stroke-width="1.5"/><polygon points="522.9,494 527.9,501 522.9,508 517.9,501" fill="#1D4ED8"/><text x="522.9" y="491" text-anchor="middle" font-size="9" fill="#1D4ED8">$39.16</text> <text x="284" y="535" text-anchor="end" font-size="11" fill="#334155">13124UPSKENTUCKYRIDER</text><rect x="530.3" y="526" width="11.7" height="10" fill="#BFDBFE" rx="3"/><line x1="530.3" y1="523" x2="530.3" y2="539" stroke="#2563EB" stroke-width="1.5"/><line x1="542.0" y1="523" x2="542.0" y2="539" stroke="#2563EB" stroke-width="1.5"/><polygon points="536.2,524 541.2,531 536.2,538 531.2,531" fill="#1D4ED8"/><text x="536.2" y="521" text-anchor="middle" font-size="9" fill="#1D4ED8">$41.39</text> <text x="284" y="565" text-anchor="end" font-size="11" fill="#334155">83796-UPS-NORCAL-SUPPLEMENT-and- [...]</text><rect x="365.0" y="556" width="346.6" height="10" fill="#BFDBFE" rx="3"/><line x1="365.0" y1="553" x2="365.0" y2="569" stroke="#2563EB" stroke-width="1.5"/><line x1="711.6" y1="553" x2="711.6" y2="569" stroke="#2563EB" stroke-width="1.5"/><polygon points="538.3,554 543.3,561 538.3,568 533.3,561" fill="#1D4ED8"/><text x="538.3" y="551" text-anchor="middle" font-size="9" fill="#1D4ED8">$41.76</text> <text x="284" y="595" text-anchor="end" font-size="11" fill="#334155">[...]</text><rect x="422.9" y="586" width="251.1" height="10" fill="#BFDBFE" rx="3"/><line x1="422.9" y1="583" x2="422.9" y2="599" stroke="#2563EB" stroke-width="1.5"/><line x1="673.9" y1="583" x2="673.9" y2="599" stroke="#2563EB" stroke-width="1.5"/><polygon points="548.4,584 553.4,591 548.4,598 543.4,591" fill="#1D4ED8"/><text x="548.4" y="581" text-anchor="middle" font-size="9" fill="#1D4ED8">$43.45</text> <text x="284" y="625" text-anchor="end" font-size="11" fill="#334155">13124UPSMICHIGANRIDER</text><rect x="536.8" y="616" width="26.9" height="10" fill="#BFDBFE" rx="3"/><line x1="536.8" y1="613" x2="536.8" y2="629" stroke="#2563EB" stroke-width="1.5"/><line x1="563.7" y1="613" x2="563.7" y2="629" stroke="#2563EB" stroke-width="1.5"/><polygon points="550.2,614 555.2,621 550.2,628 545.2,621" fill="#1D4ED8"/><text x="550.2" y="611" text-anchor="middle" font-size="9" fill="#1D4ED8">$43.76</text> <text x="284" y="655" text-anchor="end" font-size="11" fill="#334155">[...]</text><rect x="531.3" y="646" width="38.6" height="10" fill="#BFDBFE" rx="3"/><line x1="531.3" y1="643" x2="531.3" y2="659" stroke="#2563EB" stroke-width="1.5"/><line x1="569.9" y1="643" x2="569.9" y2="659" stroke="#2563EB" stroke-width="1.5"/><polygon points="550.6,644 555.6,651 550.6,658 545.6,651" fill="#1D4ED8"/><text x="550.6" y="641" text-anchor="middle" font-size="9" fill="#1D4ED8">$43.81</text> <text x="284" y="685" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL200RIDER</text><rect x="517.9" y="676" width="66.9" height="10" fill="#BFDBFE" rx="3"/><line x1="517.9" y1="673" x2="517.9" y2="689" stroke="#2563EB" stroke-width="1.5"/><line x1="584.8" y1="673" x2="584.8" y2="689" stroke="#2563EB" stroke-width="1.5"/><polygon points="551.4,674 556.4,681 551.4,688 546.4,681" fill="#1D4ED8"/><text x="551.4" y="671" text-anchor="middle" font-size="9" fill="#1D4ED8">$43.95</text> <text x="284" y="715" text-anchor="end" font-size="11" fill="#334155">13124UPSSOUTHWESTPACKAGESORTRIDERS</text><rect x="436.3" y="706" width="231.7" height="10" fill="#BFDBFE" rx="3"/><line x1="436.3" y1="703" x2="436.3" y2="719" stroke="#2563EB" stroke-width="1.5"/><line x1="668.0" y1="703" x2="668.0" y2="719" stroke="#2563EB" stroke-width="1.5"/><polygon points="552.1,704 557.1,711 552.1,718 547.1,711" fill="#1D4ED8"/><text x="552.1" y="701" text-anchor="middle" font-size="9" fill="#1D4ED8">$44.08</text> <text x="284" y="745" text-anchor="end" font-size="11" fill="#334155">83787-UPS-CENTRAL-PA-SUPPLEMENT- [...]</text><rect x="501.0" y="736" width="106.3" height="10" fill="#BFDBFE" rx="3"/><line x1="501.0" y1="733" x2="501.0" y2="749" stroke="#2563EB" stroke-width="1.5"/><line x1="607.3" y1="733" x2="607.3" y2="749" stroke="#2563EB" stroke-width="1.5"/><polygon points="554.2,734 559.2,741 554.2,748 549.2,741" fill="#1D4ED8"/><text x="554.2" y="731" text-anchor="middle" font-size="9" fill="#1D4ED8">$44.42</text> <text x="284" y="775" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL135RIDER</text><rect x="548.3" y="766" width="11.9" height="10" fill="#BFDBFE" rx="3"/><line x1="548.3" y1="763" x2="548.3" y2="779" stroke="#2563EB" stroke-width="1.5"/><line x1="560.2" y1="763" x2="560.2" y2="779" stroke="#2563EB" stroke-width="1.5"/><polygon points="554.2,764 559.2,771 554.2,778 549.2,771" fill="#1D4ED8"/><text x="554.2" y="761" text-anchor="middle" font-size="9" fill="#1D4ED8">$44.43</text> <text x="284" y="805" text-anchor="end" font-size="11" fill="#334155">[...]</text><rect x="485.8" y="796" width="139.5" height="10" fill="#BFDBFE" rx="3"/><line x1="485.8" y1="793" x2="485.8" y2="809" stroke="#2563EB" stroke-width="1.5"/><line x1="625.4" y1="793" x2="625.4" y2="809" stroke="#2563EB" stroke-width="1.5"/><polygon points="555.6,794 560.6,801 555.6,808 550.6,801" fill="#1D4ED8"/><text x="555.6" y="791" text-anchor="middle" font-size="9" fill="#1D4ED8">$44.66</text> <text x="284" y="835" text-anchor="end" font-size="11" fill="#334155">13124UPSOHIORIDER</text><rect x="548.6" y="826" width="14.9" height="10" fill="#BFDBFE" rx="3"/><line x1="548.6" y1="823" x2="548.6" y2="839" stroke="#2563EB" stroke-width="1.5"/><line x1="563.4" y1="823" x2="563.4" y2="839" stroke="#2563EB" stroke-width="1.5"/><polygon points="556.0,824 561.0,831 556.0,838 551.0,831" fill="#1D4ED8"/><text x="556.0" y="821" text-anchor="middle" font-size="9" fill="#1D4ED8">$44.73</text> <text x="284" y="865" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL344RIDER</text><rect x="509.6" y="856" width="93.8" height="10" fill="#BFDBFE" rx="3"/><line x1="509.6" y1="853" x2="509.6" y2="869" stroke="#2563EB" stroke-width="1.5"/><line x1="603.4" y1="853" x2="603.4" y2="869" stroke="#2563EB" stroke-width="1.5"/><polygon points="556.5,854 561.5,861 556.5,868 551.5,861" fill="#1D4ED8"/><text x="556.5" y="851" text-anchor="middle" font-size="9" fill="#1D4ED8">$44.81</text> <text x="284" y="895" text-anchor="end" font-size="11" fill="#334155">[...]</text><rect x="514.3" y="886" width="84.5" height="10" fill="#BFDBFE" rx="3"/><line x1="514.3" y1="883" x2="514.3" y2="899" stroke="#2563EB" stroke-width="1.5"/><line x1="598.8" y1="883" x2="598.8" y2="899" stroke="#2563EB" stroke-width="1.5"/><polygon points="556.5,884 561.5,891 556.5,898 551.5,891" fill="#1D4ED8"/><text x="556.5" y="881" text-anchor="middle" font-size="9" fill="#1D4ED8">$44.82</text> <text x="284" y="925" text-anchor="end" font-size="11" fill="#334155">[...]</text><rect x="533.6" y="916" width="62.0" height="10" fill="#BFDBFE" rx="3"/><line x1="533.6" y1="913" x2="533.6" y2="929" stroke="#2563EB" stroke-width="1.5"/><line x1="595.6" y1="913" x2="595.6" y2="929" stroke="#2563EB" stroke-width="1.5"/><polygon points="564.6,914 569.6,921 564.6,928 559.6,921" fill="#1D4ED8"/><text x="564.6" y="911" text-anchor="middle" font-size="9" fill="#1D4ED8">$46.18</text> <text x="284" y="955" text-anchor="end" font-size="11" fill="#334155">13124UPSLOCAL688RIDER</text><rect x="535.9" y="946" width="59.6" height="10" fill="#BFDBFE" rx="3"/><line x1="535.9" y1="943" x2="535.9" y2="959" stroke="#2563EB" stroke-width="1.5"/><line x1="595.5" y1="943" x2="595.5" y2="959" stroke="#2563EB" stroke-width="1.5"/><polygon points="565.7,944 570.7,951 565.7,958 560.7,951" fill="#1D4ED8"/><text x="565.7" y="941" text-anchor="middle" font-size="9" fill="#1D4ED8">$46.36</text><text x="290" y="986" font-size="10" fill="#94A3B8">&#9670; mean &nbsp; &#9646; ±3σ range &nbsp; Currency: USD/hour</text></svg>
+</div>
+
+
+<div class="section">
+  <h2>All Documents — Detail Table</h2>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>File</th><th>Type</th><th style="text-align:right">Pages</th>
+          <th style="text-align:right">Words</th><th style="text-align:right">Articles</th>
+          <th style="text-align:right">Sections</th><th style="text-align:right">Local</th>
+          <th>Region</th><th>Key Topics (first 5)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td class="fname">100424UPSLOCAL901PUERTORICOSUPPLEMENTALAGREEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">56</td><td class="num">23,612</td><td class="num">41</td><td class="num">108</td><td class="num">901</td><td class="region">Puerto Rico</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +17</td></tr>
+<tr><td class="fname">13124UPSATLANTICAREASUPPLEMENTALAGREEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">107</td><td class="num">32,324</td><td class="num">24</td><td class="num">68</td><td class="num">—</td><td class="region">Atlantic Area</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +17</td></tr>
+<tr><td class="fname">13124UPSCARTAGESERVICESINCSOUTHERNREGIONADDENDATOMASTERMSRA.pdf</td><td class="dtype">National Master Agreement</td><td class="num">68</td><td class="num">15,959</td><td class="num">44</td><td class="num">102</td><td class="num">—</td><td class="region">Southern Region</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +19</td></tr>
+<tr><td class="fname">13124UPSCARTAGESERVICESINCSUPPLEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">78</td><td class="num">16,540</td><td class="num">39</td><td class="num">40</td><td class="num">—</td><td class="region">Ohio</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +15</td></tr>
+<tr><td class="fname">13124UPSCENTRALREGIONSUPPLEMENTALAGREEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">65</td><td class="num">18,297</td><td class="num">19</td><td class="num">72</td><td class="num">—</td><td class="region">Central Region</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +16</td></tr>
+<tr><td class="fname">13124UPSJOINTCOUNCIL28RIDERANDSORTADDENDUM.pdf</td><td class="dtype">Rider</td><td class="num">77</td><td class="num">20,066</td><td class="num">31</td><td class="num">55</td><td class="num">—</td><td class="region">Western Region</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +16</td></tr>
+<tr><td class="fname">13124UPSJOINTCOUNCIL37PACKAGEANDSORTRIDERS.pdf</td><td class="dtype">Rider</td><td class="num">80</td><td class="num">19,483</td><td class="num">19</td><td class="num">84</td><td class="num">—</td><td class="region">Western Region</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +16</td></tr>
+<tr><td class="fname">13124UPSJOINTCOUNCIL3FEEDERPACKAGEMECHANICSCOMBINATIONEMPLOYEESRIDER.pdf</td><td class="dtype">Rider</td><td class="num">75</td><td class="num">19,334</td><td class="num">27</td><td class="num">104</td><td class="num">—</td><td class="region">Western Region</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +17</td></tr>
+<tr><td class="fname">13124UPSKENTUCKYRIDER.pdf</td><td class="dtype">Rider</td><td class="num">17</td><td class="num">2,736</td><td class="num">1</td><td class="num">7</td><td class="num">—</td><td class="region">Central Region</td><td class="topics">wages, benefits, health and welfare, seniority, discipline +8</td></tr>
+<tr><td class="fname">13124UPSLOCAL135RIDER.pdf</td><td class="dtype">Rider</td><td class="num">35</td><td class="num">8,055</td><td class="num">0</td><td class="num">23</td><td class="num">135</td><td class="region">—</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +13</td></tr>
+<tr><td class="fname">13124UPSLOCAL200RIDER.pdf</td><td class="dtype">Rider</td><td class="num">6</td><td class="num">757</td><td class="num">5</td><td class="num">5</td><td class="num">—</td><td class="region">Central Region</td><td class="topics">wages, health and welfare, pension, seniority, vacations +3</td></tr>
+<tr><td class="fname">13124UPSLOCAL243METRODETROITSUPPLEMENTALAGREEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">30</td><td class="num">6,439</td><td class="num">12</td><td class="num">27</td><td class="num">243</td><td class="region">Central Region</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +13</td></tr>
+<tr><td class="fname">13124UPSLOCAL344RIDER.pdf</td><td class="dtype">Rider</td><td class="num">37</td><td class="num">9,950</td><td class="num">0</td><td class="num">17</td><td class="num">344</td><td class="region">Central Region</td><td class="topics">wages, benefits, health and welfare, pension, seniority +12</td></tr>
+<tr><td class="fname">13124UPSLOCAL623SUPPLEMENTALAGREEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">68</td><td class="num">19,034</td><td class="num">29</td><td class="num">78</td><td class="num">623</td><td class="region">—</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +14</td></tr>
+<tr><td class="fname">13124UPSLOCAL688RIDER.pdf</td><td class="dtype">Rider</td><td class="num">37</td><td class="num">8,457</td><td class="num">6</td><td class="num">47</td><td class="num">—</td><td class="region">Central Region</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +12</td></tr>
+<tr><td class="fname">13124UPSLOCAL769LATINAMERICAINCRIDER.pdf</td><td class="dtype">Rider</td><td class="num">51</td><td class="num">14,186</td><td class="num">35</td><td class="num">2</td><td class="num">769</td><td class="region">Latin America</td><td class="topics">wages, benefits, health and welfare, pension, overtime +14</td></tr>
+<tr><td class="fname">13124UPSLOCAL89LOUISVILLEAIRRIDER.pdf</td><td class="dtype">Rider</td><td class="num">51</td><td class="num">13,259</td><td class="num">9</td><td class="num">14</td><td class="num">—</td><td class="region">Central Region</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +14</td></tr>
+<tr><td class="fname">13124UPSLOCAL959ALASKAFULLTIMEPARTTIMERIDERS.pdf</td><td class="dtype">Rider</td><td class="num">107</td><td class="num">24,575</td><td class="num">17</td><td class="num">2</td><td class="num">959</td><td class="region">Western Region</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +17</td></tr>
+<tr><td class="fname">13124UPSLOCAL996SUPPLEMENTALAGREEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">46</td><td class="num">11,885</td><td class="num">0</td><td class="num">46</td><td class="num">996</td><td class="region">Western Region</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +15</td></tr>
+<tr><td class="fname">13124UPSMETROPHILADELPHIASUPPLEMENTALAGREEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">57</td><td class="num">16,085</td><td class="num">27</td><td class="num">69</td><td class="num">—</td><td class="region">Metro Philadelphia</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +14</td></tr>
+<tr><td class="fname">13124UPSMICHIGANRIDER.pdf</td><td class="dtype">Rider</td><td class="num">9</td><td class="num">902</td><td class="num">5</td><td class="num">0</td><td class="num">—</td><td class="region">Central Region</td><td class="topics">wages, health and welfare, discipline, grievance arbitration, vacations +5</td></tr>
+<tr><td class="fname">13124UPSNEWENGLANDSUPPLEMENTALAGREEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">70</td><td class="num">20,392</td><td class="num">28</td><td class="num">79</td><td class="num">—</td><td class="region">New England</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +17</td></tr>
+<tr><td class="fname">13124UPSNORTHDAKOTAMINNESOTADISTRICTSLOCALS638346AND120SUPPLEMENTALAGREEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">18</td><td class="num">2,977</td><td class="num">1</td><td class="num">13</td><td class="num">—</td><td class="region">Central Region</td><td class="topics">wages, health and welfare, hours of work, seniority, holidays +8</td></tr>
+<tr><td class="fname">13124UPSOHIORIDER.pdf</td><td class="dtype">Rider</td><td class="num">11</td><td class="num">886</td><td class="num">0</td><td class="num">3</td><td class="num">407</td><td class="region">Central Region</td><td class="topics">wages, health and welfare, pension, discipline, vacations +3</td></tr>
+<tr><td class="fname">13124UPSSOUTHERNREGIONSUPPLEMENTALAGREEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">101</td><td class="num">29,585</td><td class="num">31</td><td class="num">53</td><td class="num">—</td><td class="region">Southern Region</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +16</td></tr>
+<tr><td class="fname">13124UPSSOUTHWESTAUTOMOTIVEANDUTILITYADDENDUM.pdf</td><td class="dtype">Addendum</td><td class="num">61</td><td class="num">14,805</td><td class="num">1</td><td class="num">44</td><td class="num">—</td><td class="region">—</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +12</td></tr>
+<tr><td class="fname">13124UPSSOUTHWESTPACKAGESORTRIDERS.pdf</td><td class="dtype">Rider</td><td class="num">149</td><td class="num">40,065</td><td class="num">0</td><td class="num">46</td><td class="num">—</td><td class="region">Western Region</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +17</td></tr>
+<tr><td class="fname">13124UPSTRAILERCONDITIONERSINCTCISUPPLEMENTALAGREEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">86</td><td class="num">24,645</td><td class="num">28</td><td class="num">37</td><td class="num">—</td><td class="region">Southern Region</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +15</td></tr>
+<tr><td class="fname">13124UPSUPSTATEWESTNEWYORKSUPPLEMENTALAGREEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">70</td><td class="num">20,000</td><td class="num">39</td><td class="num">84</td><td class="num">—</td><td class="region">—</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +15</td></tr>
+<tr><td class="fname">13124UPSWESTERNPENNSYLVANIASUPPLEMENTALAGREEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">71</td><td class="num">21,052</td><td class="num">29</td><td class="num">41</td><td class="num">—</td><td class="region">Western Pennsylvania</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +14</td></tr>
+<tr><td class="fname">13124UPSWESTERNREGIONSUPPLEMENTALAGREEMENT.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">53</td><td class="num">14,746</td><td class="num">31</td><td class="num">21</td><td class="num">—</td><td class="region">Western Region</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +15</td></tr>
+<tr><td class="fname">1924UPSNATIONALMASTERFINAL.pdf</td><td class="dtype">National Master Agreement</td><td class="num">217</td><td class="num">65,335</td><td class="num">45</td><td class="num">148</td><td class="num">—</td><td class="region">—</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +21</td></tr>
+<tr><td class="fname">83787-UPS-CENTRAL-PA-SUPPLEMENT-BOOK-FOR-WEB.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">65</td><td class="num">18,151</td><td class="num">24</td><td class="num">61</td><td class="num">—</td><td class="region">Central Pennsylvania</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +16</td></tr>
+<tr><td class="fname">83790-UPS-LOCAL-804-SUPPLEMENT-BOOK-FOR-WEB.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">97</td><td class="num">26,693</td><td class="num">43</td><td class="num">137</td><td class="num">804</td><td class="region">—</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +12</td></tr>
+<tr><td class="fname">83796-UPS-NORCAL-SUPPLEMENT-and-SORT-RIDER-BOOK-FOR-WEB-1.pdf</td><td class="dtype">Supplemental Agreement</td><td class="num">230</td><td class="num">66,027</td><td class="num">35</td><td class="num">166</td><td class="num">—</td><td class="region">Norcal</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +18</td></tr>
+<tr><td class="fname">Teamsters-Local-177-Drivers-Rider.pdf</td><td class="dtype">Rider</td><td class="num">80</td><td class="num">20,813</td><td class="num">38</td><td class="num">128</td><td class="num">177</td><td class="region">—</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +14</td></tr>
+<tr><td class="fname">Teamsters-Local-177-Mechanics-Rider.pdf</td><td class="dtype">Rider</td><td class="num">69</td><td class="num">15,962</td><td class="num">37</td><td class="num">1</td><td class="num">177</td><td class="region">—</td><td class="topics">wages, benefits, health and welfare, pension, hours of work +14</td></tr>
+<tr><td class="fname">UPS-LOCAL-100-RIDER.pdf</td><td class="dtype">Rider</td><td class="num">17</td><td class="num">3,567</td><td class="num">0</td><td class="num">10</td><td class="num">100</td><td class="region">Central Region</td><td class="topics">health and welfare, seniority, vacations, job classifications, part time employees +4</td></tr>
+<tr><td class="fname">UPS-LOCAL-696-RIDER.pdf</td><td class="dtype">Rider</td><td class="num">3</td><td class="num">339</td><td class="num">0</td><td class="num">0</td><td class="num">696</td><td class="region">Central Region</td><td class="topics">seniority, supplemental work, feeders</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<footer>UPS Labor Contracts Entity Corpus &nbsp;·&nbsp; Pure-stdlib SVG charts &nbsp;·&nbsp; No external dependencies</footer>
+</body>
+</html>

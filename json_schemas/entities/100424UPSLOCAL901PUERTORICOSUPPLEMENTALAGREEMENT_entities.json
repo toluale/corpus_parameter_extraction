@@ -1,0 +1,2044 @@
+{
+  "document_id": "1b6598616def0386",
+  "source_file": "100424UPSLOCAL901PUERTORICOSUPPLEMENTALAGREEMENT.pdf",
+  "document_type": "Supplemental Agreement",
+  "title": "COLLECTIVE BARGAINING",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": "901",
+    "geographic_region": "Puerto Rico"
+  },
+  "effective_date": "August 1, 2023",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 1826,
+  "page_count": 56,
+  "word_count": 23612,
+  "headers": [
+    {
+      "text": "COLLECTIVE BARGAINING",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Article 1: Parties of Agreement ................................................................................................................... 5",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 2: Collective Bargaining Agreement ............................................................................................... 5",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 3: Bargaining Unit ............................................................................................................................ 5",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 4: Recognition of the Union ............................................................................................................ 5",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 5: Transfer of Interest ...................................................................................................................... 6",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 6: Assignment of Work .................................................................................................................... 6",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 7: Maintenance of Conditions of Work ........................................................................................... 6",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 8: Union Shop .................................................................................................................................. 7",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 9: Dues ............................................................................................................................................. 8",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 10: Delegates ................................................................................................................................... 8",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 11: Non — Authorized Activity ........................................................................................................ 9",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 12: Protection of Rights ................................................................................................................ 10",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 13: Inspection Privileges ............................................................................................................... 10",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 14: No Strike — No Lockout .......................................................................................................... 11",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 15: Disciplinary Actions ................................................................................................................ 11",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 16: Complaints and Grievances .................................................................................................... 13",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 17: Non — Discrimination ............................................................................................................. 15",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 18: Examination and Identification Fees ...................................................................................... 15",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 19: Competition .............................................................................................................................. 17",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 20: Reporting of Accidents ........................................................................................................... 17",
+      "page": 2,
+      "level": 2
+    },
+    {
+      "text": "Article 21: Union Cooperation .................................................................................................................. 17",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 22: Management Rights Clause .................................................................................................... 17",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 23: General Dispositions ............................................................................................................... 17",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 24: Leave of Absence .................................................................................................................... 19",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 25: Uniform and Appearance ........................................................................................................ 20",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 26: Probationary Employees ......................................................................................................... 21",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 27: Seniority ................................................................................................................................... 23",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 28: Part-Time Employees .............................................................................................................. 31",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 29: Work Week ............................................................................................................................... 32",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 30: Overtime ................................................................................................................................... 36",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 31: Pay ............................................................................................................................................ 37",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 32: Income Replacement ............................................................................................................... 37",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 33: Wage Schedule ........................................................................................................................ 39",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 34: Sick Leave ................................................................................................................................ 42",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 35: Vacations ................................................................................................................................. 43",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 36: Benefits .................................................................................................................................... 46",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 37: Supervisors Working ............................................................................................................... 47",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 38: Appearances in Court ............................................................................................................. 48",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 39: Hours of work and overtime ................................................................................................... 48",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 40: Posting .................................................................................................................................... 48",
+      "page": 3,
+      "level": 2
+    },
+    {
+      "text": "Article 41: Duration ............................................................................................................................. 48",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: Transfer",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Notification",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Protection of Conditions",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 2: New Equipment or Operations",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Agreement with Employees",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 4: The employer shall not require, as a condition of continued employment, that an employee purchase truck,",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Union Member",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 2: New Employee",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Request for Payment",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Request of Discharge",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Relief of Responsibility",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Authorization and Deduction",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Remittance of Dues",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Prohibition of Deduction",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Appointment",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Functions of the Delegate",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Unauthorized Activity",
+      "page": 9,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Absences of Delegates",
+      "page": 9,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Delegate Seniority",
+      "page": 9,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Alternate Delegates",
+      "page": 9,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Delegate Disciplinary Action",
+      "page": 9,
+      "level": 3
+    },
+    {
+      "text": "Section 8: Country Manager and Union Delegate Meeting",
+      "page": 9,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Limitations of Delegates and Business Agents",
+      "page": 9,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Relief of Responsibility",
+      "page": 10,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Disciplinary Action",
+      "page": 10,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Stoppage Notification",
+      "page": 10,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Primary Picket Lines",
+      "page": 10,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Summary Actions",
+      "page": 11,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Other Causes",
+      "page": 12,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Notification",
+      "page": 13,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Intent of the Parties",
+      "page": 13,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Procedure",
+      "page": 13,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Employee Complaints / Grievances Procedures",
+      "page": 14,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Naming of Arbitrator",
+      "page": 14,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Authority of the Arbitrator",
+      "page": 14,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Cost of Arbitration",
+      "page": 15,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Intent of the Parties",
+      "page": 15,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Physical, mental, or other examinations required by a government body or the Employer shall be promptly",
+      "page": 15,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Identification",
+      "page": 16,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Pay for Parking, Tolls and Mileage",
+      "page": 16,
+      "level": 3
+    },
+    {
+      "text": "Section 1: A. When required by the Employer, the employee before the end of the employees shift, shall make out an",
+      "page": 17,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Time Period",
+      "page": 17,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Work in Other Classifications",
+      "page": 18,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Move to Another Center",
+      "page": 18,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Contract Printing",
+      "page": 18,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Requested Reports",
+      "page": 18,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Management/ Employee Relations",
+      "page": 18,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Employee Protection",
+      "page": 19,
+      "level": 3
+    },
+    {
+      "text": "Section 8: Tool Allowance",
+      "page": 19,
+      "level": 3
+    },
+    {
+      "text": "Section 9: Time Worked",
+      "page": 19,
+      "level": 3
+    },
+    {
+      "text": "Section 10: Sanitary Conditions",
+      "page": 19,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Regular Leave",
+      "page": 19,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Special Leave",
+      "page": 20,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Military Clause",
+      "page": 20,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Funeral Leave",
+      "page": 20,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Family and Medical Leave Act",
+      "page": 20,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Recruitment of Personnel",
+      "page": 21,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Probationary Period",
+      "page": 21,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Temporary Coverage Employees",
+      "page": 21,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Definition",
+      "page": 23,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Application",
+      "page": 24,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Loss of Right of Seniority",
+      "page": 25,
+      "level": 3
+    },
+    {
+      "text": "Section 4: List of Employees by Seniority",
+      "page": 25,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Notification",
+      "page": 25,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Reduction for Economic Reasons",
+      "page": 26,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Notification of Layoff",
+      "page": 26,
+      "level": 3
+    },
+    {
+      "text": "Section 8: The Right to Claim Positions",
+      "page": 26,
+      "level": 3
+    },
+    {
+      "text": "Section 9: Notification of Re-Employment",
+      "page": 27,
+      "level": 3
+    },
+    {
+      "text": "Section 10: Opening and Closing of a Center",
+      "page": 27,
+      "level": 3
+    },
+    {
+      "text": "Section 11: Job Openings and Qualifications by Classification",
+      "page": 28,
+      "level": 3
+    },
+    {
+      "text": "Section 12: Tractor Trailer Classification Qualification",
+      "page": 29,
+      "level": 3
+    },
+    {
+      "text": "Section 13: Feeder Driver Vacancies and Openings",
+      "page": 29,
+      "level": 3
+    },
+    {
+      "text": "Section 14: Classifications",
+      "page": 30,
+      "level": 3
+    },
+    {
+      "text": "Section 15: Extra Work",
+      "page": 31,
+      "level": 3
+    },
+    {
+      "text": "Section 1: A. Part-time employees are defined as employees who when reporting to work as scheduled, shall be guaranteed",
+      "page": 31,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Notification of Vacancies",
+      "page": 32,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Regular Working Week",
+      "page": 33,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Overtime",
+      "page": 35,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Fragmentation",
+      "page": 35,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Meal Period for Regular Full-Time Employees",
+      "page": 35,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Regular Working Week and Overtime",
+      "page": 35,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Parking",
+      "page": 36,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Paycheck",
+      "page": 36,
+      "level": 3
+    },
+    {
+      "text": "Section 8: Credit Union",
+      "page": 36,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Assignment of Overtime on Free Days and Holidays",
+      "page": 36,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Overtime in Excess of Eight (8) Hours a Day",
+      "page": 36,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Christmas Bonus",
+      "page": 37,
+      "level": 3
+    },
+    {
+      "text": "Section 1: A. The employer agrees to make available an income replacement plan on behalf of all participating full-time and",
+      "page": 37,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Guarantee for Injury",
+      "page": 38,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Position Protection",
+      "page": 38,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Work in Other Classification",
+      "page": 39,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Wage Schedule",
+      "page": 39,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Pension Plan",
+      "page": 40,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Health and Welfare Plan",
+      "page": 41,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Full Day Holiday",
+      "page": 41,
+      "level": 3
+    },
+    {
+      "text": "Section 6: Working During Holiday",
+      "page": 42,
+      "level": 3
+    },
+    {
+      "text": "Section 7: Right of Pay",
+      "page": 42,
+      "level": 3
+    },
+    {
+      "text": "Section 8: When Holidays Coincide",
+      "page": 42,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Monthly Accumulation",
+      "page": 42,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Accumulation of Liquidation",
+      "page": 43,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Compensation for Sick Leave",
+      "page": 43,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Medical Certificate",
+      "page": 43,
+      "level": 3
+    },
+    {
+      "text": "Section 1: A. Vacation schedules of the active and reporting employees will be by classification date by shift following",
+      "page": 43,
+      "level": 3
+    },
+    {
+      "text": "Section 2: Monthly Accumulation",
+      "page": 44,
+      "level": 3
+    },
+    {
+      "text": "Section 3: Enjoyment of Vacation",
+      "page": 45,
+      "level": 3
+    },
+    {
+      "text": "Section 4: Compensation for Vacation",
+      "page": 45,
+      "level": 3
+    },
+    {
+      "text": "Section 5: Vacation Schedule",
+      "page": 45,
+      "level": 3
+    },
+    {
+      "text": "Section 1: Life Insurance",
+      "page": 46,
+      "level": 3
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "5.1",
+      "parent_article": "5",
+      "title": "Transfer",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 57
+    },
+    {
+      "section_id": "5.2",
+      "parent_article": "5",
+      "title": "Notification",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 233
+    },
+    {
+      "section_id": "7.1",
+      "parent_article": "7",
+      "title": "Protection of Conditions",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 69
+    },
+    {
+      "section_id": "7.2",
+      "parent_article": "7",
+      "title": "New Equipment or Operations",
+      "page_start": 6,
+      "page_end": 7,
+      "word_count": 118
+    },
+    {
+      "section_id": "7.3",
+      "parent_article": "7",
+      "title": "Agreement with Employees",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 58
+    },
+    {
+      "section_id": "7.4",
+      "parent_article": "7",
+      "title": "The employer shall not require, as a condition of continued employment, that an employee purchase truck,",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 62
+    },
+    {
+      "section_id": "8.1",
+      "parent_article": "8",
+      "title": "Union Member",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 37
+    },
+    {
+      "section_id": "8.2",
+      "parent_article": "8",
+      "title": "New Employee",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 36
+    },
+    {
+      "section_id": "8.3",
+      "parent_article": "8",
+      "title": "Request for Payment",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 59
+    },
+    {
+      "section_id": "8.4",
+      "parent_article": "8",
+      "title": "Request of Discharge",
+      "page_start": 7,
+      "page_end": 8,
+      "word_count": 58
+    },
+    {
+      "section_id": "8.5",
+      "parent_article": "8",
+      "title": "Relief of Responsibility",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 18
+    },
+    {
+      "section_id": "9.1",
+      "parent_article": "9",
+      "title": "Authorization and Deduction",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 30
+    },
+    {
+      "section_id": "9.2",
+      "parent_article": "9",
+      "title": "Remittance of Dues",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 100
+    },
+    {
+      "section_id": "9.3",
+      "parent_article": "9",
+      "title": "Prohibition of Deduction",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 22
+    },
+    {
+      "section_id": "10.1",
+      "parent_article": "10",
+      "title": "Appointment",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 34
+    },
+    {
+      "section_id": "10.2",
+      "parent_article": "10",
+      "title": "Functions of the Delegate",
+      "page_start": 8,
+      "page_end": 9,
+      "word_count": 130
+    },
+    {
+      "section_id": "10.3",
+      "parent_article": "10",
+      "title": "Unauthorized Activity",
+      "page_start": 9,
+      "page_end": 9,
+      "word_count": 32
+    },
+    {
+      "section_id": "10.4",
+      "parent_article": "10",
+      "title": "Absences of Delegates",
+      "page_start": 9,
+      "page_end": 9,
+      "word_count": 63
+    },
+    {
+      "section_id": "10.5",
+      "parent_article": "10",
+      "title": "Delegate Seniority",
+      "page_start": 9,
+      "page_end": 9,
+      "word_count": 43
+    },
+    {
+      "section_id": "10.6",
+      "parent_article": "10",
+      "title": "Alternate Delegates",
+      "page_start": 9,
+      "page_end": 9,
+      "word_count": 68
+    },
+    {
+      "section_id": "10.7",
+      "parent_article": "10",
+      "title": "Delegate Disciplinary Action",
+      "page_start": 9,
+      "page_end": 9,
+      "word_count": 31
+    },
+    {
+      "section_id": "10.8",
+      "parent_article": "10",
+      "title": "Country Manager and Union Delegate Meeting",
+      "page_start": 9,
+      "page_end": 9,
+      "word_count": 48
+    },
+    {
+      "section_id": "11.1",
+      "parent_article": "11",
+      "title": "Limitations of Delegates and Business Agents",
+      "page_start": 9,
+      "page_end": 10,
+      "word_count": 64
+    },
+    {
+      "section_id": "11.2",
+      "parent_article": "11",
+      "title": "Relief of Responsibility",
+      "page_start": 10,
+      "page_end": 10,
+      "word_count": 82
+    },
+    {
+      "section_id": "11.3",
+      "parent_article": "11",
+      "title": "Disciplinary Action",
+      "page_start": 10,
+      "page_end": 10,
+      "word_count": 41
+    },
+    {
+      "section_id": "11.4",
+      "parent_article": "11",
+      "title": "Stoppage Notification",
+      "page_start": 10,
+      "page_end": 10,
+      "word_count": 74
+    },
+    {
+      "section_id": "12.1",
+      "parent_article": "12",
+      "title": "Primary Picket Lines",
+      "page_start": 10,
+      "page_end": 11,
+      "word_count": 385
+    },
+    {
+      "section_id": "15.1",
+      "parent_article": "15",
+      "title": "Summary Actions",
+      "page_start": 11,
+      "page_end": 12,
+      "word_count": 761
+    },
+    {
+      "section_id": "15.2",
+      "parent_article": "15",
+      "title": "Other Causes",
+      "page_start": 12,
+      "page_end": 13,
+      "word_count": 144
+    },
+    {
+      "section_id": "15.3",
+      "parent_article": "15",
+      "title": "Notification",
+      "page_start": 13,
+      "page_end": 13,
+      "word_count": 258
+    },
+    {
+      "section_id": "15.4",
+      "parent_article": "15",
+      "title": "Intent of the Parties",
+      "page_start": 13,
+      "page_end": 13,
+      "word_count": 37
+    },
+    {
+      "section_id": "16.1",
+      "parent_article": "16",
+      "title": "Procedure",
+      "page_start": 13,
+      "page_end": 14,
+      "word_count": 115
+    },
+    {
+      "section_id": "16.2",
+      "parent_article": "16",
+      "title": "Employee Complaints / Grievances Procedures",
+      "page_start": 14,
+      "page_end": 14,
+      "word_count": 402
+    },
+    {
+      "section_id": "16.3",
+      "parent_article": "16",
+      "title": "Naming of Arbitrator",
+      "page_start": 14,
+      "page_end": 14,
+      "word_count": 38
+    },
+    {
+      "section_id": "16.4",
+      "parent_article": "16",
+      "title": "Authority of the Arbitrator",
+      "page_start": 14,
+      "page_end": 15,
+      "word_count": 125
+    },
+    {
+      "section_id": "16.5",
+      "parent_article": "16",
+      "title": "Cost of Arbitration",
+      "page_start": 15,
+      "page_end": 15,
+      "word_count": 153
+    },
+    {
+      "section_id": "16.6",
+      "parent_article": "16",
+      "title": "Intent of the Parties",
+      "page_start": 15,
+      "page_end": 15,
+      "word_count": 137
+    },
+    {
+      "section_id": "18.1",
+      "parent_article": "18",
+      "title": "Physical, mental, or other examinations required by a government body or the Employer shall be promptly",
+      "page_start": 15,
+      "page_end": 16,
+      "word_count": 509
+    },
+    {
+      "section_id": "18.2",
+      "parent_article": "18",
+      "title": "Identification",
+      "page_start": 16,
+      "page_end": 16,
+      "word_count": 188
+    },
+    {
+      "section_id": "18.3",
+      "parent_article": "18",
+      "title": "Pay for Parking, Tolls and Mileage",
+      "page_start": 16,
+      "page_end": 17,
+      "word_count": 172
+    },
+    {
+      "section_id": "20.1",
+      "parent_article": "20",
+      "title": "A. When required by the Employer, the employee before the end of the employees shift, shall make out an",
+      "page_start": 17,
+      "page_end": 17,
+      "word_count": 164
+    },
+    {
+      "section_id": "23.1",
+      "parent_article": "23",
+      "title": "Time Period",
+      "page_start": 17,
+      "page_end": 18,
+      "word_count": 103
+    },
+    {
+      "section_id": "23.2",
+      "parent_article": "23",
+      "title": "Work in Other Classifications",
+      "page_start": 18,
+      "page_end": 18,
+      "word_count": 56
+    },
+    {
+      "section_id": "23.3",
+      "parent_article": "23",
+      "title": "Move to Another Center",
+      "page_start": 18,
+      "page_end": 18,
+      "word_count": 97
+    },
+    {
+      "section_id": "23.4",
+      "parent_article": "23",
+      "title": "Contract Printing",
+      "page_start": 18,
+      "page_end": 18,
+      "word_count": 206
+    },
+    {
+      "section_id": "23.5",
+      "parent_article": "23",
+      "title": "Requested Reports",
+      "page_start": 18,
+      "page_end": 18,
+      "word_count": 56
+    },
+    {
+      "section_id": "23.6",
+      "parent_article": "23",
+      "title": "Management/ Employee Relations",
+      "page_start": 18,
+      "page_end": 19,
+      "word_count": 12
+    },
+    {
+      "section_id": "23.7",
+      "parent_article": "23",
+      "title": "Employee Protection",
+      "page_start": 19,
+      "page_end": 19,
+      "word_count": 33
+    },
+    {
+      "section_id": "23.8",
+      "parent_article": "23",
+      "title": "Tool Allowance",
+      "page_start": 19,
+      "page_end": 19,
+      "word_count": 262
+    },
+    {
+      "section_id": "23.9",
+      "parent_article": "23",
+      "title": "Time Worked",
+      "page_start": 19,
+      "page_end": 19,
+      "word_count": 45
+    },
+    {
+      "section_id": "23.10",
+      "parent_article": "23",
+      "title": "Sanitary Conditions",
+      "page_start": 19,
+      "page_end": 19,
+      "word_count": 11
+    },
+    {
+      "section_id": "24.1",
+      "parent_article": "24",
+      "title": "Regular Leave",
+      "page_start": 19,
+      "page_end": 20,
+      "word_count": 132
+    },
+    {
+      "section_id": "24.2",
+      "parent_article": "24",
+      "title": "Special Leave",
+      "page_start": 20,
+      "page_end": 20,
+      "word_count": 212
+    },
+    {
+      "section_id": "24.3",
+      "parent_article": "24",
+      "title": "Military Clause",
+      "page_start": 20,
+      "page_end": 20,
+      "word_count": 6
+    },
+    {
+      "section_id": "24.4",
+      "parent_article": "24",
+      "title": "Funeral Leave",
+      "page_start": 20,
+      "page_end": 20,
+      "word_count": 6
+    },
+    {
+      "section_id": "24.5",
+      "parent_article": "24",
+      "title": "Family and Medical Leave Act",
+      "page_start": 20,
+      "page_end": 21,
+      "word_count": 232
+    },
+    {
+      "section_id": "26.1",
+      "parent_article": "26",
+      "title": "Recruitment of Personnel",
+      "page_start": 21,
+      "page_end": 21,
+      "word_count": 104
+    },
+    {
+      "section_id": "26.2",
+      "parent_article": "26",
+      "title": "Probationary Period",
+      "page_start": 21,
+      "page_end": 21,
+      "word_count": 244
+    },
+    {
+      "section_id": "26.3",
+      "parent_article": "26",
+      "title": "Temporary Coverage Employees",
+      "page_start": 21,
+      "page_end": 23,
+      "word_count": 1180
+    },
+    {
+      "section_id": "27.1",
+      "parent_article": "27",
+      "title": "Definition",
+      "page_start": 23,
+      "page_end": 24,
+      "word_count": 27
+    },
+    {
+      "section_id": "27.2",
+      "parent_article": "27",
+      "title": "Application",
+      "page_start": 24,
+      "page_end": 25,
+      "word_count": 357
+    },
+    {
+      "section_id": "27.3",
+      "parent_article": "27",
+      "title": "Loss of Right of Seniority",
+      "page_start": 25,
+      "page_end": 25,
+      "word_count": 144
+    },
+    {
+      "section_id": "27.4",
+      "parent_article": "27",
+      "title": "List of Employees by Seniority",
+      "page_start": 25,
+      "page_end": 25,
+      "word_count": 83
+    },
+    {
+      "section_id": "27.5",
+      "parent_article": "27",
+      "title": "Notification",
+      "page_start": 25,
+      "page_end": 26,
+      "word_count": 56
+    },
+    {
+      "section_id": "27.6",
+      "parent_article": "27",
+      "title": "Reduction for Economic Reasons",
+      "page_start": 26,
+      "page_end": 26,
+      "word_count": 123
+    },
+    {
+      "section_id": "27.7",
+      "parent_article": "27",
+      "title": "Notification of Layoff",
+      "page_start": 26,
+      "page_end": 26,
+      "word_count": 134
+    },
+    {
+      "section_id": "27.8",
+      "parent_article": "27",
+      "title": "The Right to Claim Positions",
+      "page_start": 26,
+      "page_end": 27,
+      "word_count": 472
+    },
+    {
+      "section_id": "27.9",
+      "parent_article": "27",
+      "title": "Notification of Re-Employment",
+      "page_start": 27,
+      "page_end": 27,
+      "word_count": 247
+    },
+    {
+      "section_id": "27.10",
+      "parent_article": "27",
+      "title": "Opening and Closing of a Center",
+      "page_start": 27,
+      "page_end": 28,
+      "word_count": 171
+    },
+    {
+      "section_id": "27.11",
+      "parent_article": "27",
+      "title": "Job Openings and Qualifications by Classification",
+      "page_start": 28,
+      "page_end": 29,
+      "word_count": 528
+    },
+    {
+      "section_id": "27.12",
+      "parent_article": "27",
+      "title": "Tractor Trailer Classification Qualification",
+      "page_start": 29,
+      "page_end": 29,
+      "word_count": 347
+    },
+    {
+      "section_id": "27.13",
+      "parent_article": "27",
+      "title": "Feeder Driver Vacancies and Openings",
+      "page_start": 29,
+      "page_end": 30,
+      "word_count": 470
+    },
+    {
+      "section_id": "27.14",
+      "parent_article": "27",
+      "title": "Classifications",
+      "page_start": 30,
+      "page_end": 31,
+      "word_count": 109
+    },
+    {
+      "section_id": "27.15",
+      "parent_article": "27",
+      "title": "Extra Work",
+      "page_start": 31,
+      "page_end": 31,
+      "word_count": 23
+    },
+    {
+      "section_id": "28.1",
+      "parent_article": "28",
+      "title": "A. Part-time employees are defined as employees who when reporting to work as scheduled, shall be guaranteed",
+      "page_start": 31,
+      "page_end": 32,
+      "word_count": 277
+    },
+    {
+      "section_id": "28.2",
+      "parent_article": "28",
+      "title": "Notification of Vacancies",
+      "page_start": 32,
+      "page_end": 33,
+      "word_count": 285
+    },
+    {
+      "section_id": "29.1",
+      "parent_article": "29",
+      "title": "Regular Working Week",
+      "page_start": 33,
+      "page_end": 35,
+      "word_count": 733
+    },
+    {
+      "section_id": "29.2",
+      "parent_article": "29",
+      "title": "Overtime",
+      "page_start": 35,
+      "page_end": 35,
+      "word_count": 159
+    },
+    {
+      "section_id": "29.3",
+      "parent_article": "29",
+      "title": "Fragmentation",
+      "page_start": 35,
+      "page_end": 35,
+      "word_count": 26
+    },
+    {
+      "section_id": "29.4",
+      "parent_article": "29",
+      "title": "Meal Period for Regular Full-Time Employees",
+      "page_start": 35,
+      "page_end": 35,
+      "word_count": 229
+    },
+    {
+      "section_id": "29.5",
+      "parent_article": "29",
+      "title": "Regular Working Week and Overtime",
+      "page_start": 35,
+      "page_end": 36,
+      "word_count": 253
+    },
+    {
+      "section_id": "29.6",
+      "parent_article": "29",
+      "title": "Parking",
+      "page_start": 36,
+      "page_end": 36,
+      "word_count": 14
+    },
+    {
+      "section_id": "29.7",
+      "parent_article": "29",
+      "title": "Paycheck",
+      "page_start": 36,
+      "page_end": 36,
+      "word_count": 6
+    },
+    {
+      "section_id": "29.8",
+      "parent_article": "29",
+      "title": "Credit Union",
+      "page_start": 36,
+      "page_end": 36,
+      "word_count": 92
+    },
+    {
+      "section_id": "30.1",
+      "parent_article": "30",
+      "title": "Assignment of Overtime on Free Days and Holidays",
+      "page_start": 36,
+      "page_end": 36,
+      "word_count": 32
+    },
+    {
+      "section_id": "30.2",
+      "parent_article": "30",
+      "title": "Overtime in Excess of Eight (8) Hours a Day",
+      "page_start": 36,
+      "page_end": 37,
+      "word_count": 85
+    },
+    {
+      "section_id": "31.1",
+      "parent_article": "31",
+      "title": "Christmas Bonus",
+      "page_start": 37,
+      "page_end": 37,
+      "word_count": 143
+    },
+    {
+      "section_id": "32.1",
+      "parent_article": "32",
+      "title": "A. The employer agrees to make available an income replacement plan on behalf of all participating full-time and",
+      "page_start": 37,
+      "page_end": 38,
+      "word_count": 388
+    },
+    {
+      "section_id": "32.2",
+      "parent_article": "32",
+      "title": "Guarantee for Injury",
+      "page_start": 38,
+      "page_end": 38,
+      "word_count": 82
+    },
+    {
+      "section_id": "32.3",
+      "parent_article": "32",
+      "title": "Position Protection",
+      "page_start": 38,
+      "page_end": 39,
+      "word_count": 189
+    },
+    {
+      "section_id": "33.1",
+      "parent_article": "33",
+      "title": "Work in Other Classification",
+      "page_start": 39,
+      "page_end": 39,
+      "word_count": 172
+    },
+    {
+      "section_id": "33.2",
+      "parent_article": "33",
+      "title": "Wage Schedule",
+      "page_start": 39,
+      "page_end": 40,
+      "word_count": 248
+    },
+    {
+      "section_id": "33.3",
+      "parent_article": "33",
+      "title": "Pension Plan",
+      "page_start": 40,
+      "page_end": 41,
+      "word_count": 260
+    },
+    {
+      "section_id": "33.4",
+      "parent_article": "33",
+      "title": "Health and Welfare Plan",
+      "page_start": 41,
+      "page_end": 41,
+      "word_count": 407
+    },
+    {
+      "section_id": "33.5",
+      "parent_article": "33",
+      "title": "Full Day Holiday",
+      "page_start": 41,
+      "page_end": 42,
+      "word_count": 207
+    },
+    {
+      "section_id": "33.6",
+      "parent_article": "33",
+      "title": "Working During Holiday",
+      "page_start": 42,
+      "page_end": 42,
+      "word_count": 28
+    },
+    {
+      "section_id": "33.7",
+      "parent_article": "33",
+      "title": "Right of Pay",
+      "page_start": 42,
+      "page_end": 42,
+      "word_count": 99
+    },
+    {
+      "section_id": "33.8",
+      "parent_article": "33",
+      "title": "When Holidays Coincide",
+      "page_start": 42,
+      "page_end": 42,
+      "word_count": 12
+    },
+    {
+      "section_id": "34.1",
+      "parent_article": "34",
+      "title": "Monthly Accumulation",
+      "page_start": 42,
+      "page_end": 43,
+      "word_count": 144
+    },
+    {
+      "section_id": "34.2",
+      "parent_article": "34",
+      "title": "Accumulation of Liquidation",
+      "page_start": 43,
+      "page_end": 43,
+      "word_count": 75
+    },
+    {
+      "section_id": "34.3",
+      "parent_article": "34",
+      "title": "Compensation for Sick Leave",
+      "page_start": 43,
+      "page_end": 43,
+      "word_count": 42
+    },
+    {
+      "section_id": "34.4",
+      "parent_article": "34",
+      "title": "Medical Certificate",
+      "page_start": 43,
+      "page_end": 43,
+      "word_count": 134
+    },
+    {
+      "section_id": "35.1",
+      "parent_article": "35",
+      "title": "A. Vacation schedules of the active and reporting employees will be by classification date by shift following",
+      "page_start": 43,
+      "page_end": 44,
+      "word_count": 492
+    },
+    {
+      "section_id": "35.2",
+      "parent_article": "35",
+      "title": "Monthly Accumulation",
+      "page_start": 44,
+      "page_end": 45,
+      "word_count": 215
+    },
+    {
+      "section_id": "35.3",
+      "parent_article": "35",
+      "title": "Enjoyment of Vacation",
+      "page_start": 45,
+      "page_end": 45,
+      "word_count": 19
+    },
+    {
+      "section_id": "35.4",
+      "parent_article": "35",
+      "title": "Compensation for Vacation",
+      "page_start": 45,
+      "page_end": 45,
+      "word_count": 199
+    },
+    {
+      "section_id": "35.5",
+      "parent_article": "35",
+      "title": "Vacation Schedule",
+      "page_start": 45,
+      "page_end": 46,
+      "word_count": 220
+    },
+    {
+      "section_id": "36.1",
+      "parent_article": "36",
+      "title": "Life Insurance",
+      "page_start": 46,
+      "page_end": null,
+      "word_count": 4640
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "1",
+      "title": "Parties of Agreement ................................................................................................................... 5",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "2",
+      "title": "Collective Bargaining Agreement ............................................................................................... 5",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "3",
+      "title": "Bargaining Unit ............................................................................................................................ 5",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "4",
+      "title": "Recognition of the Union ............................................................................................................ 5",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "5",
+      "title": "Transfer of Interest ...................................................................................................................... 6",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "6",
+      "title": "Assignment of Work .................................................................................................................... 6",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "7",
+      "title": "Maintenance of Conditions of Work ........................................................................................... 6",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "8",
+      "title": "Union Shop .................................................................................................................................. 7",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "9",
+      "title": "Dues ............................................................................................................................................. 8",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "10",
+      "title": "Delegates ................................................................................................................................... 8",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "11",
+      "title": "Non — Authorized Activity ........................................................................................................ 9",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "12",
+      "title": "Protection of Rights ................................................................................................................ 10",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "13",
+      "title": "Inspection Privileges ............................................................................................................... 10",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "14",
+      "title": "No Strike — No Lockout .......................................................................................................... 11",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "15",
+      "title": "Disciplinary Actions ................................................................................................................ 11",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "16",
+      "title": "Complaints and Grievances .................................................................................................... 13",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "17",
+      "title": "Non — Discrimination ............................................................................................................. 15",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "18",
+      "title": "Examination and Identification Fees ...................................................................................... 15",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "19",
+      "title": "Competition .............................................................................................................................. 17",
+      "page_start": 2,
+      "page_end": 2,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "20",
+      "title": "Reporting of Accidents ........................................................................................................... 17",
+      "page_start": 2,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 5
+    },
+    {
+      "article_number": "21",
+      "title": "Union Cooperation .................................................................................................................. 17",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "22",
+      "title": "Management Rights Clause .................................................................................................... 17",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "23",
+      "title": "General Dispositions ............................................................................................................... 17",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "24",
+      "title": "Leave of Absence .................................................................................................................... 19",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "25",
+      "title": "Uniform and Appearance ........................................................................................................ 20",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "26",
+      "title": "Probationary Employees ......................................................................................................... 21",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "27",
+      "title": "Seniority ................................................................................................................................... 23",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "28",
+      "title": "Part-Time Employees .............................................................................................................. 31",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "29",
+      "title": "Work Week ............................................................................................................................... 32",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "30",
+      "title": "Overtime ................................................................................................................................... 36",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "31",
+      "title": "Pay ............................................................................................................................................ 37",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "32",
+      "title": "Income Replacement ............................................................................................................... 37",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "33",
+      "title": "Wage Schedule ........................................................................................................................ 39",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "34",
+      "title": "Sick Leave ................................................................................................................................ 42",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "35",
+      "title": "Vacations ................................................................................................................................. 43",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "36",
+      "title": "Benefits .................................................................................................................................... 46",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "37",
+      "title": "Supervisors Working ............................................................................................................... 47",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "38",
+      "title": "Appearances in Court ............................................................................................................. 48",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "39",
+      "title": "Hours of work and overtime ................................................................................................... 48",
+      "page_start": 3,
+      "page_end": 3,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "40",
+      "title": "Posting .................................................................................................................................... 48",
+      "page_start": 3,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 5
+    },
+    {
+      "article_number": "41",
+      "title": "Duration ............................................................................................................................. 48",
+      "page_start": 4,
+      "page_end": null,
+      "section_count": 0,
+      "word_count": 22398
+    }
+  ],
+  "key_topics": [
+    "wages",
+    "benefits",
+    "health_and_welfare",
+    "pension",
+    "hours_of_work",
+    "overtime",
+    "seniority",
+    "discipline",
+    "grievance_arbitration",
+    "management_rights",
+    "leaves_of_absence",
+    "holidays",
+    "vacations",
+    "job_classifications",
+    "supplemental_work",
+    "subcontracting",
+    "part_time_employees",
+    "full_time_employees",
+    "feeders",
+    "package_delivery",
+    "air_operations",
+    "mechanics"
+  ],
+  "wage_parameters": [],
+  "time_parameters": [
+    {
+      "type": "waiting_period",
+      "value": 90,
+      "unit": "days",
+      "description": "or within 90 days from when",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 0,
+      "unit": "days",
+      "description": "5.00 $300.00\nDays 181 + Ben",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 44,
+      "unit": "days",
+      "description": "stitution\n44\nDay which wil",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "grievance_step_limit",
+      "value": 90,
+      "unit": "days",
+      "description": "the error within 90 days from when",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "benefit_parameters": [],
+  "cross_references": [
+    {
+      "from_article": null,
+      "from_section": null,
+      "to_article": "1",
+      "to_section": null
+    }
+  ],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:16.221897+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  }
+}

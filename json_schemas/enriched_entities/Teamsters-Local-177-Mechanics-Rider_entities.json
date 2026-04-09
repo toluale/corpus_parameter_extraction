@@ -1,0 +1,842 @@
+{
+  "document_id": "3b514b45f8a91bc1",
+  "source_file": "Teamsters-Local-177-Mechanics-Rider.pdf",
+  "document_type": "Rider",
+  "title": "MECHANICS CONTRACT",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": "177",
+    "geographic_region": null
+  },
+  "effective_date": "August 1, 2023",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 1826,
+  "page_count": 69,
+  "word_count": 15962,
+  "headers": [
+    {
+      "text": "MECHANICS CONTRACT",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Article 1: Article 1",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 2: Article 2",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 3: Article 3",
+      "page": 7,
+      "level": 2
+    },
+    {
+      "text": "Article 11: 6. Upon entering the Journeymen",
+      "page": 13,
+      "level": 2
+    },
+    {
+      "text": "Article 4: Article 4",
+      "page": 18,
+      "level": 2
+    },
+    {
+      "text": "Article 5: Article 5",
+      "page": 20,
+      "level": 2
+    },
+    {
+      "text": "Article 6: Article 6",
+      "page": 21,
+      "level": 2
+    },
+    {
+      "text": "Article 7: Article 7",
+      "page": 22,
+      "level": 2
+    },
+    {
+      "text": "Article 8: Article 8",
+      "page": 24,
+      "level": 2
+    },
+    {
+      "text": "Article 9: Article 9",
+      "page": 25,
+      "level": 2
+    },
+    {
+      "text": "Article 10: Article 10",
+      "page": 27,
+      "level": 2
+    },
+    {
+      "text": "Article 12: Article 12",
+      "page": 38,
+      "level": 2
+    },
+    {
+      "text": "Article 13: Article 13",
+      "page": 40,
+      "level": 2
+    },
+    {
+      "text": "Article 14: Article 14",
+      "page": 41,
+      "level": 2
+    },
+    {
+      "text": "Article 15: Article 15",
+      "page": 46,
+      "level": 2
+    },
+    {
+      "text": "Article 16: Article 16",
+      "page": 46,
+      "level": 2
+    },
+    {
+      "text": "Article 17: Article 17",
+      "page": 47,
+      "level": 2
+    },
+    {
+      "text": "Article 18: Article 18",
+      "page": 47,
+      "level": 2
+    },
+    {
+      "text": "Article 19: Article 19",
+      "page": 48,
+      "level": 2
+    },
+    {
+      "text": "Article 20: Article 20",
+      "page": 48,
+      "level": 2
+    },
+    {
+      "text": "Article 21: Article 21",
+      "page": 49,
+      "level": 2
+    },
+    {
+      "text": "Article 22: Article 22",
+      "page": 50,
+      "level": 2
+    },
+    {
+      "text": "Article 23: Article 23",
+      "page": 52,
+      "level": 2
+    },
+    {
+      "text": "Article 24: Article 24",
+      "page": 52,
+      "level": 2
+    },
+    {
+      "text": "Article 25: Article 25",
+      "page": 53,
+      "level": 2
+    },
+    {
+      "text": "Article 26: Article 26",
+      "page": 54,
+      "level": 2
+    },
+    {
+      "text": "Article 27: Article 27",
+      "page": 55,
+      "level": 2
+    },
+    {
+      "text": "Section 4: (a) of this Agreement.",
+      "page": 55,
+      "level": 3
+    },
+    {
+      "text": "Article 28: Article 28",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 29: Article 29",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 30: Article 30",
+      "page": 56,
+      "level": 2
+    },
+    {
+      "text": "Article 31: Article 31",
+      "page": 57,
+      "level": 2
+    },
+    {
+      "text": "Article 32: Article 32",
+      "page": 58,
+      "level": 2
+    },
+    {
+      "text": "Article 33: Article 33",
+      "page": 59,
+      "level": 2
+    },
+    {
+      "text": "Article 34: Article 34",
+      "page": 59,
+      "level": 2
+    },
+    {
+      "text": "Article 35: Article 35",
+      "page": 60,
+      "level": 2
+    },
+    {
+      "text": "Article 36: Article 36",
+      "page": 61,
+      "level": 2
+    },
+    {
+      "text": "Article 37: Article 37",
+      "page": 62,
+      "level": 2
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "27.4",
+      "parent_article": "27",
+      "title": "(a) of this Agreement.",
+      "page_start": 55,
+      "page_end": null,
+      "word_count": 2477
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "1",
+      "title": "Article 1",
+      "page_start": 4,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 189
+    },
+    {
+      "article_number": "2",
+      "title": "Article 2",
+      "page_start": 5,
+      "page_end": 7,
+      "section_count": 0,
+      "word_count": 625
+    },
+    {
+      "article_number": "3",
+      "title": "Article 3",
+      "page_start": 7,
+      "page_end": 13,
+      "section_count": 0,
+      "word_count": 1411
+    },
+    {
+      "article_number": "11",
+      "title": "6. Upon entering the Journeymen",
+      "page_start": 13,
+      "page_end": 18,
+      "section_count": 0,
+      "word_count": 1204
+    },
+    {
+      "article_number": "4",
+      "title": "Article 4",
+      "page_start": 18,
+      "page_end": 20,
+      "section_count": 0,
+      "word_count": 896
+    },
+    {
+      "article_number": "5",
+      "title": "Article 5",
+      "page_start": 20,
+      "page_end": 21,
+      "section_count": 0,
+      "word_count": 191
+    },
+    {
+      "article_number": "6",
+      "title": "Article 6",
+      "page_start": 21,
+      "page_end": 22,
+      "section_count": 0,
+      "word_count": 38
+    },
+    {
+      "article_number": "7",
+      "title": "Article 7",
+      "page_start": 22,
+      "page_end": 24,
+      "section_count": 0,
+      "word_count": 585
+    },
+    {
+      "article_number": "8",
+      "title": "Article 8",
+      "page_start": 24,
+      "page_end": 25,
+      "section_count": 0,
+      "word_count": 209
+    },
+    {
+      "article_number": "9",
+      "title": "Article 9",
+      "page_start": 25,
+      "page_end": 27,
+      "section_count": 0,
+      "word_count": 578
+    },
+    {
+      "article_number": "10",
+      "title": "Article 10",
+      "page_start": 27,
+      "page_end": 38,
+      "section_count": 0,
+      "word_count": 2525
+    },
+    {
+      "article_number": "12",
+      "title": "Article 12",
+      "page_start": 38,
+      "page_end": 40,
+      "section_count": 0,
+      "word_count": 614
+    },
+    {
+      "article_number": "13",
+      "title": "Article 13",
+      "page_start": 40,
+      "page_end": 41,
+      "section_count": 0,
+      "word_count": 165
+    },
+    {
+      "article_number": "14",
+      "title": "Article 14",
+      "page_start": 41,
+      "page_end": 46,
+      "section_count": 0,
+      "word_count": 1064
+    },
+    {
+      "article_number": "15",
+      "title": "Article 15",
+      "page_start": 46,
+      "page_end": 46,
+      "section_count": 0,
+      "word_count": 103
+    },
+    {
+      "article_number": "16",
+      "title": "Article 16",
+      "page_start": 46,
+      "page_end": 47,
+      "section_count": 0,
+      "word_count": 198
+    },
+    {
+      "article_number": "17",
+      "title": "Article 17",
+      "page_start": 47,
+      "page_end": 47,
+      "section_count": 0,
+      "word_count": 99
+    },
+    {
+      "article_number": "18",
+      "title": "Article 18",
+      "page_start": 47,
+      "page_end": 48,
+      "section_count": 0,
+      "word_count": 60
+    },
+    {
+      "article_number": "19",
+      "title": "Article 19",
+      "page_start": 48,
+      "page_end": 48,
+      "section_count": 0,
+      "word_count": 106
+    },
+    {
+      "article_number": "20",
+      "title": "Article 20",
+      "page_start": 48,
+      "page_end": 49,
+      "section_count": 0,
+      "word_count": 107
+    },
+    {
+      "article_number": "21",
+      "title": "Article 21",
+      "page_start": 49,
+      "page_end": 50,
+      "section_count": 0,
+      "word_count": 211
+    },
+    {
+      "article_number": "22",
+      "title": "Article 22",
+      "page_start": 50,
+      "page_end": 52,
+      "section_count": 0,
+      "word_count": 468
+    },
+    {
+      "article_number": "23",
+      "title": "Article 23",
+      "page_start": 52,
+      "page_end": 52,
+      "section_count": 0,
+      "word_count": 34
+    },
+    {
+      "article_number": "24",
+      "title": "Article 24",
+      "page_start": 52,
+      "page_end": 53,
+      "section_count": 0,
+      "word_count": 241
+    },
+    {
+      "article_number": "25",
+      "title": "Article 25",
+      "page_start": 53,
+      "page_end": 54,
+      "section_count": 0,
+      "word_count": 188
+    },
+    {
+      "article_number": "26",
+      "title": "Article 26",
+      "page_start": 54,
+      "page_end": 55,
+      "section_count": 0,
+      "word_count": 409
+    },
+    {
+      "article_number": "27",
+      "title": "Article 27",
+      "page_start": 55,
+      "page_end": 56,
+      "section_count": 1,
+      "word_count": 210
+    },
+    {
+      "article_number": "28",
+      "title": "Article 28",
+      "page_start": 56,
+      "page_end": 56,
+      "section_count": 0,
+      "word_count": 23
+    },
+    {
+      "article_number": "29",
+      "title": "Article 29",
+      "page_start": 56,
+      "page_end": 56,
+      "section_count": 0,
+      "word_count": 61
+    },
+    {
+      "article_number": "30",
+      "title": "Article 30",
+      "page_start": 56,
+      "page_end": 57,
+      "section_count": 0,
+      "word_count": 297
+    },
+    {
+      "article_number": "31",
+      "title": "Article 31",
+      "page_start": 57,
+      "page_end": 58,
+      "section_count": 0,
+      "word_count": 24
+    },
+    {
+      "article_number": "32",
+      "title": "Article 32",
+      "page_start": 58,
+      "page_end": 59,
+      "section_count": 0,
+      "word_count": 289
+    },
+    {
+      "article_number": "33",
+      "title": "Article 33",
+      "page_start": 59,
+      "page_end": 59,
+      "section_count": 0,
+      "word_count": 23
+    },
+    {
+      "article_number": "34",
+      "title": "Article 34",
+      "page_start": 59,
+      "page_end": 60,
+      "section_count": 0,
+      "word_count": 19
+    },
+    {
+      "article_number": "35",
+      "title": "Article 35",
+      "page_start": 60,
+      "page_end": 61,
+      "section_count": 0,
+      "word_count": 398
+    },
+    {
+      "article_number": "36",
+      "title": "Article 36",
+      "page_start": 61,
+      "page_end": 62,
+      "section_count": 0,
+      "word_count": 146
+    },
+    {
+      "article_number": "37",
+      "title": "Article 37",
+      "page_start": 62,
+      "page_end": null,
+      "section_count": 0,
+      "word_count": 1194
+    }
+  ],
+  "key_topics": [
+    "wages",
+    "benefits",
+    "health_and_welfare",
+    "pension",
+    "hours_of_work",
+    "overtime",
+    "seniority",
+    "discipline",
+    "grievance_arbitration",
+    "leaves_of_absence",
+    "holidays",
+    "vacations",
+    "job_classifications",
+    "supplemental_work",
+    "subcontracting",
+    "part_time_employees",
+    "full_time_employees",
+    "feeders",
+    "mechanics"
+  ],
+  "wage_parameters": [
+    {
+      "type": "hourly",
+      "value": 45.33,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.18,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.93,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 47.93,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 50.18,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 36.49,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 37.24,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 37.99,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 38.99,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 41.24,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 26.76,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 27.51,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 28.26,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 29.26,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 31.51,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "time_parameters": [
+    {
+      "type": "waiting_period",
+      "value": 6,
+      "unit": "weeks",
+      "description": ",\n4, 5 or 6 weeks of vacati",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 3,
+      "unit": "months",
+      "description": "Less than 3 months  4 months",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 4,
+      "unit": "months",
+      "description": "3 months  4 months\n3 months",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 6,
+      "unit": "months",
+      "description": "s than 4  6 months\n4 months",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 8,
+      "unit": "months",
+      "description": "s than 5  8 months\n5 months",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 5,
+      "unit": "months",
+      "description": "8 months\n5 months and over,",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 10,
+      "unit": "months",
+      "description": "s than 6  10 months\n6 months",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 12,
+      "unit": "months",
+      "description": "than 24  12 months\n24 months",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 24,
+      "unit": "months",
+      "description": "12 months\n24 months and over",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "benefit_parameters": [],
+  "cross_references": [
+    {
+      "from_article": null,
+      "from_section": null,
+      "to_article": "11",
+      "to_section": null
+    },
+    {
+      "from_article": null,
+      "from_section": null,
+      "to_article": "14",
+      "to_section": null
+    },
+    {
+      "from_article": null,
+      "from_section": null,
+      "to_article": "4",
+      "to_section": null
+    }
+  ],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:33.444751+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  },
+  "enrichment_metadata": {
+    "enriched_at": "2026-04-08T23:31:24Z",
+    "enricher": "enrich_entities.py",
+    "sigma_used": 3,
+    "quality_filter": {
+      "extraction_method": "pypdf-tier0",
+      "min_words_per_page": 30,
+      "min_articles_plus_sections": 1
+    }
+  },
+  "wage_value_stats": {
+    "n": 15,
+    "mean": 38.12,
+    "stdev": 8.0676,
+    "variance": 65.0869,
+    "range_low": 13.9171,
+    "range_high": 62.3229,
+    "sigma_used": 3,
+    "currency": "USD",
+    "unit": "hour"
+  }
+}

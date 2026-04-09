@@ -1,0 +1,747 @@
+{
+  "document_id": "9fcce04d3a38c1f2",
+  "source_file": "13124UPSWESTERNREGIONSUPPLEMENTALAGREEMENT.pdf",
+  "document_type": "Supplemental Agreement",
+  "title": "THE WESTERN REGION",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": null,
+    "geographic_region": "Western Region"
+  },
+  "effective_date": "August 27, 1997",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 11296,
+  "page_count": 53,
+  "word_count": 14746,
+  "headers": [
+    {
+      "text": "THE WESTERN REGION",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Article 1: SCOPE OF AGREEMENT",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 2: SINGLE BARGAINING UNIT",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 3: UNION SECURITY—",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 4: SENIORITY",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Section 1: PROBATIONARY PERIOD/TRIAL PERIOD",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 2: SENIORITY LISTS",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 3: RECOGNITION OF SENIORITY",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 4: TERMINATION OF SENIORITY",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 5: LAYOFF AND RECALL",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Article 5: SEASONAL PERIOD",
+      "page": 8,
+      "level": 2
+    },
+    {
+      "text": "Article 6: BIDDING AND JOB OPENINGS",
+      "page": 9,
+      "level": 2
+    },
+    {
+      "text": "Section 1: FEEDER BIDDING",
+      "page": 9,
+      "level": 3
+    },
+    {
+      "text": "Section 2: PACKAGE CAR VACANCIES",
+      "page": 10,
+      "level": 3
+    },
+    {
+      "text": "Section 3: BIDDING DURING LEAVE OF",
+      "page": 12,
+      "level": 3
+    },
+    {
+      "text": "Section 4: PART-TIME OPENINGS",
+      "page": 12,
+      "level": 3
+    },
+    {
+      "text": "Section 5: TRIAL PERIOD",
+      "page": 14,
+      "level": 3
+    },
+    {
+      "text": "Section 6: TRANSFER REQUEST",
+      "page": 14,
+      "level": 3
+    },
+    {
+      "text": "Article 7: PART-TIME TO FULL-TIME",
+      "page": 18,
+      "level": 2
+    },
+    {
+      "text": "Article 8: TRAINING AREAS",
+      "page": 19,
+      "level": 2
+    },
+    {
+      "text": "Article 9: TIME CLOCKS",
+      "page": 20,
+      "level": 2
+    },
+    {
+      "text": "Article 10: PRIORITY OF AGREEMENT",
+      "page": 20,
+      "level": 2
+    },
+    {
+      "text": "Article 11: NEW EQUIPMENT AND/OR",
+      "page": 20,
+      "level": 2
+    },
+    {
+      "text": "Article 12: COMBINATION JOBS",
+      "page": 21,
+      "level": 2
+    },
+    {
+      "text": "Article 13: PAY PERIOD",
+      "page": 21,
+      "level": 2
+    },
+    {
+      "text": "Article 14: AIR CONDITIONING",
+      "page": 22,
+      "level": 2
+    },
+    {
+      "text": "Article 15: SAFETY AND HEALTH",
+      "page": 23,
+      "level": 2
+    },
+    {
+      "text": "Article 16: UNIFORMS",
+      "page": 23,
+      "level": 2
+    },
+    {
+      "text": "Article 17: BREAKDOWN AND",
+      "page": 24,
+      "level": 2
+    },
+    {
+      "text": "Article 18: INSURANCE CLAIMS",
+      "page": 24,
+      "level": 2
+    },
+    {
+      "text": "Article 19: OVERTIME AND",
+      "page": 25,
+      "level": 2
+    },
+    {
+      "text": "Article 20: WORKDAY-WORKWEEK",
+      "page": 25,
+      "level": 2
+    },
+    {
+      "text": "Section 1: FEEDER DRIVERS",
+      "page": 25,
+      "level": 3
+    },
+    {
+      "text": "Section 2: PACKAGE CAR DRIVERS",
+      "page": 26,
+      "level": 3
+    },
+    {
+      "text": "Section 3: PART-TIME EMPLOYEES",
+      "page": 26,
+      "level": 3
+    },
+    {
+      "text": "Section 4: MEAL AND REST PERIODS",
+      "page": 27,
+      "level": 3
+    },
+    {
+      "text": "Article 21: DELAYED START TIMES",
+      "page": 27,
+      "level": 2
+    },
+    {
+      "text": "Article 22: UTILITY DRIVERS",
+      "page": 27,
+      "level": 2
+    },
+    {
+      "text": "Article 23: MAINTENANCE OF STANDARDS",
+      "page": 27,
+      "level": 2
+    },
+    {
+      "text": "Article 24: FEEDER RUNS",
+      "page": 28,
+      "level": 2
+    },
+    {
+      "text": "Article 25: GRIEVANCE MACHINERY",
+      "page": 28,
+      "level": 2
+    },
+    {
+      "text": "Article 26: GRIEVANCE COMMITTEE",
+      "page": 29,
+      "level": 2
+    },
+    {
+      "text": "Article 27: SETTLEMENT OF DISPUTES",
+      "page": 30,
+      "level": 2
+    },
+    {
+      "text": "Article 28: GRIEVANCE PROCEDURE",
+      "page": 30,
+      "level": 2
+    },
+    {
+      "text": "Section 1: The Union and the Employer agree that there shall be no strike,",
+      "page": 30,
+      "level": 3
+    },
+    {
+      "text": "Section 2: HANDLING OF DISCHARGES",
+      "page": 37,
+      "level": 3
+    },
+    {
+      "text": "Section 3: SELECTION OF AN IMPARTIAL",
+      "page": 40,
+      "level": 3
+    },
+    {
+      "text": "Section 4: INTERPRETIVE AND SITTING",
+      "page": 40,
+      "level": 3
+    },
+    {
+      "text": "Section 5: All monetary grievance settlements shall be paid by separate check",
+      "page": 40,
+      "level": 3
+    },
+    {
+      "text": "Section 6: In an effort to resolve grievances in a timely manner and at the",
+      "page": 40,
+      "level": 3
+    },
+    {
+      "text": "Article 29: DEATH IN IMMEDIATE FAMILY",
+      "page": 41,
+      "level": 2
+    },
+    {
+      "text": "Article 30: HEALTH AND WELFARE",
+      "page": 41,
+      "level": 2
+    },
+    {
+      "text": "Article 31: DURATION OF AGREMENT",
+      "page": 50,
+      "level": 2
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "4.1",
+      "parent_article": "4",
+      "title": "PROBATIONARY PERIOD/TRIAL PERIOD",
+      "page_start": 6,
+      "page_end": 7,
+      "word_count": 456
+    },
+    {
+      "section_id": "4.2",
+      "parent_article": "4",
+      "title": "SENIORITY LISTS",
+      "page_start": 7,
+      "page_end": 8,
+      "word_count": 159
+    },
+    {
+      "section_id": "4.3",
+      "parent_article": "4",
+      "title": "RECOGNITION OF SENIORITY",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 22
+    },
+    {
+      "section_id": "4.4",
+      "parent_article": "4",
+      "title": "TERMINATION OF SENIORITY",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 97
+    },
+    {
+      "section_id": "4.5",
+      "parent_article": "4",
+      "title": "LAYOFF AND RECALL",
+      "page_start": 8,
+      "page_end": 9,
+      "word_count": 104
+    },
+    {
+      "section_id": "6.1",
+      "parent_article": "6",
+      "title": "FEEDER BIDDING",
+      "page_start": 9,
+      "page_end": 10,
+      "word_count": 598
+    },
+    {
+      "section_id": "6.2",
+      "parent_article": "6",
+      "title": "PACKAGE CAR VACANCIES",
+      "page_start": 10,
+      "page_end": 12,
+      "word_count": 478
+    },
+    {
+      "section_id": "6.3",
+      "parent_article": "6",
+      "title": "BIDDING DURING LEAVE OF",
+      "page_start": 12,
+      "page_end": 12,
+      "word_count": 94
+    },
+    {
+      "section_id": "6.4",
+      "parent_article": "6",
+      "title": "PART-TIME OPENINGS",
+      "page_start": 12,
+      "page_end": 14,
+      "word_count": 416
+    },
+    {
+      "section_id": "6.5",
+      "parent_article": "6",
+      "title": "TRIAL PERIOD",
+      "page_start": 14,
+      "page_end": 14,
+      "word_count": 216
+    },
+    {
+      "section_id": "6.6",
+      "parent_article": "6",
+      "title": "TRANSFER REQUEST",
+      "page_start": 14,
+      "page_end": 25,
+      "word_count": 3268
+    },
+    {
+      "section_id": "20.1",
+      "parent_article": "20",
+      "title": "FEEDER DRIVERS",
+      "page_start": 25,
+      "page_end": 26,
+      "word_count": 242
+    },
+    {
+      "section_id": "20.2",
+      "parent_article": "20",
+      "title": "PACKAGE CAR DRIVERS",
+      "page_start": 26,
+      "page_end": 26,
+      "word_count": 223
+    },
+    {
+      "section_id": "20.3",
+      "parent_article": "20",
+      "title": "PART-TIME EMPLOYEES",
+      "page_start": 26,
+      "page_end": 27,
+      "word_count": 148
+    },
+    {
+      "section_id": "20.4",
+      "parent_article": "20",
+      "title": "MEAL AND REST PERIODS",
+      "page_start": 27,
+      "page_end": 30,
+      "word_count": 982
+    },
+    {
+      "section_id": "28.1",
+      "parent_article": "28",
+      "title": "The Union and the Employer agree that there shall be no strike,",
+      "page_start": 30,
+      "page_end": 37,
+      "word_count": 2281
+    },
+    {
+      "section_id": "28.2",
+      "parent_article": "28",
+      "title": "HANDLING OF DISCHARGES",
+      "page_start": 37,
+      "page_end": 40,
+      "word_count": 1171
+    },
+    {
+      "section_id": "28.3",
+      "parent_article": "28",
+      "title": "SELECTION OF AN IMPARTIAL",
+      "page_start": 40,
+      "page_end": 40,
+      "word_count": 75
+    },
+    {
+      "section_id": "28.4",
+      "parent_article": "28",
+      "title": "INTERPRETIVE AND SITTING",
+      "page_start": 40,
+      "page_end": 40,
+      "word_count": 72
+    },
+    {
+      "section_id": "28.5",
+      "parent_article": "28",
+      "title": "All monetary grievance settlements shall be paid by separate check",
+      "page_start": 40,
+      "page_end": 40,
+      "word_count": 28
+    },
+    {
+      "section_id": "28.6",
+      "parent_article": "28",
+      "title": "In an effort to resolve grievances in a timely manner and at the",
+      "page_start": 40,
+      "page_end": null,
+      "word_count": 2851
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "1",
+      "title": "SCOPE OF AGREEMENT",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 77
+    },
+    {
+      "article_number": "2",
+      "title": "SINGLE BARGAINING UNIT",
+      "page_start": 5,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 88
+    },
+    {
+      "article_number": "3",
+      "title": "UNION SECURITY—",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 66
+    },
+    {
+      "article_number": "4",
+      "title": "SENIORITY",
+      "page_start": 6,
+      "page_end": 8,
+      "section_count": 5,
+      "word_count": 753
+    },
+    {
+      "article_number": "5",
+      "title": "SEASONAL PERIOD",
+      "page_start": 8,
+      "page_end": 9,
+      "section_count": 0,
+      "word_count": 85
+    },
+    {
+      "article_number": "6",
+      "title": "BIDDING AND JOB OPENINGS",
+      "page_start": 9,
+      "page_end": 18,
+      "section_count": 6,
+      "word_count": 2988
+    },
+    {
+      "article_number": "7",
+      "title": "PART-TIME TO FULL-TIME",
+      "page_start": 18,
+      "page_end": 19,
+      "section_count": 0,
+      "word_count": 375
+    },
+    {
+      "article_number": "8",
+      "title": "TRAINING AREAS",
+      "page_start": 19,
+      "page_end": 20,
+      "section_count": 0,
+      "word_count": 281
+    },
+    {
+      "article_number": "9",
+      "title": "TIME CLOCKS",
+      "page_start": 20,
+      "page_end": 20,
+      "section_count": 0,
+      "word_count": 52
+    },
+    {
+      "article_number": "10",
+      "title": "PRIORITY OF AGREEMENT",
+      "page_start": 20,
+      "page_end": 20,
+      "section_count": 0,
+      "word_count": 38
+    },
+    {
+      "article_number": "11",
+      "title": "NEW EQUIPMENT AND/OR",
+      "page_start": 20,
+      "page_end": 21,
+      "section_count": 0,
+      "word_count": 99
+    },
+    {
+      "article_number": "12",
+      "title": "COMBINATION JOBS",
+      "page_start": 21,
+      "page_end": 21,
+      "section_count": 0,
+      "word_count": 80
+    },
+    {
+      "article_number": "13",
+      "title": "PAY PERIOD",
+      "page_start": 21,
+      "page_end": 22,
+      "section_count": 0,
+      "word_count": 338
+    },
+    {
+      "article_number": "14",
+      "title": "AIR CONDITIONING",
+      "page_start": 22,
+      "page_end": 23,
+      "section_count": 0,
+      "word_count": 185
+    },
+    {
+      "article_number": "15",
+      "title": "SAFETY AND HEALTH",
+      "page_start": 23,
+      "page_end": 23,
+      "section_count": 0,
+      "word_count": 39
+    },
+    {
+      "article_number": "16",
+      "title": "UNIFORMS",
+      "page_start": 23,
+      "page_end": 24,
+      "section_count": 0,
+      "word_count": 215
+    },
+    {
+      "article_number": "17",
+      "title": "BREAKDOWN AND",
+      "page_start": 24,
+      "page_end": 24,
+      "section_count": 0,
+      "word_count": 205
+    },
+    {
+      "article_number": "18",
+      "title": "INSURANCE CLAIMS",
+      "page_start": 24,
+      "page_end": 25,
+      "section_count": 0,
+      "word_count": 79
+    },
+    {
+      "article_number": "19",
+      "title": "OVERTIME AND",
+      "page_start": 25,
+      "page_end": 25,
+      "section_count": 0,
+      "word_count": 96
+    },
+    {
+      "article_number": "20",
+      "title": "WORKDAY-WORKWEEK",
+      "page_start": 25,
+      "page_end": 27,
+      "section_count": 4,
+      "word_count": 685
+    },
+    {
+      "article_number": "21",
+      "title": "DELAYED START TIMES",
+      "page_start": 27,
+      "page_end": 27,
+      "section_count": 0,
+      "word_count": 67
+    },
+    {
+      "article_number": "22",
+      "title": "UTILITY DRIVERS",
+      "page_start": 27,
+      "page_end": 27,
+      "section_count": 0,
+      "word_count": 37
+    },
+    {
+      "article_number": "23",
+      "title": "MAINTENANCE OF STANDARDS",
+      "page_start": 27,
+      "page_end": 28,
+      "section_count": 0,
+      "word_count": 141
+    },
+    {
+      "article_number": "24",
+      "title": "FEEDER RUNS",
+      "page_start": 28,
+      "page_end": 28,
+      "section_count": 0,
+      "word_count": 111
+    },
+    {
+      "article_number": "25",
+      "title": "GRIEVANCE MACHINERY",
+      "page_start": 28,
+      "page_end": 29,
+      "section_count": 0,
+      "word_count": 189
+    },
+    {
+      "article_number": "26",
+      "title": "GRIEVANCE COMMITTEE",
+      "page_start": 29,
+      "page_end": 30,
+      "section_count": 0,
+      "word_count": 219
+    },
+    {
+      "article_number": "27",
+      "title": "SETTLEMENT OF DISPUTES",
+      "page_start": 30,
+      "page_end": 30,
+      "section_count": 0,
+      "word_count": 146
+    },
+    {
+      "article_number": "28",
+      "title": "GRIEVANCE PROCEDURE",
+      "page_start": 30,
+      "page_end": 41,
+      "section_count": 6,
+      "word_count": 3752
+    },
+    {
+      "article_number": "29",
+      "title": "DEATH IN IMMEDIATE FAMILY",
+      "page_start": 41,
+      "page_end": 41,
+      "section_count": 0,
+      "word_count": 9
+    },
+    {
+      "article_number": "30",
+      "title": "HEALTH AND WELFARE",
+      "page_start": 41,
+      "page_end": 50,
+      "section_count": 0,
+      "word_count": 2260
+    },
+    {
+      "article_number": "31",
+      "title": "DURATION OF AGREMENT",
+      "page_start": 50,
+      "page_end": null,
+      "section_count": 0,
+      "word_count": 457
+    }
+  ],
+  "key_topics": [
+    "wages",
+    "benefits",
+    "health_and_welfare",
+    "pension",
+    "hours_of_work",
+    "overtime",
+    "seniority",
+    "discipline",
+    "grievance_arbitration",
+    "union_security",
+    "leaves_of_absence",
+    "safety_and_health",
+    "holidays",
+    "vacations",
+    "job_classifications",
+    "supplemental_work",
+    "part_time_employees",
+    "full_time_employees",
+    "feeders",
+    "package_delivery"
+  ],
+  "wage_parameters": [],
+  "time_parameters": [],
+  "benefit_parameters": [],
+  "cross_references": [],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:27.749382+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  },
+  "enrichment_metadata": {
+    "enriched_at": "2026-04-08T23:31:24Z",
+    "enricher": "enrich_entities.py",
+    "sigma_used": 3,
+    "quality_filter": {
+      "extraction_method": "pypdf-tier0",
+      "min_words_per_page": 30,
+      "min_articles_plus_sections": 1
+    }
+  }
+}

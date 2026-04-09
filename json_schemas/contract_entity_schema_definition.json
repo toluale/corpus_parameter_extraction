@@ -1,0 +1,448 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "ups-labor-contract-entity-schema-v2",
+  "title": "UPS Labor Contract Entity Schema",
+  "description": "Schema for structured entities extracted from UPS labor contract PDFs for synthetic data generation while protecting sensitive and IID information.",
+  "type": "object",
+  "required": [
+    "document_id",
+    "source_file",
+    "document_type",
+    "title",
+    "parties",
+    "effective_date",
+    "page_count",
+    "headers",
+    "sections",
+    "articles",
+    "key_topics",
+    "extraction_method",
+    "extraction_metadata"
+  ],
+  "properties": {
+    "document_id": {
+      "type": "string",
+      "description": "SHA-256 hash of the source filename (no PII).",
+      "minLength": 16,
+      "maxLength": 16
+    },
+    "source_file": {
+      "type": "string",
+      "description": "Original PDF filename."
+    },
+    "document_type": {
+      "type": "string",
+      "enum": [
+        "National Master Agreement",
+        "Supplemental Agreement",
+        "Rider",
+        "Addendum",
+        "Other"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "description": "Human-readable contract title derived from content or filename.",
+      "minLength": 1
+    },
+    "parties": {
+      "type": "object",
+      "required": [
+        "employer",
+        "union"
+      ],
+      "properties": {
+        "employer": {
+          "type": "string"
+        },
+        "union": {
+          "type": "string"
+        },
+        "local_number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "geographic_region": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "effective_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "expiration_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "contract_duration_days": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "description": "Number of days between effective_date and expiration_date. Null when either date is not extractable.",
+      "minimum": 0
+    },
+    "page_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "word_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "headers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "text",
+          "page",
+          "level"
+        ],
+        "properties": {
+          "text": {
+            "type": "string"
+          },
+          "page": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "level": {
+            "type": "integer",
+            "enum": [
+              1,
+              2,
+              3
+            ]
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "section_id",
+          "parent_article",
+          "title",
+          "page_start"
+        ],
+        "properties": {
+          "section_id": {
+            "type": "string"
+          },
+          "parent_article": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "title": {
+            "type": "string"
+          },
+          "page_start": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "page_end": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "word_count": {
+            "type": "integer",
+            "minimum": 0
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "articles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "article_number",
+          "title",
+          "page_start"
+        ],
+        "properties": {
+          "article_number": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "page_start": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "page_end": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "section_count": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "word_count": {
+            "type": "integer",
+            "minimum": 0
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "key_topics": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": [
+          "wages",
+          "benefits",
+          "health_and_welfare",
+          "pension",
+          "hours_of_work",
+          "overtime",
+          "seniority",
+          "discipline",
+          "grievance_arbitration",
+          "union_security",
+          "management_rights",
+          "leaves_of_absence",
+          "safety_and_health",
+          "holidays",
+          "vacations",
+          "job_classifications",
+          "supplemental_work",
+          "new_technology",
+          "subcontracting",
+          "part_time_employees",
+          "full_time_employees",
+          "feeders",
+          "package_delivery",
+          "air_operations",
+          "cartage",
+          "mechanics",
+          "combination_employees",
+          "general_provisions",
+          "other"
+        ]
+      }
+    },
+    "wage_parameters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string"
+          },
+          "value": {
+            "type": "number"
+          },
+          "currency": {
+            "type": "string"
+          },
+          "unit": {
+            "type": "string"
+          },
+          "classification": {
+            "type": "string"
+          },
+          "progression_step": {
+            "type": "string"
+          },
+          "article": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "section": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "page": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "time_parameters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string"
+          },
+          "value": {
+            "type": "number"
+          },
+          "unit": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "article": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "section": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "page": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "benefit_parameters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string"
+          },
+          "value": {
+            "type": "number"
+          },
+          "currency": {
+            "type": "string"
+          },
+          "unit": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "article": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "section": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "page": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "cross_references": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "from_article": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "from_section": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "to_article": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "to_section": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "extraction_method": {
+      "type": "string",
+      "enum": [
+        "stdlib_pdf",
+        "pdfminer",
+        "pymupdf",
+        "ocr",
+        "pypdf-tier0",
+        "pdfminer-tier1",
+        "pdfminer-tier2",
+        "pymupdf-tier3-cid",
+        "pymupdf-tier3-fallback"
+      ],
+      "description": "Library/method used to extract text from this PDF."
+    },
+    "extraction_metadata": {
+      "type": "object",
+      "required": [
+        "extracted_at",
+        "extractor_version",
+        "schema_version"
+      ],
+      "properties": {
+        "extracted_at": {
+          "type": "string"
+        },
+        "extractor_version": {
+          "type": "string"
+        },
+        "schema_version": {
+          "type": "string"
+        },
+        "extraction_notes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

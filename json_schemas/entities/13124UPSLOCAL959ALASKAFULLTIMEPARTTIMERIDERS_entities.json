@@ -1,0 +1,495 @@
+{
+  "document_id": "b7c4e4f0255f70f7",
+  "source_file": "13124UPSLOCAL959ALASKAFULLTIMEPARTTIMERIDERS.pdf",
+  "document_type": "Rider",
+  "title": "NATIONAL MASTER",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": "959",
+    "geographic_region": "Western Region"
+  },
+  "effective_date": "August 1, 2023",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 1826,
+  "page_count": 107,
+  "word_count": 24575,
+  "headers": [
+    {
+      "text": "NATIONAL MASTER",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Article 1: PREAMBLE AND PURPOSES",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 2: HIRING HALL ..................................................271",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 3: NO-STRIKE AND GRIEV ANCES",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 4: FULL-TIME WAGES ........................................276",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 5: FULL-TIME EMPLOYEES’ WORKING",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 6: ARTICLE 22.3/40 FULL-TIME",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 7: HOLIDAYS .......................................................291",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 8: V ACATIONS .....................................................293",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 9: PROTECTION OF RIGHTS .............................299",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 10: ALASKA TEAMSTER-EMPLOYER",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 11: ALASKA TEAMSTER-EMPLOYER",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 12: WESTERN CONFERENCE OF",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 13: SICK LEA VE .....................................................304",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 14: MISCELLANEOUS ..........................................306",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 15: UTILITY DRIVERS ..........................................309",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 41: 2(c) of the NMUPSA",
+      "page": 13,
+      "level": 2
+    },
+    {
+      "text": "Article 22: 3/40 FULL-TIME COMBINATION",
+      "page": 21,
+      "level": 2
+    },
+    {
+      "text": "Section 6: 11 below, hours work or pay. These guarantees shall not",
+      "page": 21,
+      "level": 3
+    },
+    {
+      "text": "Section D: , make temporary adjustments to the one (1) hour rule",
+      "page": 92,
+      "level": 3
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "22.6",
+      "parent_article": "22",
+      "title": "11 below, hours work or pay. These guarantees shall not",
+      "page_start": 21,
+      "page_end": 92,
+      "word_count": 18224
+    },
+    {
+      "section_id": "14.D",
+      "parent_article": "14",
+      "title": ", make temporary adjustments to the one (1) hour rule",
+      "page_start": 92,
+      "page_end": null,
+      "word_count": 1755
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "1",
+      "title": "PREAMBLE AND PURPOSES",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 4
+    },
+    {
+      "article_number": "2",
+      "title": "HIRING HALL ..................................................271",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "3",
+      "title": "NO-STRIKE AND GRIEV ANCES",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 2
+    },
+    {
+      "article_number": "4",
+      "title": "FULL-TIME WAGES ........................................276",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "5",
+      "title": "FULL-TIME EMPLOYEES’ WORKING",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 14
+    },
+    {
+      "article_number": "6",
+      "title": "ARTICLE 22.3/40 FULL-TIME",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 6
+    },
+    {
+      "article_number": "7",
+      "title": "HOLIDAYS .......................................................291",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "8",
+      "title": "V ACATIONS .....................................................293",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "9",
+      "title": "PROTECTION OF RIGHTS .............................299",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "10",
+      "title": "ALASKA TEAMSTER-EMPLOYER",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 2
+    },
+    {
+      "article_number": "11",
+      "title": "ALASKA TEAMSTER-EMPLOYER",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 3
+    },
+    {
+      "article_number": "12",
+      "title": "WESTERN CONFERENCE OF",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 4
+    },
+    {
+      "article_number": "13",
+      "title": "SICK LEA VE .....................................................304",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "14",
+      "title": "MISCELLANEOUS ..........................................306",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "15",
+      "title": "UTILITY DRIVERS ..........................................309",
+      "page_start": 6,
+      "page_end": 13,
+      "section_count": 0,
+      "word_count": 1813
+    },
+    {
+      "article_number": "41",
+      "title": "2(c) of the NMUPSA",
+      "page_start": 13,
+      "page_end": 21,
+      "section_count": 0,
+      "word_count": 2344
+    },
+    {
+      "article_number": "22",
+      "title": "3/40 FULL-TIME COMBINATION",
+      "page_start": 21,
+      "page_end": null,
+      "section_count": 1,
+      "word_count": 20022
+    }
+  ],
+  "key_topics": [
+    "wages",
+    "benefits",
+    "health_and_welfare",
+    "pension",
+    "hours_of_work",
+    "overtime",
+    "seniority",
+    "discipline",
+    "grievance_arbitration",
+    "union_security",
+    "leaves_of_absence",
+    "safety_and_health",
+    "holidays",
+    "vacations",
+    "job_classifications",
+    "supplemental_work",
+    "part_time_employees",
+    "full_time_employees",
+    "feeders",
+    "package_delivery",
+    "air_operations",
+    "mechanics"
+  ],
+  "wage_parameters": [
+    {
+      "type": "hourly",
+      "value": 46.85,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Package Car/Ground Shuttle Drivers",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 47.1,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Feeder Drivers",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.85,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Mechanics - Automotive/G.S.E.",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 38.94,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Full-Time Combo Jobs Article 22.3/40",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.85,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 47.1,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 38.94,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "time_parameters": [
+    {
+      "type": "waiting_period",
+      "value": 6,
+      "unit": "months",
+      "description": "for up to 6 months.\n3. Shift",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 7,
+      "unit": "months",
+      "description": "tions.\n10.07 Monthly Contrib",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 2024,
+      "unit": "months",
+      "description": "h October 2024 Monthly Contrib",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 2025,
+      "unit": "months",
+      "description": "h October 2025 Monthly Contrib",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 2026,
+      "unit": "months",
+      "description": "h October 2026 Monthly Contrib",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 2027,
+      "unit": "months",
+      "description": "h October 2027 Monthly Contrib",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 2028,
+      "unit": "months",
+      "description": "ough July 2028 Monthly Contrib",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 36,
+      "unit": "months",
+      "description": "period of 36 months. Employee",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "probationary_period",
+      "value": 30,
+      "unit": "days",
+      "description": "rds their 30\nday trial period. The empl",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 10,
+      "unit": "calendar_days",
+      "description": "ny within 10 calendar days upon\nagre",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "grievance_step_limit",
+      "value": 10,
+      "unit": "calendar_days",
+      "description": "e Company within 10 calendar days upon\nagre",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "benefit_parameters": [],
+  "cross_references": [
+    {
+      "from_article": null,
+      "from_section": null,
+      "to_article": "6",
+      "to_section": null
+    }
+  ],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:22.689311+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  }
+}

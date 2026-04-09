@@ -1,0 +1,3495 @@
+{
+  "document_id": "a04d44ea251bd530",
+  "source_file": "83796-UPS-NORCAL-SUPPLEMENT-and-SORT-RIDER-BOOK-FOR-WEB-1.pdf",
+  "document_type": "Supplemental Agreement",
+  "title": "UPS-NORCAL-SUPPLEMENT-and-SORT-RIDER-BOOK-FOR-WEB-1",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": null,
+    "geographic_region": "Norcal"
+  },
+  "effective_date": "August 1, 2023",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 1826,
+  "page_count": 230,
+  "word_count": 66027,
+  "headers": [
+    {
+      "text": "UPS-NORCAL-SUPPLEMENT-and-SORT-RIDER-BOOK-FOR-WEB-1",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Article 1: UNION SECURITY ........................................... 1",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: RECOGNITION ................................................ 1",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: UNION MEMBERSHIP  ................................... 1",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: DUES CHECKOFF ........................................... 4",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 2: HIRING PROCEDURES ................................... 5",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: LICENSE REQUIREMENTS ........................... 5",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: EXCLUSIVE HIRING ...................................... 5",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: HIRING STANDARDS .................................... 6",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 4: REFERRAL  ...................................................... 7",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 5: NOTIFICATION ............................................... 7",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 6: HIRING HALL COMMITTEE ......................... 8",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 7: APPEAL AND ARBITRATION ....................... 8",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 8: POSTING .......................................................... 9",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 3: SENIORITY AND LAYOFFS ........................... 9",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: PROBATIONARY PERIOD/TRIAL PERIOD  .. 9",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: APPLICATION OF SENIORITY  ................... 10",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 3: NOTICE OF LAYOFF ..................................... 11",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 4: REHIRE PROCEDURE ................................... 11",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 5: FILLING HIGHER PAID POSITIONS .......... 13",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 6: CLOSED OR PARTIALLY CLOSED",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 7: JOB SENIORITY IN REASSIGNMENT  ....... 14",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 8: SENIORITY LIST ........................................... 14",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 9: LOCATION SENIORITY  ............................... 15",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 10: SENIORITY AND JOB ASSIGNMENTS .... 15",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 11: RECOGNITION OF SENIORITY  ................ 16",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 12: PACKAGE CAR V ACANCIES .................... 16",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Article 4: DISCHARGE OR SUSPENSION ................... 18",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 5: DISCRIMINATION ......................................... 18",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section 1: DISCRIMINATION IN EMPLOYMENT  ...... 18",
+      "page": 4,
+      "level": 3
+    },
+    {
+      "text": "Section 2: UNION ACTIVITIES ..................................... 18",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 3: NONDISABLING HANDICAP  ..................... 18",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 4: BLACKLISTING ............................................ 19",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 6: PROTECTION OF RIGHTS .......................... 19",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: PICKET LINES ............................................... 19",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: STRUCK GOODS .......................................... 19",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 7: GRIEV ANCE PROCEDURE .......................... 19",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 19",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: UPS LABOR MANAGEMENT",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 3: USE OF AN IMPARTIAL ARBITRATOR ..... 22",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 4: HANDLING OF DISCHARGES OR",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 5: SELECTION OF AN IMPARTIAL",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 6: ARBITRATORS AUTHORITY  ...................... 25",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 7: GRIEV ANCE SETTLEMENTS ...................... 25",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 8: LEA VE OF ABSENCE ..................................... 26",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: APPROVED LEA VE ...................................... 26",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: EFFECT ON V ACATION/HOLIDAYS .......... 27",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 3: HEALTH & WELFARE AND PENSION",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 4: FAMILY LEA VE ACT .................................... 28",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 9: PIGGY BACK ................................................... 28",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 10: STEWARDS .................................................... 28",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Article 11: OPERATING REQUIREMENTS ................. 30",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: USE OF EQUIPMENT  ................................... 30",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: SAFETY AND JOB HEALTH ........................ 30",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 3: TRAFFIC CITATIONS ................................... 31",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 4: PURCHASE OF EQUIPMENT  ...................... 31",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article 12: GENERAL PROVISIONS ............................. 32",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section 1: REST PERIODS ............................................. 32",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 2: DISPUTED CLAIMS FOR OVERTIME ........ 32",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 3: MONEY RECEIPT  ......................................... 32",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Section 4: MAINTENANCE OF SANITARY",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 5: TELEPHONE CALLS AND BRIDGE TOLLS .33",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 6: TIME CLOCKS .............................................. 33",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 7: COMPANY MEETINGS ................................ 33",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 8: INSPECTION PRIVILEGES  ......................... 34",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 9: PHYSICAL EXAMINATIONS ...................... 34",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Article 13: NEW METHODS ........................................... 35",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 14: LEASING EQUIPMENT ............................... 36",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 15: TRANSFER OF COMPANY, TITLE OR",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 16: HEALTH & WELFARE AND",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 17: ENTIRE AGREEMENT ................................ 37",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Section 1: PRIORITY OF AGREEMENT  ....................... 37",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 2: MAINTENANCE OF STANDARDS ............. 37",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Article 18: CASUALS AND EXTRA HELPERS ............ 38",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 19: EMERGENCY REOPENING ....................... 38",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 20: TERM OF AGREEMENT ............................. 39",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Article 21: JOB CLASSIFICATION AND",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 39",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 41",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 3: COMBINATION JOBS ................................... 42",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 4: COST OF LIVING .......................................... 42",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Article 22: HOURS OF WORK ........................................ 42",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Section 1: WORKDAY / WORKWEEK—",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 2: PACKAGE CAR DRIVERS ........................... 43",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 3: OVERTIME .................................................... 44",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 4: STARTING TIMES ......................................... 45",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 5: LUNCH PERIOD ............................................ 45",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Article 23: SICK LEA VE .................................................. 46",
+      "page": 6,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 46",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 46",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 47",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 4: 47",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 5: INTEGRATION WITH WORKER’S",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Article 24: HOLIDAYS ..................................................... 47",
+      "page": 7,
+      "level": 2
+    },
+    {
+      "text": "Article 25: V ACATIONS ................................................... 49",
+      "page": 7,
+      "level": 2
+    },
+    {
+      "text": "Section 1: 49",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 52",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 53",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 4: 54",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 5: 54",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 6: 54",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 7: 54",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 8: 55",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 9: 55",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Article 26: HEALTH AND WELFARE ........................... 56",
+      "page": 7,
+      "level": 2
+    },
+    {
+      "text": "Article 27: PENSIONS ...................................................... 57",
+      "page": 7,
+      "level": 2
+    },
+    {
+      "text": "Article 28: LEGAL SERVICES TRUST FUND .............. 58",
+      "page": 7,
+      "level": 2
+    },
+    {
+      "text": "Article 29: MISCELLANEOUS PROVISIONS ............. 58",
+      "page": 7,
+      "level": 2
+    },
+    {
+      "text": "Section 1: PAY PERIODS ................................................ 58",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 2: UNIFORMS .................................................... 59",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 3: PROTECTIVE CLOTHING ........................... 59",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 4: INCAPACITATED EMPLOYEES .................. 60",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 5: EQUIPMENT STANDARD ............................ 60",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 6: JURY DUTY  ................................................... 60",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 7: VOTING TIME ............................................... 62",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 8: TIME PAID FOR ............................................ 62",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 9: SHIFT DIFERENTIAL  ................................... 62",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 10: MEDICAL TREATMENT  ............................ 62",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 11: EMPLOYEE’S BAIL  .................................... 63",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 12: FUNERAL LEA VE ....................................... 63",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 13: MILITARY LEA VE ...................................... 64",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 14: BONDS ......................................................... 64",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 15: PASSENGERS .............................................. 64",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 16: COMPENSATION CLAIMS ........................ 65",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Section 17: UNION BULLETIN BOARDS .................... 65",
+      "page": 7,
+      "level": 3
+    },
+    {
+      "text": "Article 30: SEPARABILITY AND SA VINGS CLAUSE  .. 65",
+      "page": 8,
+      "level": 2
+    },
+    {
+      "text": "Article 31: FEEDER DRIVERS ....................................... 66",
+      "page": 8,
+      "level": 2
+    },
+    {
+      "text": "Section 1: WORK JURISDICTION ................................. 66",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 2: FEEDER DRIVER ANNUAL SELECTION ... 67",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 3: FEEDER WORK ............................................. 68",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 4: CITIZEN BAND RADIOS ............................. 69",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 5: CASUAL FEEDER DRIVERS ....................... 69",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 6: FEEDER WORK RULES ............................... 70",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 7: AIR CONDITIONING .................................... 72",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 8: INTERPRETATION OF BREAKDOWN",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 9: FEEDER RUNS .............................................. 73",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Section 10: TOTAL ARTICLE ......................................... 74",
+      "page": 8,
+      "level": 3
+    },
+    {
+      "text": "Article 32: UTILITY DRIVERS ...................................... 74",
+      "page": 8,
+      "level": 2
+    },
+    {
+      "text": "Article 33: SUPERVISORS WORKING ......................... 74",
+      "page": 8,
+      "level": 2
+    },
+    {
+      "text": "Article 34: ADDENDA ...................................................... 75",
+      "page": 8,
+      "level": 2
+    },
+    {
+      "text": "Article 37: Section 1 of the National Master Agreement.",
+      "page": 54,
+      "level": 2
+    },
+    {
+      "text": "Section 4: STARTING TIMES",
+      "page": 54,
+      "level": 3
+    },
+    {
+      "text": "Section 5: LUNCH PERIOD",
+      "page": 54,
+      "level": 3
+    },
+    {
+      "text": "Section 1: PAYMENTS",
+      "page": 102,
+      "level": 3
+    },
+    {
+      "text": "Section 2: POSTING NOTICE",
+      "page": 104,
+      "level": 3
+    },
+    {
+      "text": "Section 3: SAVINGS",
+      "page": 104,
+      "level": 3
+    },
+    {
+      "text": "Section 4: RETIREE SUPPLEMENT",
+      "page": 105,
+      "level": 3
+    },
+    {
+      "text": "Section 5: TRUST FUND ACCEPTANCE",
+      "page": 105,
+      "level": 3
+    },
+    {
+      "text": "Section 6: DRIVER IN CHARGE",
+      "page": 106,
+      "level": 3
+    },
+    {
+      "text": "Section 7: STARTING TIME",
+      "page": 106,
+      "level": 3
+    },
+    {
+      "text": "Section 8: SUBSISTENCE",
+      "page": 106,
+      "level": 3
+    },
+    {
+      "text": "Section 1: SAFETY AND JOB HEALTH ........................ 27",
+      "page": 141,
+      "level": 3
+    },
+    {
+      "text": "Section 2: TRAFFIC CITATIONS ................................... 28",
+      "page": 141,
+      "level": 3
+    },
+    {
+      "text": "Section 3: PURCHASE OF EQUIPMENT  ...................... 28",
+      "page": 141,
+      "level": 3
+    },
+    {
+      "text": "Section 5: TELEPHONE CALLS AND",
+      "page": 141,
+      "level": 3
+    },
+    {
+      "text": "Section 6: TIME CLOCKS .............................................. 30",
+      "page": 141,
+      "level": 3
+    },
+    {
+      "text": "Section 7: COMPANY MEETINGS ................................ 30",
+      "page": 141,
+      "level": 3
+    },
+    {
+      "text": "Section 8: INSPECTION PRIVILEGES .......................... 30",
+      "page": 141,
+      "level": 3
+    },
+    {
+      "text": "Section 9: PHYSICAL EXAMINATIONS ...................... 31",
+      "page": 141,
+      "level": 3
+    },
+    {
+      "text": "Section 1: PRIORITY OF AGREEMENT  ....................... 34",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 2: MAINTENANCE OF STANDARDS ............. 34",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 1: RATES ............................................................ 35",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 2: COMBINATION JOBS ................................... 37",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 3: COST OF LIVING .......................................... 37",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 4: PART-TIME TO FULL-TIME ........................ 37",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 1: WORKWEEK ...................................................38",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 2: OVERTIME .................................................... 38",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 3: LUNCH PERIOD ............................................ 39",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 4: PART-TIME TO FULL-TIME",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 5: STARTING TIMES ......................................... 40",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 1: 40",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 2: 41",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 3: 41",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 4: 41",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 5: INTEGRATION WITH WORKER’S",
+      "page": 142,
+      "level": 3
+    },
+    {
+      "text": "Section 6: 49",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 7: 49",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 8: 50",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 9: 50",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 1: PAY PERIODS ................................................ 53",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 2: UNIFORMS .................................................... 54",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 3: PROTECTIVE CLOTHING ........................... 54",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 4: INCAPACITATED EMPLOYEES .................. 54",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 5: EQUIPMENT STANDARD ............................ 55",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 6: JURY DUTY  ................................................... 55",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 7: VOTING TIME ............................................... 56",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 8: TIME PAID FOR ............................................ 56",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 9: SHIFT DIFERENTIAL  ................................... 56",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 10: MEDICAL TREATMENT  ............................ 57",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 11: EMPLOYEE’S BAIL  .................................... 57",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 12: FUNERAL LEA VE ....................................... 57",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 13: MILITARY LEA VE ...................................... 58",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 14: BONDS ......................................................... 58",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 15: PASSENGERS .............................................. 59",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 16: COMPENSATION CLAIMS ........................ 59",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 17: UNION BULLETIN BOARDS .................... 60",
+      "page": 143,
+      "level": 3
+    },
+    {
+      "text": "Section 11: The employees awarded these preferred jobs shall stay",
+      "page": 205,
+      "level": 3
+    },
+    {
+      "text": "Section 1: PAYMENTS",
+      "page": 209,
+      "level": 3
+    },
+    {
+      "text": "Section 2: POSTING NOTICE",
+      "page": 211,
+      "level": 3
+    },
+    {
+      "text": "Section 3: SAVINGS",
+      "page": 211,
+      "level": 3
+    },
+    {
+      "text": "Section 4: RETIREE SUPPLEMENT",
+      "page": 212,
+      "level": 3
+    },
+    {
+      "text": "Section 5: TRUST FUND ACCEPTANCE",
+      "page": 213,
+      "level": 3
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1.1",
+      "parent_article": "1",
+      "title": "RECOGNITION ................................................ 1",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "1.2",
+      "parent_article": "1",
+      "title": "UNION MEMBERSHIP  ................................... 1",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "1.3",
+      "parent_article": "1",
+      "title": "DUES CHECKOFF ........................................... 4",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "2.1",
+      "parent_article": "2",
+      "title": "LICENSE REQUIREMENTS ........................... 5",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "2.2",
+      "parent_article": "2",
+      "title": "EXCLUSIVE HIRING ...................................... 5",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 11
+    },
+    {
+      "section_id": "2.3",
+      "parent_article": "2",
+      "title": "HIRING STANDARDS .................................... 6",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "2.4",
+      "parent_article": "2",
+      "title": "REFERRAL  ...................................................... 7",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "2.5",
+      "parent_article": "2",
+      "title": "NOTIFICATION ............................................... 7",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 10
+    },
+    {
+      "section_id": "2.6",
+      "parent_article": "2",
+      "title": "HIRING HALL COMMITTEE ......................... 8",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "2.7",
+      "parent_article": "2",
+      "title": "APPEAL AND ARBITRATION ....................... 8",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "2.8",
+      "parent_article": "2",
+      "title": "POSTING .......................................................... 9",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "3.1",
+      "parent_article": "3",
+      "title": "PROBATIONARY PERIOD/TRIAL PERIOD  .. 9",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "3.2",
+      "parent_article": "3",
+      "title": "APPLICATION OF SENIORITY  ................... 10",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "3.3",
+      "parent_article": "3",
+      "title": "NOTICE OF LAYOFF ..................................... 11",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "3.4",
+      "parent_article": "3",
+      "title": "REHIRE PROCEDURE ................................... 11",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "3.5",
+      "parent_article": "3",
+      "title": "FILLING HIGHER PAID POSITIONS .......... 13",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "3.6",
+      "parent_article": "3",
+      "title": "CLOSED OR PARTIALLY CLOSED",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 3
+    },
+    {
+      "section_id": "3.7",
+      "parent_article": "3",
+      "title": "JOB SENIORITY IN REASSIGNMENT  ....... 14",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "3.8",
+      "parent_article": "3",
+      "title": "SENIORITY LIST ........................................... 14",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "3.9",
+      "parent_article": "3",
+      "title": "LOCATION SENIORITY  ............................... 15",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "3.10",
+      "parent_article": "3",
+      "title": "SENIORITY AND JOB ASSIGNMENTS .... 15",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "3.11",
+      "parent_article": "3",
+      "title": "RECOGNITION OF SENIORITY  ................ 16",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "3.12",
+      "parent_article": "3",
+      "title": "PACKAGE CAR V ACANCIES .................... 16",
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 0
+    },
+    {
+      "section_id": "5.1",
+      "parent_article": "5",
+      "title": "DISCRIMINATION IN EMPLOYMENT  ...... 18",
+      "page_start": 4,
+      "page_end": 5,
+      "word_count": 3
+    },
+    {
+      "section_id": "5.2",
+      "parent_article": "5",
+      "title": "UNION ACTIVITIES ..................................... 18",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "5.3",
+      "parent_article": "5",
+      "title": "NONDISABLING HANDICAP  ..................... 18",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "5.4",
+      "parent_article": "5",
+      "title": "BLACKLISTING ............................................ 19",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "6.1",
+      "parent_article": "6",
+      "title": "PICKET LINES ............................................... 19",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "6.2",
+      "parent_article": "6",
+      "title": "STRUCK GOODS .......................................... 19",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "7.1",
+      "parent_article": "7",
+      "title": "19",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 10
+    },
+    {
+      "section_id": "7.2",
+      "parent_article": "7",
+      "title": "UPS LABOR MANAGEMENT",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 2
+    },
+    {
+      "section_id": "7.3",
+      "parent_article": "7",
+      "title": "USE OF AN IMPARTIAL ARBITRATOR ..... 22",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "7.4",
+      "parent_article": "7",
+      "title": "HANDLING OF DISCHARGES OR",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 2
+    },
+    {
+      "section_id": "7.5",
+      "parent_article": "7",
+      "title": "SELECTION OF AN IMPARTIAL",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 1
+    },
+    {
+      "section_id": "7.6",
+      "parent_article": "7",
+      "title": "ARBITRATORS AUTHORITY  ...................... 25",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "7.7",
+      "parent_article": "7",
+      "title": "GRIEV ANCE SETTLEMENTS ...................... 25",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "8.1",
+      "parent_article": "8",
+      "title": "APPROVED LEA VE ...................................... 26",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "8.2",
+      "parent_article": "8",
+      "title": "EFFECT ON V ACATION/HOLIDAYS .......... 27",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "8.3",
+      "parent_article": "8",
+      "title": "HEALTH & WELFARE AND PENSION",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 5
+    },
+    {
+      "section_id": "8.4",
+      "parent_article": "8",
+      "title": "FAMILY LEA VE ACT .................................... 28",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "11.1",
+      "parent_article": "11",
+      "title": "USE OF EQUIPMENT  ................................... 30",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "11.2",
+      "parent_article": "11",
+      "title": "SAFETY AND JOB HEALTH ........................ 30",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "11.3",
+      "parent_article": "11",
+      "title": "TRAFFIC CITATIONS ................................... 31",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "11.4",
+      "parent_article": "11",
+      "title": "PURCHASE OF EQUIPMENT  ...................... 31",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "12.1",
+      "parent_article": "12",
+      "title": "REST PERIODS ............................................. 32",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "12.2",
+      "parent_article": "12",
+      "title": "DISPUTED CLAIMS FOR OVERTIME ........ 32",
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 0
+    },
+    {
+      "section_id": "12.3",
+      "parent_article": "12",
+      "title": "MONEY RECEIPT  ......................................... 32",
+      "page_start": 5,
+      "page_end": 6,
+      "word_count": 6
+    },
+    {
+      "section_id": "12.4",
+      "parent_article": "12",
+      "title": "MAINTENANCE OF SANITARY",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 1
+    },
+    {
+      "section_id": "12.5",
+      "parent_article": "12",
+      "title": "TELEPHONE CALLS AND BRIDGE TOLLS .33",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "12.6",
+      "parent_article": "12",
+      "title": "TIME CLOCKS .............................................. 33",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "12.7",
+      "parent_article": "12",
+      "title": "COMPANY MEETINGS ................................ 33",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "12.8",
+      "parent_article": "12",
+      "title": "INSPECTION PRIVILEGES  ......................... 34",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "12.9",
+      "parent_article": "12",
+      "title": "PHYSICAL EXAMINATIONS ...................... 34",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 7
+    },
+    {
+      "section_id": "17.1",
+      "parent_article": "17",
+      "title": "PRIORITY OF AGREEMENT  ....................... 37",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "17.2",
+      "parent_article": "17",
+      "title": "MAINTENANCE OF STANDARDS ............. 37",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 5
+    },
+    {
+      "section_id": "21.1",
+      "parent_article": "21",
+      "title": "39",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "21.2",
+      "parent_article": "21",
+      "title": "41",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "21.3",
+      "parent_article": "21",
+      "title": "COMBINATION JOBS ................................... 42",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "21.4",
+      "parent_article": "21",
+      "title": "COST OF LIVING .......................................... 42",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "22.1",
+      "parent_article": "22",
+      "title": "WORKDAY / WORKWEEK—",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 3
+    },
+    {
+      "section_id": "22.2",
+      "parent_article": "22",
+      "title": "PACKAGE CAR DRIVERS ........................... 43",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "22.3",
+      "parent_article": "22",
+      "title": "OVERTIME .................................................... 44",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "22.4",
+      "parent_article": "22",
+      "title": "STARTING TIMES ......................................... 45",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "22.5",
+      "parent_article": "22",
+      "title": "LUNCH PERIOD ............................................ 45",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "23.1",
+      "parent_article": "23",
+      "title": "46",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 0
+    },
+    {
+      "section_id": "23.2",
+      "parent_article": "23",
+      "title": "46",
+      "page_start": 6,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "23.3",
+      "parent_article": "23",
+      "title": "47",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "23.4",
+      "parent_article": "23",
+      "title": "47",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "23.5",
+      "parent_article": "23",
+      "title": "INTEGRATION WITH WORKER’S",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 7
+    },
+    {
+      "section_id": "25.1",
+      "parent_article": "25",
+      "title": "49",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "25.2",
+      "parent_article": "25",
+      "title": "52",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "25.3",
+      "parent_article": "25",
+      "title": "53",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "25.4",
+      "parent_article": "25",
+      "title": "54",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "25.5",
+      "parent_article": "25",
+      "title": "54",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "25.6",
+      "parent_article": "25",
+      "title": "54",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "25.7",
+      "parent_article": "25",
+      "title": "54",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "25.8",
+      "parent_article": "25",
+      "title": "55",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "25.9",
+      "parent_article": "25",
+      "title": "55",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.1",
+      "parent_article": "29",
+      "title": "PAY PERIODS ................................................ 58",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.2",
+      "parent_article": "29",
+      "title": "UNIFORMS .................................................... 59",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.3",
+      "parent_article": "29",
+      "title": "PROTECTIVE CLOTHING ........................... 59",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.4",
+      "parent_article": "29",
+      "title": "INCAPACITATED EMPLOYEES .................. 60",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.5",
+      "parent_article": "29",
+      "title": "EQUIPMENT STANDARD ............................ 60",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.6",
+      "parent_article": "29",
+      "title": "JURY DUTY  ................................................... 60",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.7",
+      "parent_article": "29",
+      "title": "VOTING TIME ............................................... 62",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.8",
+      "parent_article": "29",
+      "title": "TIME PAID FOR ............................................ 62",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.9",
+      "parent_article": "29",
+      "title": "SHIFT DIFERENTIAL  ................................... 62",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.10",
+      "parent_article": "29",
+      "title": "MEDICAL TREATMENT  ............................ 62",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.11",
+      "parent_article": "29",
+      "title": "EMPLOYEE’S BAIL  .................................... 63",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.12",
+      "parent_article": "29",
+      "title": "FUNERAL LEA VE ....................................... 63",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.13",
+      "parent_article": "29",
+      "title": "MILITARY LEA VE ...................................... 64",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.14",
+      "parent_article": "29",
+      "title": "BONDS ......................................................... 64",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.15",
+      "parent_article": "29",
+      "title": "PASSENGERS .............................................. 64",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.16",
+      "parent_article": "29",
+      "title": "COMPENSATION CLAIMS ........................ 65",
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 0
+    },
+    {
+      "section_id": "29.17",
+      "parent_article": "29",
+      "title": "UNION BULLETIN BOARDS .................... 65",
+      "page_start": 7,
+      "page_end": 8,
+      "word_count": 6
+    },
+    {
+      "section_id": "31.1",
+      "parent_article": "31",
+      "title": "WORK JURISDICTION ................................. 66",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 0
+    },
+    {
+      "section_id": "31.2",
+      "parent_article": "31",
+      "title": "FEEDER DRIVER ANNUAL SELECTION ... 67",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 0
+    },
+    {
+      "section_id": "31.3",
+      "parent_article": "31",
+      "title": "FEEDER WORK ............................................. 68",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 0
+    },
+    {
+      "section_id": "31.4",
+      "parent_article": "31",
+      "title": "CITIZEN BAND RADIOS ............................. 69",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 0
+    },
+    {
+      "section_id": "31.5",
+      "parent_article": "31",
+      "title": "CASUAL FEEDER DRIVERS ....................... 69",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 0
+    },
+    {
+      "section_id": "31.6",
+      "parent_article": "31",
+      "title": "FEEDER WORK RULES ............................... 70",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 0
+    },
+    {
+      "section_id": "31.7",
+      "parent_article": "31",
+      "title": "AIR CONDITIONING .................................... 72",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 0
+    },
+    {
+      "section_id": "31.8",
+      "parent_article": "31",
+      "title": "INTERPRETATION OF BREAKDOWN",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 4
+    },
+    {
+      "section_id": "31.9",
+      "parent_article": "31",
+      "title": "FEEDER RUNS .............................................. 73",
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 0
+    },
+    {
+      "section_id": "31.10",
+      "parent_article": "31",
+      "title": "TOTAL ARTICLE ......................................... 74",
+      "page_start": 8,
+      "page_end": 54,
+      "word_count": 13926
+    },
+    {
+      "section_id": "37.4",
+      "parent_article": "37",
+      "title": "STARTING TIMES",
+      "page_start": 54,
+      "page_end": 54,
+      "word_count": 219
+    },
+    {
+      "section_id": "37.5",
+      "parent_article": "37",
+      "title": "LUNCH PERIOD",
+      "page_start": 54,
+      "page_end": 102,
+      "word_count": 13598
+    },
+    {
+      "section_id": "34.1",
+      "parent_article": "34",
+      "title": "PAYMENTS",
+      "page_start": 102,
+      "page_end": 104,
+      "word_count": 856
+    },
+    {
+      "section_id": "34.2",
+      "parent_article": "34",
+      "title": "POSTING NOTICE",
+      "page_start": 104,
+      "page_end": 104,
+      "word_count": 53
+    },
+    {
+      "section_id": "34.3",
+      "parent_article": "34",
+      "title": "SAVINGS",
+      "page_start": 104,
+      "page_end": 105,
+      "word_count": 377
+    },
+    {
+      "section_id": "34.4",
+      "parent_article": "34",
+      "title": "RETIREE SUPPLEMENT",
+      "page_start": 105,
+      "page_end": 105,
+      "word_count": 98
+    },
+    {
+      "section_id": "34.5",
+      "parent_article": "34",
+      "title": "TRUST FUND ACCEPTANCE",
+      "page_start": 105,
+      "page_end": 106,
+      "word_count": 78
+    },
+    {
+      "section_id": "34.6",
+      "parent_article": "34",
+      "title": "DRIVER IN CHARGE",
+      "page_start": 106,
+      "page_end": 106,
+      "word_count": 35
+    },
+    {
+      "section_id": "34.7",
+      "parent_article": "34",
+      "title": "STARTING TIME",
+      "page_start": 106,
+      "page_end": 106,
+      "word_count": 95
+    },
+    {
+      "section_id": "34.8",
+      "parent_article": "34",
+      "title": "SUBSISTENCE",
+      "page_start": 106,
+      "page_end": 141,
+      "word_count": 8098
+    },
+    {
+      "section_id": "10.1",
+      "parent_article": "10",
+      "title": "SAFETY AND JOB HEALTH ........................ 27",
+      "page_start": 141,
+      "page_end": 141,
+      "word_count": 0
+    },
+    {
+      "section_id": "10.2",
+      "parent_article": "10",
+      "title": "TRAFFIC CITATIONS ................................... 28",
+      "page_start": 141,
+      "page_end": 141,
+      "word_count": 0
+    },
+    {
+      "section_id": "10.3",
+      "parent_article": "10",
+      "title": "PURCHASE OF EQUIPMENT  ...................... 28",
+      "page_start": 141,
+      "page_end": 141,
+      "word_count": 1
+    },
+    {
+      "section_id": "11.5",
+      "parent_article": "11",
+      "title": "TELEPHONE CALLS AND",
+      "page_start": 141,
+      "page_end": 141,
+      "word_count": 3
+    },
+    {
+      "section_id": "11.6",
+      "parent_article": "11",
+      "title": "TIME CLOCKS .............................................. 30",
+      "page_start": 141,
+      "page_end": 141,
+      "word_count": 0
+    },
+    {
+      "section_id": "11.7",
+      "parent_article": "11",
+      "title": "COMPANY MEETINGS ................................ 30",
+      "page_start": 141,
+      "page_end": 141,
+      "word_count": 0
+    },
+    {
+      "section_id": "11.8",
+      "parent_article": "11",
+      "title": "INSPECTION PRIVILEGES .......................... 30",
+      "page_start": 141,
+      "page_end": 141,
+      "word_count": 0
+    },
+    {
+      "section_id": "11.9",
+      "parent_article": "11",
+      "title": "PHYSICAL EXAMINATIONS ...................... 31",
+      "page_start": 141,
+      "page_end": 142,
+      "word_count": 16
+    },
+    {
+      "section_id": "15.1",
+      "parent_article": "15",
+      "title": "PRIORITY OF AGREEMENT  ....................... 34",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 0
+    },
+    {
+      "section_id": "15.2",
+      "parent_article": "15",
+      "title": "MAINTENANCE OF STANDARDS ............. 34",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 5
+    },
+    {
+      "section_id": "18.1",
+      "parent_article": "18",
+      "title": "RATES ............................................................ 35",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 0
+    },
+    {
+      "section_id": "18.2",
+      "parent_article": "18",
+      "title": "COMBINATION JOBS ................................... 37",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 0
+    },
+    {
+      "section_id": "18.3",
+      "parent_article": "18",
+      "title": "COST OF LIVING .......................................... 37",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 0
+    },
+    {
+      "section_id": "18.4",
+      "parent_article": "18",
+      "title": "PART-TIME TO FULL-TIME ........................ 37",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 0
+    },
+    {
+      "section_id": "19.1",
+      "parent_article": "19",
+      "title": "WORKWEEK ...................................................38",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 0
+    },
+    {
+      "section_id": "19.2",
+      "parent_article": "19",
+      "title": "OVERTIME .................................................... 38",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 0
+    },
+    {
+      "section_id": "19.3",
+      "parent_article": "19",
+      "title": "LUNCH PERIOD ............................................ 39",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 0
+    },
+    {
+      "section_id": "19.4",
+      "parent_article": "19",
+      "title": "PART-TIME TO FULL-TIME",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 2
+    },
+    {
+      "section_id": "19.5",
+      "parent_article": "19",
+      "title": "STARTING TIMES ......................................... 40",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 0
+    },
+    {
+      "section_id": "20.1",
+      "parent_article": "20",
+      "title": "40",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 0
+    },
+    {
+      "section_id": "20.2",
+      "parent_article": "20",
+      "title": "41",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 0
+    },
+    {
+      "section_id": "20.3",
+      "parent_article": "20",
+      "title": "41",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 0
+    },
+    {
+      "section_id": "20.4",
+      "parent_article": "20",
+      "title": "41",
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 0
+    },
+    {
+      "section_id": "20.5",
+      "parent_article": "20",
+      "title": "INTEGRATION WITH WORKER’S",
+      "page_start": 142,
+      "page_end": 143,
+      "word_count": 7
+    },
+    {
+      "section_id": "22.6",
+      "parent_article": "22",
+      "title": "49",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "22.7",
+      "parent_article": "22",
+      "title": "49",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "22.8",
+      "parent_article": "22",
+      "title": "50",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "22.9",
+      "parent_article": "22",
+      "title": "50",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.1",
+      "parent_article": "26",
+      "title": "PAY PERIODS ................................................ 53",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.2",
+      "parent_article": "26",
+      "title": "UNIFORMS .................................................... 54",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.3",
+      "parent_article": "26",
+      "title": "PROTECTIVE CLOTHING ........................... 54",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.4",
+      "parent_article": "26",
+      "title": "INCAPACITATED EMPLOYEES .................. 54",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.5",
+      "parent_article": "26",
+      "title": "EQUIPMENT STANDARD ............................ 55",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.6",
+      "parent_article": "26",
+      "title": "JURY DUTY  ................................................... 55",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.7",
+      "parent_article": "26",
+      "title": "VOTING TIME ............................................... 56",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.8",
+      "parent_article": "26",
+      "title": "TIME PAID FOR ............................................ 56",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.9",
+      "parent_article": "26",
+      "title": "SHIFT DIFERENTIAL  ................................... 56",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.10",
+      "parent_article": "26",
+      "title": "MEDICAL TREATMENT  ............................ 57",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.11",
+      "parent_article": "26",
+      "title": "EMPLOYEE’S BAIL  .................................... 57",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.12",
+      "parent_article": "26",
+      "title": "FUNERAL LEA VE ....................................... 57",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.13",
+      "parent_article": "26",
+      "title": "MILITARY LEA VE ...................................... 58",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.14",
+      "parent_article": "26",
+      "title": "BONDS ......................................................... 58",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.15",
+      "parent_article": "26",
+      "title": "PASSENGERS .............................................. 59",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.16",
+      "parent_article": "26",
+      "title": "COMPENSATION CLAIMS ........................ 59",
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 0
+    },
+    {
+      "section_id": "26.17",
+      "parent_article": "26",
+      "title": "UNION BULLETIN BOARDS .................... 60",
+      "page_start": 143,
+      "page_end": 205,
+      "word_count": 19263
+    },
+    {
+      "section_id": "30.11",
+      "parent_article": "30",
+      "title": "The employees awarded these preferred jobs shall stay",
+      "page_start": 205,
+      "page_end": 209,
+      "word_count": 564
+    },
+    {
+      "section_id": "32.1",
+      "parent_article": "32",
+      "title": "PAYMENTS",
+      "page_start": 209,
+      "page_end": 211,
+      "word_count": 800
+    },
+    {
+      "section_id": "32.2",
+      "parent_article": "32",
+      "title": "POSTING NOTICE",
+      "page_start": 211,
+      "page_end": 211,
+      "word_count": 53
+    },
+    {
+      "section_id": "32.3",
+      "parent_article": "32",
+      "title": "SAVINGS",
+      "page_start": 211,
+      "page_end": 212,
+      "word_count": 377
+    },
+    {
+      "section_id": "32.4",
+      "parent_article": "32",
+      "title": "RETIREE SUPPLEMENT",
+      "page_start": 212,
+      "page_end": 213,
+      "word_count": 102
+    },
+    {
+      "section_id": "32.5",
+      "parent_article": "32",
+      "title": "TRUST FUND ACCEPTANCE",
+      "page_start": 213,
+      "page_end": null,
+      "word_count": 4592
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "1",
+      "title": "UNION SECURITY ........................................... 1",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 3,
+      "word_count": 0
+    },
+    {
+      "article_number": "2",
+      "title": "HIRING PROCEDURES ................................... 5",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 8,
+      "word_count": 21
+    },
+    {
+      "article_number": "3",
+      "title": "SENIORITY AND LAYOFFS ........................... 9",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 12,
+      "word_count": 3
+    },
+    {
+      "article_number": "4",
+      "title": "DISCHARGE OR SUSPENSION ................... 18",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "5",
+      "title": "DISCRIMINATION ......................................... 18",
+      "page_start": 4,
+      "page_end": 5,
+      "section_count": 4,
+      "word_count": 3
+    },
+    {
+      "article_number": "6",
+      "title": "PROTECTION OF RIGHTS .......................... 19",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 2,
+      "word_count": 0
+    },
+    {
+      "article_number": "7",
+      "title": "GRIEV ANCE PROCEDURE .......................... 19",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 7,
+      "word_count": 15
+    },
+    {
+      "article_number": "8",
+      "title": "LEA VE OF ABSENCE ..................................... 26",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 4,
+      "word_count": 5
+    },
+    {
+      "article_number": "9",
+      "title": "PIGGY BACK ................................................... 28",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "10",
+      "title": "STEWARDS .................................................... 28",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "11",
+      "title": "OPERATING REQUIREMENTS ................. 30",
+      "page_start": 5,
+      "page_end": 5,
+      "section_count": 4,
+      "word_count": 0
+    },
+    {
+      "article_number": "12",
+      "title": "GENERAL PROVISIONS ............................. 32",
+      "page_start": 5,
+      "page_end": 6,
+      "section_count": 9,
+      "word_count": 7
+    },
+    {
+      "article_number": "13",
+      "title": "NEW METHODS ........................................... 35",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "14",
+      "title": "LEASING EQUIPMENT ............................... 36",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "15",
+      "title": "TRANSFER OF COMPANY, TITLE OR",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 3
+    },
+    {
+      "article_number": "16",
+      "title": "HEALTH & WELFARE AND",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 4
+    },
+    {
+      "article_number": "17",
+      "title": "ENTIRE AGREEMENT ................................ 37",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 2,
+      "word_count": 0
+    },
+    {
+      "article_number": "18",
+      "title": "CASUALS AND EXTRA HELPERS ............ 38",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "19",
+      "title": "EMERGENCY REOPENING ....................... 38",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "20",
+      "title": "TERM OF AGREEMENT ............................. 39",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "21",
+      "title": "JOB CLASSIFICATION AND",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 4,
+      "word_count": 5
+    },
+    {
+      "article_number": "22",
+      "title": "HOURS OF WORK ........................................ 42",
+      "page_start": 6,
+      "page_end": 6,
+      "section_count": 5,
+      "word_count": 3
+    },
+    {
+      "article_number": "23",
+      "title": "SICK LEA VE .................................................. 46",
+      "page_start": 6,
+      "page_end": 7,
+      "section_count": 5,
+      "word_count": 7
+    },
+    {
+      "article_number": "24",
+      "title": "HOLIDAYS ..................................................... 47",
+      "page_start": 7,
+      "page_end": 7,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "25",
+      "title": "V ACATIONS ................................................... 49",
+      "page_start": 7,
+      "page_end": 7,
+      "section_count": 9,
+      "word_count": 0
+    },
+    {
+      "article_number": "26",
+      "title": "HEALTH AND WELFARE ........................... 56",
+      "page_start": 7,
+      "page_end": 7,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "27",
+      "title": "PENSIONS ...................................................... 57",
+      "page_start": 7,
+      "page_end": 7,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "28",
+      "title": "LEGAL SERVICES TRUST FUND .............. 58",
+      "page_start": 7,
+      "page_end": 7,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "29",
+      "title": "MISCELLANEOUS PROVISIONS ............. 58",
+      "page_start": 7,
+      "page_end": 8,
+      "section_count": 17,
+      "word_count": 6
+    },
+    {
+      "article_number": "30",
+      "title": "SEPARABILITY AND SA VINGS CLAUSE  .. 65",
+      "page_start": 8,
+      "page_end": 8,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "31",
+      "title": "FEEDER DRIVERS ....................................... 66",
+      "page_start": 8,
+      "page_end": 8,
+      "section_count": 10,
+      "word_count": 4
+    },
+    {
+      "article_number": "32",
+      "title": "UTILITY DRIVERS ...................................... 74",
+      "page_start": 8,
+      "page_end": 8,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "33",
+      "title": "SUPERVISORS WORKING ......................... 74",
+      "page_start": 8,
+      "page_end": 8,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "34",
+      "title": "ADDENDA ...................................................... 75",
+      "page_start": 8,
+      "page_end": 54,
+      "section_count": 0,
+      "word_count": 13926
+    },
+    {
+      "article_number": "37",
+      "title": "Section 1 of the National Master Agreement.",
+      "page_start": 54,
+      "page_end": null,
+      "section_count": 2,
+      "word_count": 49292
+    }
+  ],
+  "key_topics": [
+    "wages",
+    "benefits",
+    "health_and_welfare",
+    "pension",
+    "hours_of_work",
+    "overtime",
+    "seniority",
+    "discipline",
+    "grievance_arbitration",
+    "union_security",
+    "leaves_of_absence",
+    "safety_and_health",
+    "holidays",
+    "vacations",
+    "job_classifications",
+    "supplemental_work",
+    "part_time_employees",
+    "full_time_employees",
+    "feeders",
+    "package_delivery",
+    "air_operations",
+    "mechanics",
+    "general_provisions"
+  ],
+  "wage_parameters": [
+    {
+      "type": "hourly",
+      "value": 44.54,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Package Driver",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.54,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Drivers",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.54,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "Air Shuttle Drivers",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.54,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.29,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.04,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 47.04,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 49.29,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.46,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.21,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.96,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.96,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 49.21,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.01,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.76,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.51,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.51,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 48.76,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 43.53,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.28,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.03,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.03,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 48.28,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.71,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.46,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.21,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 47.21,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 49.46,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.89,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.64,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.39,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 47.39,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 49.64,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.54,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.29,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 48.04,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 50.29,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 16.8,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 17.8,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 18.8,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 19.8,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 20.8,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 23.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 24.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 25.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 30.75,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 43.72,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 44.47,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 45.22,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 46.22,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "top_rate",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "time_parameters": [
+    {
+      "type": "waiting_period",
+      "value": 10,
+      "unit": "working_days",
+      "description": "2) weeks (10 working days) of va-\nc",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 15,
+      "unit": "working_days",
+      "description": "3) weeks (15 working days) of vacat",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 20,
+      "unit": "working_days",
+      "description": "4) weeks (20\nworking days) of vacat",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 25,
+      "unit": "working_days",
+      "description": "5) weeks\n(25 working days) vacation",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 30,
+      "unit": "working_days",
+      "description": "6)\nweeks (30 working days) vacation",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 35,
+      "unit": "working_days",
+      "description": "7) weeks (35 working days) vacation",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 91667,
+      "unit": "days",
+      "description": "asis of 2.91667 days for each",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 13,
+      "unit": "days",
+      "description": "at least 13 days, (in acco",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "benefit_parameters": [
+    {
+      "type": "health_welfare_contribution",
+      "value": 2437.02,
+      "currency": "USD",
+      "unit": "month",
+      "description": "t 1, 2022—$2437.02 per month\nEffective",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 8.65,
+      "currency": "USD",
+      "unit": "month",
+      "description": "amount of $8.65 per month. These mo",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 2790.61,
+      "currency": "USD",
+      "unit": "month",
+      "description": "1, 2022 —$2790.61 per month\nEffective",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 2194.36,
+      "currency": "USD",
+      "unit": "month",
+      "description": "t 1, 2022—$2194.36 per month\nEffective",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 2147.56,
+      "currency": "USD",
+      "unit": "month",
+      "description": "t 1, 2022—$2147.56 per month\nEffective",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 2523.68,
+      "currency": "USD",
+      "unit": "month",
+      "description": "t 1, 2022—$2523.68 per month\nEffective",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 2407.03,
+      "currency": "USD",
+      "unit": "month",
+      "description": "1, 2022 —$2407.03 per month\nEffective",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 1968.68,
+      "currency": "USD",
+      "unit": "month",
+      "description": "1, 2022 —$1968.68 per month\nEffective",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 2333.02,
+      "currency": "USD",
+      "unit": "month",
+      "description": "t 1, 2022—$2333.02 per month\nEffective",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 2686.62,
+      "currency": "USD",
+      "unit": "month",
+      "description": "t 1, 2022—$2686.62 per month\nEffective",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 2055.69,
+      "currency": "USD",
+      "unit": "month",
+      "description": "t 1, 2022—$2055.69 per month\nEffective",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 2433.55,
+      "currency": "USD",
+      "unit": "month",
+      "description": "t 1, 2022—$2433.55 per month\nEffective",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 2303.04,
+      "currency": "USD",
+      "unit": "month",
+      "description": "t 1, 2022—$2303.04 per month\nEffective",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "health_welfare_contribution",
+      "value": 2419.69,
+      "currency": "USD",
+      "unit": "month",
+      "description": "t 1, 2022—$2419.69 per month\nEffective",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "cross_references": [
+    {
+      "from_article": null,
+      "from_section": null,
+      "to_article": "1",
+      "to_section": null
+    },
+    {
+      "from_article": null,
+      "from_section": null,
+      "to_article": "24",
+      "to_section": null
+    },
+    {
+      "from_article": null,
+      "from_section": null,
+      "to_article": "21",
+      "to_section": null
+    }
+  ],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:32.382435+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  },
+  "enrichment_metadata": {
+    "enriched_at": "2026-04-08T23:31:24Z",
+    "enricher": "enrich_entities.py",
+    "sigma_used": 3,
+    "quality_filter": {
+      "extraction_method": "pypdf-tier0",
+      "min_words_per_page": 30,
+      "min_articles_plus_sections": 1
+    }
+  },
+  "wage_value_stats": {
+    "n": 50,
+    "mean": 41.7572,
+    "stdev": 9.7131,
+    "variance": 94.3441,
+    "range_low": 12.6179,
+    "range_high": 70.8965,
+    "sigma_used": 3,
+    "currency": "USD",
+    "unit": "hour"
+  },
+  "benefit_value_stats": {
+    "health_welfare_contribution": {
+      "n": 14,
+      "mean": 2193.5143,
+      "stdev": 667.8951,
+      "variance": 446083.9002,
+      "range_low": 189.8289,
+      "range_high": 4197.1997,
+      "sigma_used": 3,
+      "currency": "USD",
+      "unit": "month"
+    }
+  }
+}

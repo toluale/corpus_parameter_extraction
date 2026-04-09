@@ -1,0 +1,424 @@
+{
+  "document_id": "59dbeaf86aac77f1",
+  "source_file": "13124UPSLOCAL89LOUISVILLEAIRRIDER.pdf",
+  "document_type": "Rider",
+  "title": "UNITED PARCEL SERVICE",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": null,
+    "geographic_region": "Central Region"
+  },
+  "effective_date": "July 31, 1997",
+  "expiration_date": "July 31, 2028",
+  "contract_duration_days": 11323,
+  "page_count": 51,
+  "word_count": 13259,
+  "headers": [
+    {
+      "text": "UNITED PARCEL SERVICE",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Article I: SENIORITY",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section C: After obtaining seniority, pre-seniority missorts and attendance oc-",
+      "page": 5,
+      "level": 3
+    },
+    {
+      "text": "Article II: WORK WEEK",
+      "page": 5,
+      "level": 2
+    },
+    {
+      "text": "Section C: Should a need develop in the Air operation due to a one (1) or two (2)",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Section D: Part-time employees shall be entitled to a three and one half (3 1/2)",
+      "page": 6,
+      "level": 3
+    },
+    {
+      "text": "Article III: WORK ASSIGNMENTS",
+      "page": 8,
+      "level": 2
+    },
+    {
+      "text": "Article 6: Sections 3 and 4 of the National Master Agreement as",
+      "page": 9,
+      "level": 2
+    },
+    {
+      "text": "Section C: Daily extra work, including overtime, shall be offered in seniority",
+      "page": 11,
+      "level": 3
+    },
+    {
+      "text": "Section D: For the de-ice operation, the Company may use, among others, the",
+      "page": 11,
+      "level": 3
+    },
+    {
+      "text": "Article IV: FULL TIME POSITIONS",
+      "page": 14,
+      "level": 2
+    },
+    {
+      "text": "Section C: Full-time employees may be awarded two bids per year (including",
+      "page": 14,
+      "level": 3
+    },
+    {
+      "text": "Section D: A newly promoted full-time employee must stay in their original",
+      "page": 15,
+      "level": 3
+    },
+    {
+      "text": "Section I: The Company shall create three hundred (300) full time jobs over",
+      "page": 18,
+      "level": 3
+    },
+    {
+      "text": "Article V: HEALTH AND WELFARE",
+      "page": 18,
+      "level": 2
+    },
+    {
+      "text": "Section C: Notwithstanding any provisions in the National Master Agreement",
+      "page": 19,
+      "level": 3
+    },
+    {
+      "text": "Article VI: VACATION",
+      "page": 19,
+      "level": 2
+    },
+    {
+      "text": "Section C: Effective December 26, 1990 all employees who meet the eligibil-",
+      "page": 20,
+      "level": 3
+    },
+    {
+      "text": "Section D: In addition to the above schedule any employee hired after ratifica-",
+      "page": 21,
+      "level": 3
+    },
+    {
+      "text": "Section I: Cartage, Porter Helpers, and AMDC employees shall be allowed to",
+      "page": 27,
+      "level": 3
+    },
+    {
+      "text": "Article VII: WAGES",
+      "page": 27,
+      "level": 2
+    },
+    {
+      "text": "Article VIII: SIX HOUR JOBS",
+      "page": 28,
+      "level": 2
+    },
+    {
+      "text": "Section C: The Employer will be responsible for funding the UPS Pension",
+      "page": 31,
+      "level": 3
+    },
+    {
+      "text": "Section D: The improved benefit formula provided pursuant to this Section",
+      "page": 31,
+      "level": 3
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "I.C",
+      "parent_article": "I",
+      "title": "After obtaining seniority, pre-seniority missorts and attendance oc-",
+      "page_start": 5,
+      "page_end": 6,
+      "word_count": 420
+    },
+    {
+      "section_id": "II.C",
+      "parent_article": "II",
+      "title": "Should a need develop in the Air operation due to a one (1) or two (2)",
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 53
+    },
+    {
+      "section_id": "II.D",
+      "parent_article": "II",
+      "title": "Part-time employees shall be entitled to a three and one half (3 1/2)",
+      "page_start": 6,
+      "page_end": 11,
+      "word_count": 1307
+    },
+    {
+      "section_id": "6.C",
+      "parent_article": "6",
+      "title": "Daily extra work, including overtime, shall be offered in seniority",
+      "page_start": 11,
+      "page_end": 11,
+      "word_count": 173
+    },
+    {
+      "section_id": "6.D",
+      "parent_article": "6",
+      "title": "For the de-ice operation, the Company may use, among others, the",
+      "page_start": 11,
+      "page_end": 14,
+      "word_count": 971
+    },
+    {
+      "section_id": "IV.C",
+      "parent_article": "IV",
+      "title": "Full-time employees may be awarded two bids per year (including",
+      "page_start": 14,
+      "page_end": 15,
+      "word_count": 257
+    },
+    {
+      "section_id": "IV.D",
+      "parent_article": "IV",
+      "title": "A newly promoted full-time employee must stay in their original",
+      "page_start": 15,
+      "page_end": 18,
+      "word_count": 986
+    },
+    {
+      "section_id": "IV.I",
+      "parent_article": "IV",
+      "title": "The Company shall create three hundred (300) full time jobs over",
+      "page_start": 18,
+      "page_end": 19,
+      "word_count": 367
+    },
+    {
+      "section_id": "V.C",
+      "parent_article": "V",
+      "title": "Notwithstanding any provisions in the National Master Agreement",
+      "page_start": 19,
+      "page_end": 20,
+      "word_count": 177
+    },
+    {
+      "section_id": "VI.C",
+      "parent_article": "VI",
+      "title": "Effective December 26, 1990 all employees who meet the eligibil-",
+      "page_start": 20,
+      "page_end": 21,
+      "word_count": 364
+    },
+    {
+      "section_id": "VI.D",
+      "parent_article": "VI",
+      "title": "In addition to the above schedule any employee hired after ratifica-",
+      "page_start": 21,
+      "page_end": 27,
+      "word_count": 1861
+    },
+    {
+      "section_id": "VI.I",
+      "parent_article": "VI",
+      "title": "Cartage, Porter Helpers, and AMDC employees shall be allowed to",
+      "page_start": 27,
+      "page_end": 31,
+      "word_count": 1245
+    },
+    {
+      "section_id": "VIII.C",
+      "parent_article": "VIII",
+      "title": "The Employer will be responsible for funding the UPS Pension",
+      "page_start": 31,
+      "page_end": 31,
+      "word_count": 27
+    },
+    {
+      "section_id": "VIII.D",
+      "parent_article": "VIII",
+      "title": "The improved benefit formula provided pursuant to this Section",
+      "page_start": 31,
+      "page_end": null,
+      "word_count": 4698
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "I",
+      "title": "SENIORITY",
+      "page_start": 4,
+      "page_end": 5,
+      "section_count": 1,
+      "word_count": 100
+    },
+    {
+      "article_number": "II",
+      "title": "WORK WEEK",
+      "page_start": 5,
+      "page_end": 8,
+      "section_count": 2,
+      "word_count": 976
+    },
+    {
+      "article_number": "III",
+      "title": "WORK ASSIGNMENTS",
+      "page_start": 8,
+      "page_end": 9,
+      "section_count": 0,
+      "word_count": 158
+    },
+    {
+      "article_number": "6",
+      "title": "Sections 3 and 4 of the National Master Agreement as",
+      "page_start": 9,
+      "page_end": 14,
+      "section_count": 2,
+      "word_count": 1556
+    },
+    {
+      "article_number": "IV",
+      "title": "FULL TIME POSITIONS",
+      "page_start": 14,
+      "page_end": 18,
+      "section_count": 3,
+      "word_count": 1620
+    },
+    {
+      "article_number": "V",
+      "title": "HEALTH AND WELFARE",
+      "page_start": 18,
+      "page_end": 19,
+      "section_count": 1,
+      "word_count": 305
+    },
+    {
+      "article_number": "VI",
+      "title": "VACATION",
+      "page_start": 19,
+      "page_end": 27,
+      "section_count": 3,
+      "word_count": 2368
+    },
+    {
+      "article_number": "VII",
+      "title": "WAGES",
+      "page_start": 27,
+      "page_end": 28,
+      "section_count": 0,
+      "word_count": 54
+    },
+    {
+      "article_number": "VIII",
+      "title": "SIX HOUR JOBS",
+      "page_start": 28,
+      "page_end": null,
+      "section_count": 2,
+      "word_count": 5849
+    }
+  ],
+  "key_topics": [
+    "wages",
+    "benefits",
+    "health_and_welfare",
+    "pension",
+    "hours_of_work",
+    "overtime",
+    "seniority",
+    "discipline",
+    "grievance_arbitration",
+    "safety_and_health",
+    "holidays",
+    "vacations",
+    "job_classifications",
+    "supplemental_work",
+    "part_time_employees",
+    "full_time_employees",
+    "feeders",
+    "cartage",
+    "mechanics"
+  ],
+  "wage_parameters": [],
+  "time_parameters": [
+    {
+      "type": "waiting_period",
+      "value": 30,
+      "unit": "days",
+      "description": "qualify (30 days).\nAlso, a",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 18,
+      "unit": "months",
+      "description": "period of 18 months.\nEmployee",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 3,
+      "unit": "weeks",
+      "description": "yees with 3 weeks or more e",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 90,
+      "unit": "days",
+      "description": "Effective 90 days after the",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "grievance_step_limit",
+      "value": 30,
+      "unit": "days",
+      "description": "ater\nthan 30 days from repo",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "notice_period",
+      "value": 3,
+      "unit": "weeks",
+      "description": "yee gives 3 weeks notice, and prov",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "benefit_parameters": [],
+  "cross_references": [],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:22.044020+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  },
+  "enrichment_metadata": {
+    "enriched_at": "2026-04-08T23:31:24Z",
+    "enricher": "enrich_entities.py",
+    "sigma_used": 3,
+    "quality_filter": {
+      "extraction_method": "pypdf-tier0",
+      "min_words_per_page": 30,
+      "min_articles_plus_sections": 1
+    }
+  }
+}

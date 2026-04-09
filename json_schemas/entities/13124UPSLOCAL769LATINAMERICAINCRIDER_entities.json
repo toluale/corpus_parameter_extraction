@@ -1,0 +1,688 @@
+{
+  "document_id": "aa0b5290546672b3",
+  "source_file": "13124UPSLOCAL769LATINAMERICAINCRIDER.pdf",
+  "document_type": "Rider",
+  "title": "UPS LATIN AMERICA, INC.",
+  "parties": {
+    "employer": "United Parcel Service (UPS)",
+    "union": "International Brotherhood of Teamsters (IBT)",
+    "local_number": "769",
+    "geographic_region": "Latin America"
+  },
+  "effective_date": null,
+  "expiration_date": null,
+  "contract_duration_days": null,
+  "page_count": 51,
+  "word_count": 14186,
+  "headers": [
+    {
+      "text": "UPS LATIN AMERICA, INC.",
+      "page": 1,
+      "level": 1
+    },
+    {
+      "text": "Article 1: Union Recognition and Scope of Agreement .............1",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 2: Definitions ...................................................................2",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 3: Hours of Service ..........................................................3",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 4: Probationary Employees .............................................3",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 5: Discipline and Discharge ............................................4",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 6: Grievances/System Board of Adjustment ...................6",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 7: Seniority—Layoff & Recall ...................................... 11",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 8: Wages—Holidays ......................................................18",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 9: Call-In Pay and Pay Period .......................................22",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 10: Vacations ...................................................................22",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 11: Uniforms ...................................................................24",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 12: Equipment, Accidents, Etc. ...................................... 24",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 13: Conflicting Agreements ............................................25",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 14: Posting of Agreement ................................................25",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 15: Managerial Employee’s Duties .................................25",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 16: Management Rights ...................................................26",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 17: Picket Lines ...............................................................28",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 18: No Strike—No Lockout ............................................ 28",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 19: Health and Welfare ....................................................29",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 20: Pensions ....................................................................30",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 21: Maintenance of Standards .........................................31",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 22: Leaves of Absence .....................................................31",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 23: Successorship ............................................................32",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 24: Union dues—Check-off .............................................33",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 25: Union Security...........................................................33",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 26: Funeral Leave/Celebration of Life ............................37",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 27: Bulletin Boards ..........................................................37",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 28: Union Representatives ...............................................38",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 29: Stewards.....................................................................39",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 30: Physical Examinations ............................................. 40",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 31: Miscellaneous ........................................................... 40",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 32: Non-Discrimination ................................................. 40",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 33: Relief Cover Employees ............................................41",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 34: Employee Relations ...................................................42",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Article 35: Duration .....................................................................43",
+      "page": 4,
+      "level": 2
+    },
+    {
+      "text": "Section C: Overtime",
+      "page": 20,
+      "level": 3
+    },
+    {
+      "text": "Section C: Holidays",
+      "page": 25,
+      "level": 3
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "7.C",
+      "parent_article": "7",
+      "title": "Overtime",
+      "page_start": 20,
+      "page_end": 25,
+      "word_count": 1564
+    },
+    {
+      "section_id": "8.C",
+      "parent_article": "8",
+      "title": "Holidays",
+      "page_start": 25,
+      "page_end": null,
+      "word_count": 7594
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "1",
+      "title": "Union Recognition and Scope of Agreement .............1",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "2",
+      "title": "Definitions ...................................................................2",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "3",
+      "title": "Hours of Service ..........................................................3",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "4",
+      "title": "Probationary Employees .............................................3",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "5",
+      "title": "Discipline and Discharge ............................................4",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "6",
+      "title": "Grievances/System Board of Adjustment ...................6",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "7",
+      "title": "Seniority—Layoff & Recall ...................................... 11",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "8",
+      "title": "Wages—Holidays ......................................................18",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "9",
+      "title": "Call-In Pay and Pay Period .......................................22",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "10",
+      "title": "Vacations ...................................................................22",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "11",
+      "title": "Uniforms ...................................................................24",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "12",
+      "title": "Equipment, Accidents, Etc. ...................................... 24",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "13",
+      "title": "Conflicting Agreements ............................................25",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "14",
+      "title": "Posting of Agreement ................................................25",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "15",
+      "title": "Managerial Employee’s Duties .................................25",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "16",
+      "title": "Management Rights ...................................................26",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "17",
+      "title": "Picket Lines ...............................................................28",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "18",
+      "title": "No Strike—No Lockout ............................................ 28",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "19",
+      "title": "Health and Welfare ....................................................29",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "20",
+      "title": "Pensions ....................................................................30",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "21",
+      "title": "Maintenance of Standards .........................................31",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "22",
+      "title": "Leaves of Absence .....................................................31",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "23",
+      "title": "Successorship ............................................................32",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "24",
+      "title": "Union dues—Check-off .............................................33",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "25",
+      "title": "Union Security...........................................................33",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "26",
+      "title": "Funeral Leave/Celebration of Life ............................37",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "27",
+      "title": "Bulletin Boards ..........................................................37",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "28",
+      "title": "Union Representatives ...............................................38",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "29",
+      "title": "Stewards.....................................................................39",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "30",
+      "title": "Physical Examinations ............................................. 40",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "31",
+      "title": "Miscellaneous ........................................................... 40",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "32",
+      "title": "Non-Discrimination ................................................. 40",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "33",
+      "title": "Relief Cover Employees ............................................41",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "34",
+      "title": "Employee Relations ...................................................42",
+      "page_start": 4,
+      "page_end": 4,
+      "section_count": 0,
+      "word_count": 0
+    },
+    {
+      "article_number": "35",
+      "title": "Duration .....................................................................43",
+      "page_start": 4,
+      "page_end": null,
+      "section_count": 0,
+      "word_count": 13846
+    }
+  ],
+  "key_topics": [
+    "wages",
+    "benefits",
+    "health_and_welfare",
+    "pension",
+    "overtime",
+    "seniority",
+    "discipline",
+    "grievance_arbitration",
+    "union_security",
+    "management_rights",
+    "leaves_of_absence",
+    "safety_and_health",
+    "holidays",
+    "vacations",
+    "job_classifications",
+    "supplemental_work",
+    "subcontracting",
+    "full_time_employees",
+    "air_operations"
+  ],
+  "wage_parameters": [
+    {
+      "type": "hourly",
+      "value": 15.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 15.5,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "start",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 17.75,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "seniority",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 20.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "seniority",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "hourly",
+      "value": 24.0,
+      "currency": "USD",
+      "unit": "hour",
+      "classification": "schedule_rate",
+      "progression_step": "seniority",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "time_parameters": [
+    {
+      "type": "waiting_period",
+      "value": 30,
+      "unit": "days",
+      "description": "ne within 30 days following",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 12,
+      "unit": "months",
+      "description": "rity plus 12 Months\n$17.75 Se",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 24,
+      "unit": "months",
+      "description": "rity plus 24 Months\n$20.00 Se",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 36,
+      "unit": "months",
+      "description": "rity plus 36 Months\n$24.00 Se",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 48,
+      "unit": "months",
+      "description": "rity plus 48 Months\nAfter twe",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "notice_period",
+      "value": 90,
+      "unit": "days",
+      "description": "the union 90 days calendar",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 10,
+      "unit": "working_days",
+      "description": "nd within 10 working days, the Com-",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "waiting_period",
+      "value": 5,
+      "unit": "days",
+      "description": "less\nthan 5 days per week",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "grievance_step_limit",
+      "value": 30,
+      "unit": "days",
+      "description": "l be done within 30 days following",
+      "article": null,
+      "section": null,
+      "page": null
+    },
+    {
+      "type": "grievance_step_limit",
+      "value": 10,
+      "unit": "working_days",
+      "description": "quest and within 10 working days, the Com-",
+      "article": null,
+      "section": null,
+      "page": null
+    }
+  ],
+  "benefit_parameters": [],
+  "cross_references": [],
+  "extraction_method": "pypdf-tier0",
+  "extraction_metadata": {
+    "extracted_at": "2026-04-08T23:13:21.691891+00:00",
+    "extractor_version": "2.1.0",
+    "schema_version": "v2",
+    "extraction_notes": []
+  }
+}

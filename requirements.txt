@@ -1,0 +1,3 @@
+pdfminer.six>=20221105
+pdfplumber>=0.11.0
+# PyMuPDF>=1.24.0  # Optional: AGPL-3.0; use only as Tier 3 fallback for CID-font documents
