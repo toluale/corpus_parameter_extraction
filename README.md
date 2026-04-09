@@ -1,5 +1,5 @@
 ---
-title: UPS Labor Contract Extraction Pipeline
+title: Labor Contract Extraction Pipeline
 description: >
   Documents the extraction pipeline, enrichment process, and artifact
   inventory for the UPS Labor Contracts synthetic data generation project.
